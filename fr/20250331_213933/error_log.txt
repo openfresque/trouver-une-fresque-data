@@ -1,0 +1,409 @@
+2025-03-31 21:39:40,196 - ERROR - get_address: Address not found (input: TLM - Un tiers lieu à Montréal, 5031 rue Saint-Denis, H2J 2L9 Montréal QC).
+2025-03-31 21:39:42,830 - ERROR - get_address: Address not found (input: Alliance Française de Madrid, Cuesta de Santo Domingo, 13, 28013 Madrid, España).
+2025-03-31 21:39:49,523 - ERROR - get_address: Address not found (input: Espace Mouneyra, 118 Rue Mouneyra, 33000 Bordeaux, France).
+2025-03-31 21:39:50,820 - ERROR - get_address: Address not found (input: Lieu exact à venir, 33000 Bordeaux, France).
+2025-03-31 21:40:06,961 - ERROR - get_address: Address not found (input: Pôle culturel L'Étincelle, 55 Av. de la Grande Bégude, 13770 Venelles, France).
+2025-03-31 21:40:07,870 - ERROR - get_address: Address not found (input: MJC Jacques Prévert, 24 Boulevard de la République, 13100 Aix-en-Provence, France).
+2025-03-31 21:40:37,458 - ERROR - get_address: Address not found (input: Foyer Rural de Gragnague, Place Bellegarde, Gragnague, France).
+2025-03-31 21:40:44,078 - ERROR - get_address: Address not found (input: Melting Coop, 229 Cr Emile Zola, 69100 Villeurbanne, France).
+2025-03-31 21:40:45,041 - ERROR - get_address: Address not found (input: MOB HOTEL Lyon Confluence, 55 Quai Rambaud, 69002 Lyon, France).
+2025-03-31 21:40:46,781 - ERROR - get_address: Address not found (input: La Bagarre Taproom, Rue de Tamines 2, 1060 Saint-Gilles, Belgique).
+2025-03-31 21:40:51,991 - ERROR - get_address: Address not found (input: Salle du Grand Pic, Bâtiment Belledone, 351 chemin de l'Église - 38330 Saint-Ismier).
+2025-03-31 21:40:52,415 - ERROR - get_address: Address not found (input: Résidence Maison Des Etudiants, 6 Place Pasteur, Grenoble, France).
+2025-03-31 21:40:54,884 - ERROR - get_address: Address not found (input: ENFIN! Réemploi, 88 rue du Docteur Vernier, 73000 Chambéry).
+2025-03-31 21:41:06,892 - ERROR - get_address: Address not found (input: Maison De L'environnement, Hyères, 17 Rue Ernest Reyer, 83400 Hyères, France).
+2025-03-31 21:41:10,335 - ERROR - get_address: Address not found (input: Poitiers Jeunes, 49 Rue de la Cathédrale, 86000 Poitiers, France).
+2025-03-31 21:41:23,030 - ERROR - get_address: Address "{'house_number': '64', 'road': 'Rue du Doyenné - Dekenijstraat', 'neighbourhood': 'Globe', 'town': 'Uccle - Ukkel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1180', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue du Doyenné 64, 1180 Uccle, Belgique).
+2025-03-31 21:41:24,382 - ERROR - get_address: Address not found (input: Bibliothèque publique A. Henin - A. Sodenkamp, Rue des Oies 1a/2a, 5030 Gembloux).
+2025-03-31 21:41:25,485 - ERROR - get_address: Address not found (input: La Bagarre Taproom, Rue de Tamines 2, 1060 Saint-Gilles, Belgique).
+2025-03-31 21:41:32,675 - ERROR - get_address: Address not found (input: ODDAS, 25 rue des Cordiers, 85200 Fontenay-le-Compte, France).
+2025-03-31 21:41:33,715 - ERROR - get_address: Address not found (input: La Bagarre Taproom, Rue de Tamines 2, 1060 Saint-Gilles, Belgique).
+2025-03-31 21:41:38,266 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2025-03-31 21:41:39,816 - ERROR - get_address: Address "{'village': 'Gâvres', 'municipality': 'Lorient', 'county': 'Morbihan', 'ISO3166-2-lvl6': 'FR-56', 'state': 'Bretagne', 'ISO3166-2-lvl4': 'FR-BRE', 'region': 'France métropolitaine', 'postcode': '56680', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Gâvres, France).
+2025-03-31 21:41:43,061 - ERROR - get_address: Address not found (input: Résidence Maison Des Etudiants, 6 Place Pasteur, 38000 Grenoble, France).
+2025-03-31 21:41:46,047 - ERROR - get_address: Address not found (input: Jeu de Paume Rennes, Rue Saint-Louis, Rennes, France).
+2025-03-31 21:41:49,403 - ERROR - get_address: Address not found (input: Le Prisme, salle Plate du Golfe, Place Albert Einstein, Vannes, France).
+2025-03-31 21:41:51,129 - ERROR - get_address: Address not found (input: Péniche L'ile Ô - Berge Bertha Von, Ber Bertha Von Suttner, 69007 Lyon).
+2025-03-31 21:41:52,595 - ERROR - get_address: Address not found (input: Parc du Thabor, Place Saint-Mélaine, Rennes, France).
+2025-03-31 21:42:01,645 - ERROR - get_address: Address not found (input: ).
+2025-03-31 21:42:03,207 - ERROR - get_address: Address not found (input: Recyclerie de l'Ariane, Boulevard de l'Ariane, Nice, France).
+2025-03-31 21:42:07,723 - ERROR - get_address: Address not found (input: Villette Makerz, Galerie de la Villette, Paris, France).
+2025-03-31 21:42:09,147 - ERROR - get_address: Address not found (input: Villette Makerz, Galerie de la Villette, Paris, France).
+2025-03-31 21:42:25,880 - ERROR - get_address: Address not found (input: Brasserie Kooma, Îlot central de la, Rue de la Manufacture des Tabacs, Strasbourg, F).
+2025-03-31 21:42:25,882 - ERROR - get_address: Address not found (input: Brasserie Kooma, Îlot central de la, Rue de la Manufacture des Tabacs, Strasbourg, F).
+2025-03-31 21:42:25,884 - ERROR - get_address: Address not found (input: Brasserie Kooma, Îlot central de la, Rue de la Manufacture des Tabacs, Strasbourg, F).
+2025-03-31 21:42:35,887 - ERROR - get_address: Address not found (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-03-31 21:42:36,783 - ERROR - get_address: Address not found (input: Bibliothèque publique A. Henin - A. Sodenkamp, Rue des Oies 1a/2a, 5030 Gembloux, Be).
+2025-03-31 21:42:36,785 - ERROR - get_address: Address not found (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-03-31 21:42:36,787 - ERROR - get_address: Address not found (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-03-31 21:42:36,788 - ERROR - get_address: Address not found (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-03-31 21:42:36,791 - ERROR - get_address: Address not found (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-03-31 21:42:36,794 - ERROR - get_address: Address not found (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-03-31 21:42:41,734 - ERROR - get_address: Address not found (input: Pôle culturel L'Étincelle, Avenue de la Grande Bégude, Venelles, France).
+2025-03-31 21:42:43,737 - ERROR - get_address: Address not found (input: Muséum d'histoire naturelle de la Ville de Marseille, Palais Longchamp, Rue Espéran).
+2025-03-31 21:42:51,756 - ERROR - get_address: Address not found (input: Instituto Frances de Chile, Francisco Noguera 176, Providencia CHILE).
+2025-03-31 21:43:08,754 - ERROR - get_address: Address "{'shop': 'Roufet.com', 'house_number': '56', 'road': 'Calle de Ferraz', 'quarter': 'Argüelles', 'suburb': 'Moncloa-Aravaca', 'city': 'Madrid', 'state': 'Comunidad de Madrid', 'ISO3166-2-lvl4': 'ES-MD', 'postcode': '28008', 'country': 'España', 'country_code': 'es'}" is not located in a supported country (input: C. de Ferraz, 56, Moncloa - Aravaca, 28008 Madrid).
+2025-03-31 21:43:18,394 - ERROR - get_address: Address not found (input: L'Objethèque de Cornouaille, 69 Vieille Route de Rosporden, 29000 Quimper, France).
+2025-03-31 21:43:19,419 - ERROR - get_address: Address not found (input: l'Agora, 3 venelle de Ty Bras, 29170 Saint-Evarzec).
+2025-03-31 21:43:26,761 - ERROR - get_address: Address not found (input: 10 Rue des Demoiselles Dallet, 33350 Doulezon).
+2025-03-31 21:43:33,765 - ERROR - get_address: Address not found (input: Salle de l’Accent - Allée Antoine Candela - Montrabé 31850).
+2025-03-31 21:43:34,610 - ERROR - get_address: Address not found (input: Le Grenier, Avenue de Toulouse, Castanet-Tolosan, France).
+2025-03-31 21:43:39,274 - ERROR - get_address: Address not found (input: Salle de Musique, Jardin du presbytère, 74290 Veyrier-du-Lac).
+2025-03-31 21:43:48,035 - ERROR - get_address: Address "{'park': 'Parc de la Maison Blanche', 'town': 'Clamart', 'municipality': 'Antony', 'county': 'Hauts-de-Seine', 'ISO3166-2-lvl6': 'FR-92', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '92140', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Parc de la Maison Blanche, 92140 Clamart).
+2025-03-31 21:43:49,271 - ERROR - get_address: Address not found (input: 90 Espl. du Général de Gaulle, 92400 Courbevoie).
+2025-03-31 21:43:55,775 - ERROR - get_address: Address not found (input: Le Cârouj - 38 All. du Closel - 35160 Monterfil).
+2025-03-31 21:44:00,800 - ERROR - get_address: Address not found (input: Le Minimistan, Rue des Minimes, Grenoble, France).
+2025-03-31 21:44:02,184 - ERROR - get_address: Address not found (input: Du papier à l'arbre - 89 rue de la République - 38260 La Côte-Saint-André).
+2025-03-31 21:44:02,189 - ERROR - get_address: Address not found (input: Du papier à l'arbre - 89 rue de la République - 38260 La Côte-Saint-André).
+2025-03-31 21:44:12,947 - ERROR - get_address: Address not found (input: La Maison du Lac de Grand-Lieu, rue du Lac, 44340 BOUAYE).
+2025-03-31 21:44:18,284 - ERROR - get_address: Address not found (input: MOBE - Muséum d'Orléans pour la Biodiversité et l'Environnement, 6 Rue Marcel Prou).
+2025-03-31 21:44:18,287 - ERROR - get_address: Address not found (input: MOBE - Muséum d'Orléans pour la Biodiversité et l'Environnement, 6 Rue Marcel Prou).
+2025-03-31 21:44:18,288 - ERROR - get_address: Address not found (input: MOBE - Muséum d'Orléans pour la Biodiversité et l'Environnement, 6 Rue Marcel Prou).
+2025-03-31 21:44:26,195 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2025-03-31 21:44:59,477 - ERROR - get_address: Address not found (input: Libraire Associative « Utopia », 1 rue Frédéric Sauton, Paris 5e).
+2025-03-31 21:45:01,716 - ERROR - get_address: Address not found (input: Maison Saint Michel - 3 place Saint Jean - 75017 Paris).
+2025-03-31 21:45:02,282 - ERROR - get_address: Address not found (input: Espace Art Contemporain Frans Kracjberg, 21 Avenue du Maine, Paris, France).
+2025-03-31 21:45:02,312 - ERROR - get_address: Address not found (input: Espace Art Contemporain Frans Kracjberg, 21 Avenue du Maine, Paris, France).
+2025-03-31 21:45:02,313 - ERROR - get_address: Address not found (input: Libraire Associative « Utopia », 1 rue Frédéric Sauton, Paris 5e).
+2025-03-31 21:45:16,535 - ERROR - get_address: Address not found (input: Imhotep, Rue Saint-Georges, Lyon, France).
+2025-03-31 21:45:18,958 - ERROR - get_address: Address not found (input: Maison de l'Environnement de la Métropole de Lyon, 14 Avenue Tony Garnier, 69007 Lyo).
+2025-03-31 21:45:18,959 - ERROR - get_address: Address not found (input: Imhotep, Rue Saint-Georges, Lyon, France).
+2025-03-31 21:45:18,963 - ERROR - get_address: Address not found (input: Maison de l'Environnement de la Métropole de Lyon, 14 Avenue Tony Garnier, 69007 Lyo).
+2025-03-31 21:45:18,963 - ERROR - get_address: Address not found (input: Imhotep, Rue Saint-Georges, Lyon, France).
+2025-03-31 21:45:18,968 - ERROR - get_address: Address not found (input: Maison de l'Environnement de la Métropole de Lyon, 14 Avenue Tony Garnier, 69007 Lyo).
+2025-03-31 21:45:18,970 - ERROR - get_address: Address not found (input: Maison de l'Environnement de la Métropole de Lyon, 14 Avenue Tony Garnier, 69007 Lyo).
+2025-03-31 21:45:23,826 - ERROR - get_address: Address not found (input: Restaurant Amarante, au coeur du Conservatoire du Jardin Botanique à Genève Chemin).
+2025-03-31 21:45:29,676 - ERROR - get_address: Address not found (input: Hôtel Almanarre Plage - Hôtel éco-responsable, Route de l'Almanarre, Hyères, Fran).
+2025-03-31 21:45:32,533 - ERROR - get_address: Address not found (input: Centre social de l'ODDAS, 25 rue des Cordiers, 85200 FONTENAY-LE-COMTE).
+2025-03-31 21:45:36,278 - ERROR - get_address: Address not found (input: Salle Jamart, 24 Rue du Mesnil, 78600 Maisons-Laffitte).
+2025-03-31 21:45:43,500 - ERROR - get_address: Address not found (input: Salles des mariages Mairie du 17è 16-20 rue des Batignolles 75017 PARIS).
+2025-03-31 21:45:45,374 - ERROR - get_address: Address not found (input: Wiki village, 8 rue de Srebrenica, 75020 PARIS).
+2025-03-31 21:46:06,965 - ERROR - get_address: Address not found (input: Maison Pour Tous de Ville-d'Avray, Place Charles de Gaulle, Ville-d'Avray, France).
+2025-03-31 21:46:10,834 - ERROR - get_address: Address not found (input: Maison Pour Tous de Ville-d'Avray, Place Charles de Gaulle, 92410 Ville-d'Avray, Fran).
+2025-03-31 21:46:24,764 - ERROR - get_address: Address not found (input: ).
+2025-03-31 21:46:28,596 - ERROR - get_address: Address not found (input: Akelarre Café, Rue Pontrique, Bayonne, France).
+2025-03-31 21:46:44,455 - ERROR - get_address: Address not found (input: TUBÀ, Boulevard Marius Vivier Merle, Lyon, France).
+2025-03-31 21:46:44,456 - ERROR - get_address: Address not found (input: TUBÀ, Boulevard Marius Vivier Merle, Lyon, France).
+2025-03-31 21:46:44,457 - ERROR - get_address: Address not found (input: TUBÀ, Boulevard Marius Vivier Merle, Lyon, France).
+2025-03-31 21:46:47,137 - ERROR - get_address: Address not found (input: La Bulle en Bois café-cantine, Rue Alexandre Fleming, Angers, France).
+2025-03-31 21:46:50,778 - ERROR - get_address: Address not found (input: Open Lande - Entreprises et territoires, Rue de l'Île Mabon, Nantes, France).
+2025-03-31 21:46:51,754 - ERROR - get_address: Address not found (input: Amicale Laïque des Marsauderies, Rue de Koufra, Nantes, France).
+2025-03-31 21:47:08,972 - ERROR - get_address: Address not found (input: La Maison du Grenier 2 rue George Sand 31170 Tournefeuille).
+2025-03-31 21:47:12,610 - ERROR - get_address: Address not found (input: ).
+2025-03-31 21:47:24,217 - ERROR - get_address: Address not found (input: La Palanquée - Tiers-lieu citoyen du bassin de Thau, Rue Gabriel Péri, Sète, Franc).
+2025-03-31 21:47:34,105 - ERROR - get_address: Address not found (input: Open Lande - Entreprises et territoires, Rue de l'Île Mabon, Nantes, France).
+2025-03-31 21:47:38,560 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, Place Albert Einstein, Vannes).
+2025-03-31 21:47:38,562 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, Place Albert Einstein, Vannes).
+2025-03-31 21:47:49,504 - ERROR - get_address: Address not found (input: Library Club, University of Economics, nám. Winstona Churchilla 1938/4, Praha).
+2025-03-31 21:47:56,067 - ERROR - get_address: Address not found (input: La Bouture, 11 Presqu'île André-Malraux, 67100 Strasbourg).
+2025-03-31 21:47:58,504 - ERROR - get_address: Address not found (input: Maison ECO, 10 avenue Desclaux, 33370 Artigues-près-Bordeaux).
+2025-03-31 21:48:03,483 - ERROR - get_address: Address not found (input: Café Loco Maison de quartier, 109 gare de st-joseph, 44300 Nantes).
+2025-03-31 21:48:05,796 - ERROR - get_address: Address not found (input: Garderie, 66 Chemin des Écoliers, 38960 Saint-Étienne-de-Crossey).
+2025-03-31 21:48:12,044 - ERROR - get_address: Address not found (input: Salle Pinkus, Maison Taraud, 10 place de la Paix, 45200 AMILLY).
+2025-03-31 21:48:18,460 - ERROR - get_address: Address not found (input: Maison Rêvée, Rue Louis Blériot, Centre de tri de déchets, 33130 Bègles).
+2025-03-31 21:48:33,036 - ERROR - get_address: Address not found (input: Le Jardin aux Dragons, 21 Route du Coin de la Noé, Saint-André-des-Eaux, France).
+2025-03-31 21:48:34,834 - ERROR - get_address: Address not found (input: 2 L'aut Côté, Rue Saint-Pierre 10, 7700 Mouscron, Belgium).
+2025-03-31 21:48:43,381 - ERROR - get_address: Address not found (input: Kooma Brasserie, Cour des Cigarières, Strasbourg, France).
+2025-03-31 21:48:50,821 - ERROR - get_address: Address not found (input: Kooma Brasserie, Cour des Cigarières, Strasbourg, France).
+2025-03-31 21:48:57,186 - ERROR - get_address: Address not found (input: Immeuble Armen 2 impasse Charles Trenet 44 803 SAINT-HERBLAIN).
+2025-03-31 21:49:04,207 - ERROR - get_address: Address not found (input: ENFIN! RÉEMPLOI, 88 Rue Dr Vernier, 73000 Chambéry, France).
+2025-03-31 21:49:12,381 - ERROR - get_address: Address not found (input: Akelarre Café, 4 Rue Pontrique, Bayonne - Non accessible aux PMR).
+2025-03-31 21:49:32,981 - ERROR - get_address: Address not found (input: Le Grand Bain, 20 Allée de la Maison Rouge, Nantes - Accessible aux PMR).
+2025-03-31 21:49:33,000 - ERROR - get_address: Address not found (input: Le Grand Bain, 20 Allée de la Maison Rouge, Nantes - Accessible aux PMR).
+2025-03-31 21:49:37,533 - ERROR - get_address: Address not found (input: Café Studio, 4 Rue de Sambre-et-Meuse, Paris 10ème).
+2025-03-31 21:49:37,541 - ERROR - get_address: Address not found (input: Café Studio, 4 Rue de Sambre-et-Meuse, Paris 10ème).
+2025-03-31 21:49:47,230 - ERROR - get_address: Address not found (input: La Base, 3 rue pierre roche, 13004 MARSEILLE).
+2025-03-31 21:49:56,097 - ERROR - get_address: Address not found (input: Le Quadri, 47 Avenue des Pays Bas, Rennes - Accessible aux PMR).
+2025-03-31 21:49:56,098 - ERROR - get_address: Address not found (input: Le Quadri, 47 Avenue des Pays Bas, Rennes - Accessible aux PMR).
+2025-03-31 21:49:56,098 - ERROR - get_address: Address not found (input: Le Quadri, 47 Avenue des Pays Bas, Rennes - Accessible aux PMR).
+2025-03-31 21:50:03,174 - ERROR - get_address: Address not found (input: mylight150, 81 Rue d'Inkermann, Lyon, France).
+2025-03-31 21:50:08,572 - ERROR - get_address: Address not found (input: Naldeo, 222 Cours Lafayette, 69003 Lyon, France).
+2025-03-31 21:50:14,075 - ERROR - get_address: Address not found (input: Technopole Hélioparc, 2 Av. du Président Pierre Angot, 64000 Pau, France).
+2025-03-31 21:50:19,740 - ERROR - get_address: Address not found (input: ALPAR Meythet, 7 Rue du Vieux Moulin, Annecy, France).
+2025-03-31 21:50:39,597 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2025-03-31 21:50:42,385 - ERROR - get_address: Address not found (input: Association P'tiwatt, Rue Saint-Léger, Villegats, France).
+2025-03-31 21:51:08,397 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2025-03-31 21:51:11,415 - ERROR - get_address: Address "{'house_number': '64', 'road': 'Rue du Doyenné - Dekenijstraat', 'neighbourhood': 'Globe', 'town': 'Uccle - Ukkel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1180', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue du Doyenné 64, 1180 Uccle, Belgique).
+2025-03-31 21:51:38,928 - ERROR - get_address: Address not found (input: Mas Coop, 1171 Route d'Eaunes, 31870 Beaumont-sur-Lèze, France).
+2025-03-31 21:51:52,341 - ERROR - get_address: Address not found (input: ESSpace, 15 Rue Jean Antoine de Baïf, 75013 Paris, France).
+2025-03-31 21:51:56,135 - ERROR - get_address: Address not found (input: Apocapoc (Nest City Lab) Carrer d'Àlaba, 100, 08018 Barcelona, Espagne).
+2025-03-31 21:52:01,402 - ERROR - get_address: Address not found (input: Espace Associations - 6 place Robert Schuman 67500 Haguenau, France).
+2025-03-31 21:52:06,557 - ERROR - get_address: Address not found (input: Maison du lac 570 route du Lac d'Aiguebelette Cusina 73470 Nances).
+2025-03-31 21:52:06,565 - ERROR - get_address: Address not found (input: Maison du lac 570 route du Lac d'Aiguebelette Cusina 73470 Nances).
+2025-03-31 21:52:09,281 - ERROR - get_address: Address not found (input: Résidence Maison Des Etudiants, Place Pasteur, Grenoble, France).
+2025-03-31 21:52:22,068 - ERROR - get_address: Address not found (input: Comet - le jardin rêvé - 89 Rue de Richelieu, Paris, France).
+2025-03-31 21:52:23,196 - ERROR - get_address: Address not found (input: Paris (le lieu exact vous sera communiqué ultérieurement)).
+2025-03-31 21:52:24,736 - ERROR - get_address: Address "{'suburb': 'Paris', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Paris).
+2025-03-31 21:52:31,631 - ERROR - get_address: Address not found (input: La Turbine, Place du Val d'Azun, Arrens-Marsous, France).
+2025-03-31 21:52:35,317 - ERROR - get_address: Address not found (input: Artimbale - Café Bazar Herboristerie, Avenue Félix Faure, Lyon, France).
+2025-03-31 21:52:36,826 - ERROR - get_address: Address not found (input: La BASE Clermont, Avenue Charras, Clermont-Ferrand, France).
+2025-03-31 21:52:40,095 - ERROR - get_address: Address not found (input: Jardin21, Rue Ella Fitzgerald, Paris, France).
+2025-03-31 21:52:45,977 - ERROR - get_address: Address not found (input: Mairie de Tournefeuille, Place de la Mairie, Tournefeuille, France).
+2025-03-31 21:52:46,903 - ERROR - get_address: Address not found (input: Mairie de Tournefeuille, Place de la Mairie, Tournefeuille, France).
+2025-03-31 21:52:58,955 - ERROR - get_address: Address not found (input: NEWTREE Café Guichard, Rue de la Part-Dieu, Lyon, France).
+2025-03-31 21:53:08,449 - ERROR - get_address: Address not found (input: La Fabrica vélo, Rue de la Neige, Ille-sur-Têt, France).
+2025-03-31 21:53:16,841 - ERROR - get_address: Address not found (input: NEWTREE Café Bellecour, Rue de la Charité, Lyon, France).
+2025-03-31 21:53:18,889 - ERROR - get_address: Address not found (input: ELISE Lyon - Rue Lucette et René Desgrand, Villeurbanne, France).
+2025-03-31 21:53:22,237 - ERROR - get_address: Address "{'city': 'Nantes', 'municipality': 'Nantes', 'county': 'Loire-Atlantique', 'ISO3166-2-lvl6': 'FR-44', 'state': 'Pays de la Loire', 'ISO3166-2-lvl4': 'FR-PDL', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Nantes, France).
+2025-03-31 21:53:27,066 - ERROR - get_address: Address not found (input: Open Lande - Entreprises et territoires, Rue de l'Île Mabon, Nantes, France).
+2025-03-31 21:53:35,435 - ERROR - get_address: Address not found (input: Maison Ecocitoyenne Bordeaux Métropole, Quai Richelieu, Bordeaux, France).
+2025-03-31 21:53:36,647 - ERROR - get_address: Address not found (input: ).
+2025-03-31 21:53:39,443 - ERROR - get_address: Address not found (input: Centre soc. cult. J.P Coste 217 Av. Jean-Paul Coste, 13100 Aix-en-Pce).
+2025-03-31 21:53:43,776 - ERROR - get_address: Address not found (input: MJC de Douai, 215 Rue d'Arleux, Douai, France).
+2025-03-31 21:53:45,735 - ERROR - get_address: Address not found (input: Eco What, 20 Rue des Trois Piliers, 31000 Toulouse, France).
+2025-03-31 21:53:51,433 - ERROR - get_address: Address not found (input: Finpact, Rue d'Erlon, Nantes, France).
+2025-03-31 21:54:00,886 - ERROR - get_address: Address not found (input: Châteauform' La Manufacture, 4 Esp. de la Manufacture 92130 Issy-les-Moulineaux).
+2025-03-31 21:54:03,283 - ERROR - get_address: Address not found (input: Groupe Rondy, 1349 Rue de l'Industrie, 43110 Aurec-sur-Loire, France).
+2025-03-31 21:54:13,295 - ERROR - get_address: Address not found (input: Touchat Sa, Route de Baillargues, 34130 Mauguio, France).
+2025-03-31 21:54:20,433 - ERROR - get_address: Address not found (input: L'Aérial, Allée des Camélias, 40230 Saint-Vincent-de-Tyrosse).
+2025-03-31 21:54:22,654 - ERROR - get_address: Address not found (input: IRUP, Rue de Copernic, 42100 Saint-Étienne, France).
+2025-03-31 21:54:26,341 - ERROR - get_address: Address not found (input: La Canopée Coworking et Incubateur, Avenue Jean Larrieu, Gradignan, France).
+2025-03-31 21:54:30,155 - ERROR - get_address: Address not found (input: Decathlon Angers - Avenue du Moulin Marcille, Les Ponts-de-Cé, France).
+2025-03-31 21:54:41,787 - ERROR - get_address: Address not found (input: CPME ROUEN, 125 Avenue Edmund Halley, 76800 Saint-Étienne-du-Rouvray, France).
+2025-03-31 21:54:45,447 - ERROR - get_address: Address not found (input: Fontanille SCOP, Rue de Compostelle, Espaly-Saint-Marcel, France).
+2025-03-31 21:54:51,518 - ERROR - get_address: Address not found (input: IRUP, Rue de Copernic, 42100 Saint-Étienne, France).
+2025-03-31 21:54:53,949 - ERROR - get_address: Address not found (input: IRUP, Rue de Copernic, 42100 Saint-Étienne, France).
+2025-03-31 21:57:06,527 - ERROR - get_address: Address not found (input: Alliance Française Kuala Lumpur, 15 Lorong Gurney, Off Jalan Yahya Petra Kuala Lumpur, 54100 Malaysia).
+2025-03-31 21:57:21,373 - ERROR - get_address: Address not found (input: Treffpunkt Breite, Zürcherstrasse 149 4052 Basel Switzerland).
+2025-03-31 21:57:35,651 - ERROR - get_address: Address not found (input: Treffpunkt Breite, Zürcherstrasse 149 4052 Basel Switzerland).
+2025-03-31 21:59:35,762 - ERROR - get_address: Address not found (input: Maison municipale de l'en vironnement de Balma, 17 Rue du Calvel 31150 Balma).
+2025-03-31 22:00:15,321 - ERROR - get_address: Address not found (input: Maison Ecocitoyenne, quai richelieur 33000 Bordeaux).
+2025-03-31 22:00:29,851 - ERROR - get_address: Address not found (input: Maisonecocitoyenne, quai richelieu 33000 Bordeaux).
+2025-03-31 22:01:09,651 - ERROR - get_address: Address not found (input: Maison de la planète, 72 allée du forum 92100 Boulogne Bilancourt).
+2025-03-31 22:03:09,949 - ERROR - get_address: Address not found (input: CSC Pierre Legendre, Bd François Blancho 44220 Couëron).
+2025-03-31 22:03:49,536 - ERROR - get_address: Address not found (input: MJC de Douai, 215, rue d'Arleux 59500 Douai).
+2025-03-31 22:04:04,170 - ERROR - get_address: Address not found (input: Centre social - ODDAS, 25 rue des Cordiers 85200 FONTENAY-LE-COMTE).
+2025-03-31 22:04:19,134 - ERROR - get_address: Address not found (input: Maison de la vie associative ( à coté de la halle Léo Ferré), Avenue du 8 mai 1945 13120 GARDANNE).
+2025-03-31 22:04:34,217 - ERROR - get_address: Address not found (input: Maison des étudiants de Grenoble, 6 Pl. Pasteur 38000 Grenoble).
+2025-03-31 22:06:03,637 - ERROR - get_address: Address not found (input: Le Comm'on Lab, 2 Place Bernard Moitessier 17000 La Rochelle).
+2025-03-31 22:06:18,643 - ERROR - get_address: Address not found (input: Tiers Lieu Keranden, Rue Jehan Bazin 29800 LANDERNEAU).
+2025-03-31 22:06:33,514 - ERROR - get_address: Address not found (input: SLS actiparc, 266 avenue de Savoie 38570 Le Cheylas).
+2025-03-31 22:07:13,992 - ERROR - get_address: Address not found (input: Café des Sarrazins, 52 54 Rue des Sarrazins 59000 Lille).
+2025-03-31 22:07:29,253 - ERROR - get_address: Address not found (input: Café des sarrazins, 52 54 Rue des Sarrazins 59000 Lille).
+2025-03-31 22:08:09,396 - ERROR - get_address: Address not found (input: Petites Cantines Vieux Lyon, 11, Rue Saint Georges 69005 LYON).
+2025-03-31 22:09:05,202 - ERROR - get_address: Address not found (input: UNM - Union Nautique Marseillaise, 34 Boulevard Charles Livon 13007 Marseille).
+2025-03-31 22:09:20,439 - ERROR - get_address: Address not found (input: Tennis Club de Marseille - TCM, 10 Boulevard de Tunis 13008 Marseille).
+2025-03-31 22:09:35,371 - ERROR - get_address: Address not found (input: 348 Av. du Prado, 348 Avenue du Prado 13008 Marseille).
+2025-03-31 22:09:49,979 - ERROR - get_address: Address not found (input: Ecrevis, 36 rue de l'aerodrome 74960 Methey).
+2025-03-31 22:10:05,695 - ERROR - get_address: Address not found (input: le mille club, 5 ter rue paul serusier 29600 Morlaix).
+2025-03-31 22:10:47,012 - ERROR - get_address: Address not found (input: La Galerie du Zéro Déchet, entrée Place Dulcie September, 5 Rue Fénelon 44000 Nantes).
+2025-03-31 22:14:48,553 - ERROR - get_address: Address not found (input: Bar Les Berthom Oberkampf, 35 boulevard Voltaire 75011 Paris).
+2025-03-31 22:17:42,225 - ERROR - get_address: Address not found (input: Pornic, 9 QUAI DU COMMANDANT L'HERMINIER 44210 PORNIC).
+2025-03-31 22:18:22,509 - ERROR - get_address: Address not found (input: Agora, 3 venelle de Ty Bras 29170 Saint Evarzec).
+2025-03-31 22:18:37,862 - ERROR - get_address: Address not found (input: Maison des associations - Salle Jean Dieuzaide, 42 avenue Augustin Labouilhe 31650 Saint-Orens de Gameville).
+2025-03-31 22:18:52,837 - ERROR - get_address: Address not found (input: Lizine, Centre d’affaires Savanna – Bât A, 14 rue Jules Thirel 97460 Saint Paul).
+2025-03-31 22:19:07,778 - ERROR - get_address: Address not found (input: Mairie, place de la mairie 38960 St Etienne de Crossey).
+2025-03-31 22:19:28,131 - ERROR - get_address: Address not found (input: La coloc', 11 Avenue Saint-François de Sales 74200 Thonon-les-Bains).
+2025-03-31 22:20:39,735 - ERROR - get_address: Address not found (input: La Cordée République, 71 Rue Francis de Pressensé, 69100 Villeurbanne 69100 Villeurbanne).
+2025-03-31 22:21:10,236 - ERROR - get_address: Address not found (input: EXPLORYS Incubateur, 6 Quai Jean Moulin 69001 Lyon).
+2025-03-31 22:22:23,903 - ERROR - get_address: Address not found (input: ESSpace, 15 rue Jean Antoine de Baïf 75013 Paris).
+2025-03-31 22:22:39,186 - ERROR - get_address: Address not found (input: Le studio, 9 rue de chaumont 75019 75019 Paris).
+2025-03-31 22:22:53,927 - ERROR - get_address: Address not found (input: Le studio, 9 rue de chaumont 75019 75019 Paris).
+2025-03-31 22:23:09,140 - ERROR - get_address: Address not found (input: L'Ecole de la Maille de Paris, 75 rue Armand Carrel 75019 Paris).
+2025-03-31 22:23:49,242 - ERROR - get_address: Address not found (input: Les Berthom Paris 11, 35 bd Voltaire 75011 Paris).
+2025-03-31 22:24:04,260 - ERROR - get_address: Address not found (input: L'Ecole de la Maille de Paris, 75 rue Armand Carrel 75019 PARIS).
+2025-03-31 22:25:40,217 - ERROR - get_address: Address "{'building': 'Maison du développement durable', 'house_number': '50', 'road': 'Rue Sainte-Catherine Ouest', 'neighbourhood': 'Quartier des Spectacles', 'suburb': 'Ville-Marie', 'city': 'Montréal', 'county': 'Agglomération de Montréal', 'region': 'Montréal (région administrative)', 'state': 'Québec', 'ISO3166-2-lvl4': 'CA-QC', 'postcode': 'H2X 3V4', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: Maison du développement durable, 50, rue Sainte-Catherine Ouest Montréal (Québec), H2X 3V4 Canada).
+2025-03-31 22:25:54,779 - ERROR - get_address: Address "{'building': 'Maison du développement durable', 'house_number': '50', 'road': 'Rue Sainte-Catherine Ouest', 'neighbourhood': 'Quartier des Spectacles', 'suburb': 'Ville-Marie', 'city': 'Montréal', 'county': 'Agglomération de Montréal', 'region': 'Montréal (région administrative)', 'state': 'Québec', 'ISO3166-2-lvl4': 'CA-QC', 'postcode': 'H2X 3V4', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: Maison du Développement Durable, 50, rue Sainte-Catherine Ouest Montréal (Québec), H2X 3V4 Canada).
+2025-03-31 22:26:10,502 - ERROR - get_address: Address "{'building': 'Maison du développement durable', 'house_number': '50', 'road': 'Rue Sainte-Catherine Ouest', 'neighbourhood': 'Quartier des Spectacles', 'suburb': 'Ville-Marie', 'city': 'Montréal', 'county': 'Agglomération de Montréal', 'region': 'Montréal (région administrative)', 'state': 'Québec', 'ISO3166-2-lvl4': 'CA-QC', 'postcode': 'H2X 3V4', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: Maison du Développement Durable, 50, rue Sainte-Catherine Ouest Montréal, H2X 3V4 Canada).
+2025-03-31 22:26:25,800 - ERROR - get_address: Address not found (input: Alliance français de Kuala Lumpur, 15, Lorong Gurney, Off, Jalan Sultan Yahya Petra Kuala Lumpur, 54100 Malaysia).
+2025-03-31 22:31:25,316 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, 1 Passage Jaqueline Giraud 75012 Paris).
+2025-03-31 22:32:06,047 - ERROR - get_address: Address not found (input: SchoolLab, 15 Rue de Milan 75009 Paris).
+2025-03-31 22:33:03,919 - ERROR - get_address: Address not found (input: Madrid, TBD TBD Madrid Spain).
+2025-03-31 22:33:15,901 - ERROR - get_address: Address not found (input: ,).
+2025-03-31 22:33:21,461 - ERROR - get_address: Address not found (input: ,).
+2025-03-31 22:33:41,218 - ERROR - get_address: Address not found (input: Bibliothèque universitaire uphf mont houy - espace orée , Bâtiment Josquin des Près, Trith-Saint-Léger, France).
+2025-03-31 22:33:46,007 - ERROR - get_address: Address not found (input: Centre d'animation argonne , 1bis Rue Lherisson, Bordeaux, France).
+2025-03-31 22:33:50,299 - ERROR - get_address: Address not found (input: Maison de l'environnement , 5 Place de la République, Vesoul, France).
+2025-03-31 22:33:54,519 - ERROR - get_address: Address not found (input: Café l'escabel , 36 Rue Adolphe-Felix Gatien-Arnoult, Toulouse, France).
+2025-03-31 22:33:59,122 - ERROR - get_address: Address not found (input: Siège de l'association , 18 Rue du Faubourg du Temple, Paris, France).
+2025-03-31 22:34:03,388 - ERROR - get_address: Address not found (input: Espace sainte-anne , 2 Rue de Kerampont, Lannion, France).
+2025-03-31 22:34:07,664 - ERROR - get_address: Address not found (input: Pôle culturel l'étincelle , 55 Avenue de la Grande Bégude, 13770 Venelles, France).
+2025-03-31 22:34:22,219 - ERROR - get_address: Address not found (input: Hotel de l'almanarre plage , 3658 Route de l'Almanarre, Hyères, France).
+2025-03-31 22:34:26,645 - ERROR - get_address: Address not found (input: Clamart (maison des sports - salle jaune) , 1 Route du Vieux Cimetière, Clamart, France).
+2025-03-31 22:34:30,842 - ERROR - get_address: Address not found (input: Les compotes café , 9 Rue de Sélestat, Strasbourg, France).
+2025-03-31 22:34:39,578 - ERROR - get_address: Address not found (input: Latitude21 - la maison de l'architecture et de l'environnement du grand dijon , 33 Rue de Montmuzard, Dijon, France).
+2025-03-31 22:34:44,322 - ERROR - get_address: Address not found (input: Maison des possibles paris 17 , square Paul Paray à côté du 140 rue de Saussure).
+2025-03-31 22:34:48,635 - ERROR - get_address: Address not found (input: Appart'city paris gare de lyon , 114 Avenue Daumesnil, Paris, France).
+2025-03-31 22:35:12,475 - ERROR - get_address: Address not found (input: Salle jean dieuzaide , 42 Avenue Augustin Labouilhe, 31650 Saint-Orens-de-Gameville, France).
+2025-03-31 22:35:17,989 - ERROR - get_address: Address not found (input: Ecole elementaire 12 rue d'alésia (paris xiv) , 12 Rue d'Alésia, Paris, France).
+2025-03-31 22:35:23,765 - ERROR - get_address: Address not found (input: Médiathèque du haut allier margeride , Quai du Langouyrou, 48300 Langogne, France).
+2025-03-31 22:35:29,014 - ERROR - get_address: Address not found (input: Salle des fêtes à saint-lager , Saint-Lager, France).
+2025-03-31 22:35:38,735 - ERROR - get_address: Address not found (input: Moho , 2 Rue de la Gare, Caen, France).
+2025-03-31 22:35:44,805 - ERROR - get_address: Address not found (input: Espace frans krajcberg , 21 Avenue du Maine, 75014 Paris, France).
+2025-03-31 22:35:54,496 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:36:04,118 - ERROR - get_address: Address not found (input: Arradon , 4 Pl. du Souvenir, 56610 Arradon, France).
+2025-03-31 22:36:13,891 - ERROR - get_address: Address not found (input: Médiathèque intercommunale maurice-genevoix place du 11 novembre , 95600 Eaubonne, France).
+2025-03-31 22:36:18,515 - ERROR - get_address: Address not found (input: Médiathèque gulliver , 7 Rue du Plouich, 93200 Saint-Denis, France).
+2025-03-31 22:36:24,817 - ERROR - get_address: Address not found (input: Théâtre nanterre-amandiers , 7 Av. Pablo Picasso, Nanterre, France).
+2025-03-31 22:36:34,238 - ERROR - get_address: Address not found (input: Helioparc , 2 Avenue du Président Pierre Angot, 64000 Pau, France).
+2025-03-31 22:36:44,075 - ERROR - get_address: Address not found (input: Salle henri lasson - passage du cinéma , Place du Marché, Antony, France).
+2025-03-31 22:36:49,047 - ERROR - get_address: Address not found (input: Hotel maguerite , 102 Avenue de Choisy, Paris, France).
+2025-03-31 22:36:53,831 - ERROR - get_address: Address not found (input: Maison des syndicats , 5 Rue Hippolyte Bottier, Compiègne, France).
+2025-03-31 22:37:04,438 - ERROR - get_address: Address not found (input: Maison des associations, salle 110 , 67 Rue Saint-François de Sales, Chambéry, France).
+2025-03-31 22:37:24,234 - ERROR - get_address: Address not found (input: Appart'city paris villejuif , 36 Avenue de Paris, Villejuif, France).
+2025-03-31 22:37:29,352 - ERROR - get_address: Address not found (input: Médiathèque de gouville-sur-mer , 6 Route de Coutances, Gouville-sur-Mer, France).
+2025-03-31 22:37:34,957 - ERROR - get_address: Address not found (input: La base marseille , 3 Rue Pierre Roche, Marseille, France).
+2025-03-31 22:37:49,778 - ERROR - get_address: Address not found (input: Espace musset , 52 Bis Rue Alfred de Musset, 31200 Toulouse, France).
+2025-03-31 22:37:55,138 - ERROR - get_address: Address not found (input: Maison des écrivains de la mer , 9 Avenue Jean Cristau, Saint-Gilles-Croix-de-Vie, France).
+2025-03-31 22:38:01,467 - ERROR - get_address: Address not found (input: Robin des moulins , 5 Chemin du Bois, 60540 Bornel, France).
+2025-03-31 22:38:16,426 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:38:30,938 - ERROR - get_address: Address not found (input: Médiathèque de l'agora , 3 Ven. de Ty Braz, 29170 Saint-Évarzec, France).
+2025-03-31 22:38:35,566 - ERROR - get_address: Address not found (input: Hotel de l'almanarre plage , 3658 Route de l'Almanarre, Hyères, France).
+2025-03-31 22:38:45,364 - ERROR - get_address: Address not found (input: Maison des syndicats , 5 Rue Hippolyte Bottier, Compiègne, France).
+2025-03-31 22:38:54,818 - ERROR - get_address: Address not found (input: Maison stéphane hessel , 235 Bd Paul Painlevé, 59000 Lille, France).
+2025-03-31 22:38:59,744 - ERROR - get_address: Address not found (input: Café herboristerie les herbes folles , 4 Rue des 3 Fuseaux, La Rochelle, France).
+2025-03-31 22:39:06,190 - ERROR - get_address: Address not found (input: Wikivillage , 8 Rue de Srebrenica, Paris, France).
+2025-03-31 22:39:10,911 - ERROR - get_address: Address not found (input: Bibliothèque universitaire uphf mont houy - espace orée , Bâtiment Josquin des Près, Trith-Saint-Léger, France).
+2025-03-31 22:39:15,846 - ERROR - get_address: Address not found (input: Appart'city confort strasbourg centre - appart hôtel , 11 Rue de Molsheim, 67000 Strasbourg, France).
+2025-03-31 22:39:35,382 - ERROR - get_address: Address not found (input: Maison des syndicats, salle de réunion , Rue François Marceau, Saint-Nazaire, France).
+2025-03-31 22:39:44,779 - ERROR - get_address: Address not found (input: Hemera agen , 35 Boulevard de la République, Agen, France).
+2025-03-31 22:39:49,745 - ERROR - get_address: Address not found (input: La maison des associations , 8 rue Germaine Tillion).
+2025-03-31 22:39:54,982 - ERROR - get_address: Address not found (input: Maison saint michel paris 17ème , 3 Place Saint-Jean, Paris, France).
+2025-03-31 22:39:59,543 - ERROR - get_address: Address not found (input: Espace henri lasson , Place du Marché, Antony, France).
+2025-03-31 22:40:04,155 - ERROR - get_address: Address not found (input: Maison des possibles paris 17 , square Paul Paray à côté du 140 rue de Saussure).
+2025-03-31 22:40:13,584 - ERROR - get_address: Address not found (input: Latitude 21 , 33 Rue de Montmuzard, Dijon, France).
+2025-03-31 22:40:18,146 - ERROR - get_address: Address not found (input: Salle les ondines , 53810 Changé, France).
+2025-03-31 22:40:22,685 - ERROR - get_address: Address not found (input: Moho , 2 Rue de la Gare, Caen, France).
+2025-03-31 22:40:27,209 - ERROR - get_address: Address not found (input: Espace sainte-anne , 2 Rue de Kerampont, Lannion, France).
+2025-03-31 22:40:32,442 - ERROR - get_address: Address not found (input: Lieu à définir dans l'ouest aveyron , 12220 Roussennac, France).
+2025-03-31 22:40:41,517 - ERROR - get_address: Address not found (input: Café l'escabel , 36 Rue Adolphe-Felix Gatien-Arnoult, Toulouse, France).
+2025-03-31 22:40:50,995 - ERROR - get_address: Address not found (input: Centre social oddas , 25 Rue des Cordiers, Fontenay-le-Comte, France).
+2025-03-31 22:40:55,925 - ERROR - get_address: Address not found (input: Parc de la maison blanche , 2 Rue Gabriel Péri, Clamart, France).
+2025-03-31 22:41:10,035 - ERROR - get_address: Address not found (input: Helioparc , 2 Avenue du Président Pierre Angot, 64000 Pau, France).
+2025-03-31 22:41:20,033 - ERROR - get_address: Address not found (input: Maison des associations, salle b215 , 67 Rue Saint-François de Sales, Chambéry, France).
+2025-03-31 22:41:29,020 - ERROR - get_address: Address not found (input: Centre d'animation argonne , 1bis Rue Lherisson, Bordeaux, France).
+2025-03-31 22:41:49,286 - ERROR - get_address: Address not found (input: L’agora, fabrique des futurs , 20 Rue de Stalingrad, Nanterre, France).
+2025-03-31 22:41:59,815 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:42:09,484 - ERROR - get_address: Address not found (input: Maison de l'environnement de la métropole du grand lyon , 14 Avenue Tony Garnier, Lyon, France).
+2025-03-31 22:42:29,001 - ERROR - get_address: Address not found (input: Whoo bordeaux bacalan , 12 Rue de Gironde, Bordeaux, France).
+2025-03-31 22:42:38,617 - ERROR - get_address: Address not found (input: Bar associatif le cause toujours , 8 Rue Gaston Rey, Valence, France).
+2025-03-31 22:42:44,078 - ERROR - get_address: Address not found (input: Office de tourisme la teste de buch , 13 bis Rue Victor Hugo, 33260 La Teste-de-Buch, France).
+2025-03-31 22:43:03,058 - ERROR - get_address: Address not found (input: Immeuble cœur défense 2 – la défense , 90 Esplanade du Général de Gaulle, 92400 Courbevoie, France).
+2025-03-31 22:43:08,056 - ERROR - get_address: Address not found (input: La pam , 16 Rue Louis Pasteur, Brest, France).
+2025-03-31 22:43:12,452 - ERROR - get_address: Address not found (input: Salle henri lasson - passage du cinéma , Place du Marché, Antony, France).
+2025-03-31 22:43:17,322 - ERROR - get_address: Address not found (input: Maison des syndicats , 5 Rue Hippolyte Bottier, Compiègne, France).
+2025-03-31 22:43:27,094 - ERROR - get_address: Address not found (input: Maison de l environnement de balma , 17 Avenue du Calvel, Balma, France).
+2025-03-31 22:43:36,115 - ERROR - get_address: Address not found (input: Maison stéphane hessel , 235 Bd Paul Painlevé, 59000 Lille, France).
+2025-03-31 22:44:04,788 - ERROR - get_address: Address not found (input: Espace sainte-anne , 2 Rue de Kerampont, Lannion, France).
+2025-03-31 22:44:10,918 - ERROR - get_address: Address not found (input: Foyer rural de gragnague , Place Bellegarde, Gragnague, France).
+2025-03-31 22:44:15,636 - ERROR - get_address: Address not found (input: Petite salle des fêtes , 31 Rue du Logis Vert, Saint-Palais-sur-Mer, France).
+2025-03-31 22:44:29,412 - ERROR - get_address: Address not found (input: Appart'city confort strasbourg centre - appart hôtel , 11 Rue de Molsheim, 67000 Strasbourg, France).
+2025-03-31 22:44:48,009 - ERROR - get_address: Address not found (input: Moho , 2 Rue de la Gare, Caen, France).
+2025-03-31 22:44:56,708 - ERROR - get_address: Address not found (input: Espace frans krajcberg , 21 Avenue du Maine, 75014 Paris, France).
+2025-03-31 22:45:01,060 - ERROR - get_address: Address not found (input: Café l'escabel , 36 Rue Adolphe-Felix Gatien-Arnoult, Toulouse, France).
+2025-03-31 22:45:05,876 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:45:29,741 - ERROR - get_address: Address not found (input: Ménagerie , Rue Albert Camus, 93330 Neuilly-sur-Marne, France).
+2025-03-31 22:45:34,448 - ERROR - get_address: Address not found (input: Latitude 21 , 33 Rue de Montmuzard, Dijon, France).
+2025-03-31 22:45:38,977 - ERROR - get_address: Address not found (input: Ménagerie , Rue Albert Camus, 93330 Neuilly-sur-Marne, France).
+2025-03-31 22:45:47,957 - ERROR - get_address: Address not found (input: Centre d'animation argonne , 1bis Rue Lherisson, Bordeaux, France).
+2025-03-31 22:46:06,987 - ERROR - get_address: Address not found (input: Espace sainte-anne , 2 Rue de Kerampont, Lannion, France).
+2025-03-31 22:46:11,703 - ERROR - get_address: Address not found (input: Petite salle des fêtes , 31 Rue du Logis Vert, Saint-Palais-sur-Mer, France).
+2025-03-31 22:46:16,067 - ERROR - get_address: Address not found (input: Clamart (maison des sports - salle jaune) , 1 Route du Vieux Cimetière, Clamart, France).
+2025-03-31 22:46:20,535 - ERROR - get_address: Address not found (input: Maison des syndicats , 5 Rue Hippolyte Bottier, Compiègne, France).
+2025-03-31 22:46:34,983 - ERROR - get_address: Address not found (input: Helioparc , 2 Avenue du Président Pierre Angot, 64000 Pau, France).
+2025-03-31 22:46:40,852 - ERROR - get_address: Address not found (input: Base de rouen , 5 Rue Geuffroy, Rouen, France).
+2025-03-31 22:46:45,312 - ERROR - get_address: Address not found (input: Salle henri lasson - passage du cinéma , Place du Marché, Antony, France).
+2025-03-31 22:46:58,241 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:47:13,424 - ERROR - get_address: Address not found (input: Appart'city confort strasbourg centre - appart hôtel , 11 Rue de Molsheim, 67000 Strasbourg, France).
+2025-03-31 22:47:22,179 - ERROR - get_address: Address not found (input: Bar associatif le cause toujours , 8 Rue Gaston Rey, Valence, France).
+2025-03-31 22:47:26,429 - ERROR - get_address: Address not found (input: Espace sainte-anne , 2 Rue de Kerampont, Lannion, France).
+2025-03-31 22:47:30,885 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:47:36,338 - ERROR - get_address: Address not found (input: Médiathèque - bourg saint maurice , 271 Grande Rue, Roubaix, France).
+2025-03-31 22:47:45,209 - ERROR - get_address: Address not found (input: Latitude 21 , 33 Rue de Montmuzard, Dijon, France).
+2025-03-31 22:47:54,343 - ERROR - get_address: Address not found (input: Petite salle des fêtes , 31 Rue du Logis Vert, Saint-Palais-sur-Mer, France).
+2025-03-31 22:48:13,349 - ERROR - get_address: Address not found (input: La pam , 16 Rue Louis Pasteur, Brest, France).
+2025-03-31 22:48:17,624 - ERROR - get_address: Address not found (input: Salle henri lasson - passage du cinéma , Place du Marché, Antony, France).
+2025-03-31 22:48:26,244 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:48:30,615 - ERROR - get_address: Address not found (input: Maison de l'environnement de la métropole du grand lyon , 14 Avenue Tony Garnier, Lyon, France).
+2025-03-31 22:48:36,239 - ERROR - get_address: Address not found (input: Base de rouen , 5 Rue Geuffroy, Rouen, France).
+2025-03-31 22:48:40,554 - ERROR - get_address: Address not found (input: Maison des syndicats , 5 Rue Hippolyte Bottier, Compiègne, France).
+2025-03-31 22:48:45,355 - ERROR - get_address: Address not found (input: Atelier adultes au muséum d'orléans pour la biodiversité et l'environnement , 6 Rue Marcel Proust, Orléans, France).
+2025-03-31 22:48:50,021 - ERROR - get_address: Address not found (input: Atelier juniors au muséum d'orléans pour la biodiversité et l'environnement , 6 Rue Marcel Proust, Orléans, France).
+2025-03-31 22:48:54,299 - ERROR - get_address: Address not found (input: Maison des syndicats , 5 Rue Hippolyte Bottier, Compiègne, France).
+2025-03-31 22:48:58,593 - ERROR - get_address: Address not found (input: Maison des syndicats , 5 Rue Hippolyte Bottier, Compiègne, France).
+2025-03-31 22:49:02,805 - ERROR - get_address: Address not found (input: Base de rouen , 5 Rue Geuffroy, Rouen, France).
+2025-03-31 22:49:07,539 - ERROR - get_address: Address not found (input: La turbine , 2 Rue Colette, 21240 Talant, France).
+2025-03-31 22:49:11,793 - ERROR - get_address: Address not found (input: Maison des syndicats , 5 Rue Hippolyte Bottier, Compiègne, France).
+2025-03-31 22:49:38,210 - ERROR - get_address: Address not found (input: Esspace , 15 Rue Jean Antoine de Baïf, 75013 Paris, France).
+2025-03-31 22:49:42,326 - ERROR - get_address: Address not found (input: Maif strasbourg-neudorf , 18 Rte du Polygone, Strasbourg, France).
+2025-03-31 22:49:53,633 - ERROR - get_address: Address not found (input: Association la fresque du climat , 18 Rue du Faubourg du Temple, Paris, France).
+2025-03-31 22:50:11,888 - ERROR - get_address: Address not found (input: Siège de l'association , 18 Rue du Faubourg du Temple, Paris, France).
+2025-03-31 22:50:24,819 - ERROR - get_address: Address not found (input: Maison des associations (salle 204) , 6 Cours des Alliés, Rennes, France).
+2025-03-31 22:50:28,705 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:50:45,231 - ERROR - get_address: Address not found (input: Locaux de la fresque du climat , 18 Rue du Faubourg du Temple, Paris, France).
+2025-03-31 22:50:50,297 - ERROR - get_address: Address not found (input: Now coworking , 105 bis Allée François Mitterrand, Rouen, France).
+2025-03-31 22:50:55,178 - ERROR - get_address: Address not found (input: Lieu à définir dans l'ouest aveyron , 12220 Roussennac, France).
+2025-03-31 22:51:28,070 - ERROR - get_address: Address not found (input: Alternatibar - maison des alternatives , 126 Mnt de la Grande-Côte, 69001 Lyon, France).
+2025-03-31 22:51:32,579 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:51:36,969 - ERROR - get_address: Address not found (input: Maison des associations (salle 204) , 6 Cours des Alliés, Rennes, France).
+2025-03-31 22:52:10,927 - ERROR - get_address: Address not found (input: Alternatibar - maison des alternatives , 126 Mnt de la Grande-Côte, 69001 Lyon, France).
+2025-03-31 22:52:15,392 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:52:28,943 - ERROR - get_address: Address not found (input: Maison des associations (salle 204) , 6 Cours des Alliés, Rennes, France).
+2025-03-31 22:52:37,847 - ERROR - get_address: Address not found (input: Maison régionale de l'environnement et des solidarités , 5 Rue Jules de Vicq, Lille, France).
+2025-03-31 22:52:42,209 - ERROR - get_address: Address not found (input: Now coworking , 105 bis Allée François Mitterrand, Rouen, France).
+2025-03-31 22:52:46,357 - ERROR - get_address: Address not found (input: Maif strasbourg-neudorf , 18 Rte du Polygone, Strasbourg, France).
+2025-03-31 22:52:50,624 - ERROR - get_address: Address not found (input: Maif strasbourg-neudorf , 18 Rte du Polygone, Strasbourg, France).
+2025-03-31 22:55:36,451 - ERROR - get_address: Address not found (input: Lieu à définir).
+2025-03-31 22:58:11,323 - ERROR - get_address: Address not found (input: 15 boulevard Marius Vivier Merle, 69003 Lyon, France).
+2025-03-31 23:00:01,084 - ERROR - get_address: Address not found (input: Salle face à la maison des associations 5bis Rue d'Estujats 31830 Plaisance-du-Touch France).
+2025-03-31 23:00:33,305 - ERROR - get_address: Address not found (input: Apocapoc Bcn, Carrer dels Almogàvers, 138, Sant Martí, 08018 Barcelona).
+2025-03-31 23:07:17,871 - ERROR - get_address: Address not found (input: ESSpace
+15 Rue Jean Antoine de Baïf
+75013 Paris
+France).
+2025-03-31 23:07:19,302 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.21)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-03-31 23:07:20,383 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.21)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-03-31 23:07:22,783 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-03-31 23:07:23,712 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-03-31 23:07:24,603 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-03-31 23:07:25,408 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-03-31 23:07:26,345 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-03-31 23:07:27,330 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-03-31 23:07:42,941 - ERROR - get_address: Address not found (input: ADESS, Bat. E
+1 rue Louis Pidoux
+29200 Brest
+France).
+2025-03-31 23:08:19,242 - ERROR - get_address: Address not found (input: Güstavo Gemüse Vebab
+35 Rue Pasteur
+69007 Lyon
+France).
+2025-03-31 23:08:20,477 - ERROR - get_address: Address not found (input: HOBA
+43 Rue Bernard Buffet
+75017 Paris
+France).
+2025-03-31 23:08:21,487 - ERROR - get_address: Address not found (input: La Pirogue
+1 Place de la Commune de 1871
+38100 Grenoble
+France).
+2025-03-31 23:08:23,382 - ERROR - get_address: Address not found (input: Le LABO des Possibles
+721 rue de la Prairie
+73350 Bozel
+France).
+2025-03-31 23:09:14,666 - ERROR - get_address: Address not found (input: 2, pl Beaudoyer, Paris).
+2025-03-31 23:09:17,994 - ERROR - get_address: Address not found (input: 576 rte de carcagnats, Caumont).
+2025-03-31 23:09:29,525 - ERROR - get_address: Address not found (input: 1 île de Versaille , Nantes).
+2025-03-31 23:09:55,067 - ERROR - get_address: Address not found (input: 68 rue Sainte (2ème étage), Marseille).
