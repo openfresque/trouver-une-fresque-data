@@ -1,0 +1,180 @@
+2025-04-09 12:27:24,505 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2025-04-09 12:27:25,337 - ERROR - get_address: Address "{'house_number': '64', 'road': 'Rue du Doyenné - Dekenijstraat', 'neighbourhood': 'Globe', 'town': 'Uccle - Ukkel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1180', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue du Doyenné 64, 1180 Uccle, Belgique).
+2025-04-09 12:27:25,338 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2025-04-09 12:27:27,441 - ERROR - get_address: Address "{'road': 'Rue des Oies', 'city_district': 'Gembloux', 'town': 'Gembloux', 'county': 'Namur', 'state': 'Namur', 'ISO3166-2-lvl6': 'BE-WNA', 'region': 'Wallonie', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '5030', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Bibliothèque publique A. Henin - A. Sodenkamp, Rue des Oies 1a/2a, 5030 Gembloux).
+2025-04-09 12:27:29,332 - ERROR - get_address: Address "{'house_number': '2', 'road': 'Rue de Tamines - Taminesstraat', 'neighbourhood': 'Ma Campagne', 'town': 'Saint-Gilles - Sint-Gillis', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1060', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: La Bagarre Taproom, Rue de Tamines 2, 1060 Saint-Gilles, Belgique).
+2025-04-09 12:27:33,783 - ERROR - get_address: Address not found (input: Salle du Grand Pic, Bâtiment Belledone, 351 chemin de l'Église - 38330 Saint-Ismier).
+2025-04-09 12:28:00,260 - ERROR - get_address: Address not found (input: Maison De L'environnement, Hyères, 17 Rue Ernest Reyer, 83400 Hyères, France).
+2025-04-09 12:28:12,953 - ERROR - get_address: Address "{'postcode': '33000', 'suburb': 'Bordeaux Centre', 'city': 'Bordeaux', 'municipality': 'Bordeaux', 'county': 'Gironde', 'ISO3166-2-lvl6': 'FR-33', 'state': 'Nouvelle-Aquitaine', 'ISO3166-2-lvl4': 'FR-NAQ', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Lieu exact à venir, 33000 Bordeaux, France).
+2025-04-09 12:28:29,921 - ERROR - get_address: Address "{'house_number': '2', 'road': 'Rue de Tamines - Taminesstraat', 'neighbourhood': 'Ma Campagne', 'town': 'Saint-Gilles - Sint-Gillis', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1060', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: La Bagarre Taproom, Rue de Tamines 2, 1060 Saint-Gilles, Belgique).
+2025-04-09 12:28:47,142 - ERROR - get_address: Address "{'amenity': 'Alliance Française', 'house_number': '13', 'road': 'Cuesta de Santo Domingo', 'quarter': 'Palacio', 'city_district': 'Centro', 'city': 'Madrid', 'state': 'Comunidad de Madrid', 'ISO3166-2-lvl4': 'ES-MD', 'postcode': '28013', 'country': 'España', 'country_code': 'es'}" is not located in a supported country (input: Alliance Française de Madrid, Cuesta de Santo Domingo, 13, 28013 Madrid, España).
+2025-04-09 12:28:50,628 - ERROR - get_address: Address not found (input: ODDAS, 25 rue des Cordiers, 85200 Fontenay-le-Compte, France).
+2025-04-09 12:28:51,178 - ERROR - get_address: Address "{'house_number': '2', 'road': 'Rue de Tamines - Taminesstraat', 'neighbourhood': 'Ma Campagne', 'town': 'Saint-Gilles - Sint-Gillis', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1060', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: La Bagarre Taproom, Rue de Tamines 2, 1060 Saint-Gilles, Belgique).
+2025-04-09 12:28:54,853 - ERROR - get_address: Address "{'village': 'Gâvres', 'municipality': 'Lorient', 'county': 'Morbihan', 'ISO3166-2-lvl6': 'FR-56', 'state': 'Bretagne', 'ISO3166-2-lvl4': 'FR-BRE', 'region': 'France métropolitaine', 'postcode': '56680', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Gâvres, France).
+2025-04-09 12:29:09,404 - ERROR - get_address: Address not found (input: Le Prisme, salle Plate du Golfe, Place Albert Einstein, Vannes, France).
+2025-04-09 12:29:11,793 - ERROR - get_address: Address not found (input: Théâtre L’île Ô, Berge Bertha Von, Ber Bertha Von Suttner, 69007 Lyon, France).
+2025-04-09 12:29:22,149 - ERROR - get_address: Address not found (input: Tiers Lieux L'Agora de Lagord : 2 rue René Dumont 17140 Lagord).
+2025-04-09 12:29:47,233 - ERROR - get_address: Address not found (input: Brasserie Kooma, Îlot central de la, Rue de la Manufacture des Tabacs, Strasbourg, F).
+2025-04-09 12:29:47,236 - ERROR - get_address: Address not found (input: Brasserie Kooma, Îlot central de la, Rue de la Manufacture des Tabacs, Strasbourg, F).
+2025-04-09 12:29:47,240 - ERROR - get_address: Address not found (input: Brasserie Kooma, Îlot central de la, Rue de la Manufacture des Tabacs, Strasbourg, F).
+2025-04-09 12:29:56,911 - ERROR - get_address: Address "{'town': 'Wavre', 'county': 'Nivelles', 'state': 'Brabant wallon', 'ISO3166-2-lvl6': 'BE-WBR', 'region': 'Wallonie', 'ISO3166-2-lvl4': 'BE-WAL', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-04-09 12:29:59,256 - ERROR - get_address: Address "{'road': 'Rue des Oies', 'city_district': 'Gembloux', 'town': 'Gembloux', 'county': 'Namur', 'state': 'Namur', 'ISO3166-2-lvl6': 'BE-WNA', 'region': 'Wallonie', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '5030', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Bibliothèque publique A. Henin - A. Sodenkamp, Rue des Oies 1a/2a, 5030 Gembloux, Be).
+2025-04-09 12:29:59,258 - ERROR - get_address: Address "{'town': 'Wavre', 'county': 'Nivelles', 'state': 'Brabant wallon', 'ISO3166-2-lvl6': 'BE-WBR', 'region': 'Wallonie', 'ISO3166-2-lvl4': 'BE-WAL', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-04-09 12:29:59,261 - ERROR - get_address: Address "{'town': 'Wavre', 'county': 'Nivelles', 'state': 'Brabant wallon', 'ISO3166-2-lvl6': 'BE-WBR', 'region': 'Wallonie', 'ISO3166-2-lvl4': 'BE-WAL', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-04-09 12:29:59,266 - ERROR - get_address: Address "{'town': 'Wavre', 'county': 'Nivelles', 'state': 'Brabant wallon', 'ISO3166-2-lvl6': 'BE-WBR', 'region': 'Wallonie', 'ISO3166-2-lvl4': 'BE-WAL', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-04-09 12:29:59,268 - ERROR - get_address: Address "{'town': 'Wavre', 'county': 'Nivelles', 'state': 'Brabant wallon', 'ISO3166-2-lvl6': 'BE-WBR', 'region': 'Wallonie', 'ISO3166-2-lvl4': 'BE-WAL', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-04-09 12:29:59,270 - ERROR - get_address: Address "{'town': 'Wavre', 'county': 'Nivelles', 'state': 'Brabant wallon', 'ISO3166-2-lvl6': 'BE-WBR', 'region': 'Wallonie', 'ISO3166-2-lvl4': 'BE-WAL', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Hôtel de Ville de Wavre - 1 Place de l'hôtel de ville, Wavre, Belgique).
+2025-04-09 12:30:02,923 - ERROR - get_address: Address not found (input: Muséum d'histoire naturelle de la Ville de Marseille, Palais Longchamp, Rue Espéran).
+2025-04-09 12:30:14,063 - ERROR - get_address: Address "{'amenity': 'Instituto Chileno Frances', 'house_number': '176', 'road': 'Francisco Noguera', 'neighbourhood': 'Barrio Tajamar', 'suburb': 'Providencia', 'city': 'Providencia', 'county': 'Provincia de Santiago', 'state': 'Región Metropolitana de Santiago', 'ISO3166-2-lvl4': 'CL-RM', 'postcode': '7500000', 'country': 'Chile', 'country_code': 'cl'}" is not located in a supported country (input: Instituto Frances de Chile, Francisco Noguera 176, Providencia CHILE).
+2025-04-09 12:30:14,065 - ERROR - get_address: Address "{'amenity': 'Instituto Chileno Frances', 'house_number': '176', 'road': 'Francisco Noguera', 'neighbourhood': 'Barrio Tajamar', 'suburb': 'Providencia', 'city': 'Providencia', 'county': 'Provincia de Santiago', 'state': 'Región Metropolitana de Santiago', 'ISO3166-2-lvl4': 'CL-RM', 'postcode': '7500000', 'country': 'Chile', 'country_code': 'cl'}" is not located in a supported country (input: Instituto Frances de Chile, Francisco Noguera 176, Providencia CHILE).
+2025-04-09 12:30:24,201 - ERROR - get_address: Address "{'shop': 'Roufet.com', 'house_number': '56', 'road': 'Calle de Ferraz', 'quarter': 'Argüelles', 'suburb': 'Moncloa-Aravaca', 'city': 'Madrid', 'state': 'Comunidad de Madrid', 'ISO3166-2-lvl4': 'ES-MD', 'postcode': '28008', 'country': 'España', 'country_code': 'es'}" is not located in a supported country (input: C. de Ferraz, 56, Moncloa - Aravaca, 28008 Madrid).
+2025-04-09 12:31:04,480 - ERROR - get_address: Address "{'park': 'Parc de la Maison Blanche', 'town': 'Clamart', 'municipality': 'Antony', 'county': 'Hauts-de-Seine', 'ISO3166-2-lvl6': 'FR-92', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '92140', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Parc de la Maison Blanche, 92140 Clamart).
+2025-04-09 12:31:05,555 - ERROR - get_address: Address "{'town': 'Courbevoie', 'municipality': 'Nanterre', 'county': 'Hauts-de-Seine', 'ISO3166-2-lvl6': 'FR-92', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '92400', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 90 Espl. du Général de Gaulle, 92400 Courbevoie).
+2025-04-09 12:31:10,489 - ERROR - get_address: Address not found (input: La Cantina 1 rue Gaston Planté 34790 Grabels).
+2025-04-09 12:31:14,418 - ERROR - get_address: Address not found (input: Le Cârouj - 38 All. du Closel - 35160 Monterfil).
+2025-04-09 12:31:16,625 - ERROR - get_address: Address not found (input: Campus Villejean, Université Rennes 2 Place du recteur Henri Le Moal - Rennes).
+2025-04-09 12:31:23,497 - ERROR - get_address: Address not found (input: Du papier à l'arbre - 89 rue de la République - 38260 La Côte-Saint-André).
+2025-04-09 12:31:23,504 - ERROR - get_address: Address not found (input: Du papier à l'arbre - 89 rue de la République - 38260 La Côte-Saint-André).
+2025-04-09 12:31:35,429 - ERROR - get_address: Address not found (input: MOBE - Muséum d'Orléans pour la Biodiversité et l'Environnement, 6 Rue Marcel Prou).
+2025-04-09 12:31:35,431 - ERROR - get_address: Address not found (input: MOBE - Muséum d'Orléans pour la Biodiversité et l'Environnement, 6 Rue Marcel Prou).
+2025-04-09 12:31:43,658 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2025-04-09 12:32:14,284 - ERROR - get_address: Address not found (input: 13'Infuz en face du 9 rue Augustin Mouchot - 75013 Paris).
+2025-04-09 12:32:18,674 - ERROR - get_address: Address not found (input: Maison Saint Michel - 3 place Saint Jean - 75017 Paris).
+2025-04-09 12:32:35,618 - ERROR - get_address: Address not found (input: Maison de l'Environnement de la Métropole de Lyon, 14 Avenue Tony Garnier, 69007 Lyo).
+2025-04-09 12:32:35,625 - ERROR - get_address: Address not found (input: Maison de l'Environnement de la Métropole de Lyon, 14 Avenue Tony Garnier, 69007 Lyo).
+2025-04-09 12:32:37,447 - ERROR - get_address: Address not found (input: Maison de l'Environnement de la Métropole de Lyon, 14 Avenue Tony Garnier, 69007 Lyo).
+2025-04-09 12:32:37,453 - ERROR - get_address: Address not found (input: Maison de l'Environnement de la Métropole de Lyon, 14 Avenue Tony Garnier, 69007 Lyo).
+2025-04-09 12:32:44,589 - ERROR - get_address: Address not found (input: Restaurant Amarante, au coeur du Conservatoire du Jardin Botanique à Genève Chemin).
+2025-04-09 12:32:54,375 - ERROR - get_address: Address not found (input: Hôtel Almanarre Plage - Hôtel éco-responsable, Route de l'Almanarre, Hyères, Fran).
+2025-04-09 12:33:35,622 - ERROR - get_address: Address not found (input: TUBÀ, Boulevard Marius Vivier Merle, Lyon, France).
+2025-04-09 12:33:35,626 - ERROR - get_address: Address not found (input: TUBÀ, Boulevard Marius Vivier Merle, Lyon, France).
+2025-04-09 12:33:35,628 - ERROR - get_address: Address not found (input: TUBÀ, Boulevard Marius Vivier Merle, Lyon, France).
+2025-04-09 12:34:03,990 - ERROR - get_address: Address not found (input: La Maison du Grenier 2 rue George Sand 31170 Tournefeuille).
+2025-04-09 12:34:07,339 - ERROR - get_address: Address not found (input: ).
+2025-04-09 12:34:24,701 - ERROR - get_address: Address "{'amenity': 'Deichman Tøyen', 'house_number': '28', 'road': 'Hagegata', 'suburb': 'Kampen', 'municipality': 'Oslo', 'city': 'Oslo', 'ISO3166-2-lvl4': 'NO-03', 'postcode': '0653', 'country': 'Norge', 'country_code': 'no'}" is not located in a supported country (input: Deichman Tøyen, Hagegata 28, 0653 Oslo, Norvège).
+2025-04-09 12:34:36,166 - ERROR - get_address: Address not found (input: ).
+2025-04-09 12:34:59,712 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, Place Albert Einstein, Vannes).
+2025-04-09 12:34:59,717 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, Place Albert Einstein, Vannes).
+2025-04-09 12:35:16,952 - ERROR - get_address: Address not found (input: Salle Pinkus, Maison Taraud, 10 place de la Paix, 45200 AMILLY).
+2025-04-09 12:35:26,943 - ERROR - get_address: Address not found (input: Maison Rêvée, Rue Louis Blériot, Centre de tri de déchets, 33130 Bègles).
+2025-04-09 12:35:36,857 - ERROR - get_address: Address "{'house_number': '10', 'road': 'Rue Saint-Pierre - Sint-Pieterstraat', 'city_district': 'Mouscron - Moeskroen', 'town': 'Mouscron', 'county': 'Tournai-Mouscron', 'state': 'Hainaut', 'ISO3166-2-lvl6': 'BE-WHT', 'region': 'Wallonie', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '7700', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: 2 L'aut Côté, Rue Saint-Pierre 10, 7700 Mouscron, Belgium).
+2025-04-09 12:36:12,069 - ERROR - get_address: Address not found (input: ENFIN! RÉEMPLOI, 88 Rue Dr Vernier, 73000 Chambéry, France).
+2025-04-09 12:36:26,660 - ERROR - get_address: Address not found (input: Le Grand Bain, 20 Allée de la Maison Rouge, Nantes - Accessible aux PMR).
+2025-04-09 12:36:26,664 - ERROR - get_address: Address not found (input: Le Grand Bain, 20 Allée de la Maison Rouge, Nantes - Accessible aux PMR).
+2025-04-09 12:36:31,270 - ERROR - get_address: Address not found (input: Café Studio, 4 Rue de Sambre-et-Meuse, Paris 10ème).
+2025-04-09 12:36:31,273 - ERROR - get_address: Address not found (input: Café Studio, 4 Rue de Sambre-et-Meuse, Paris 10ème).
+2025-04-09 12:36:49,368 - ERROR - get_address: Address not found (input: Fait Tout, 12 rue Gabriel Péri, 69350, La Mulatière, Métro B Gare d'Oullins).
+2025-04-09 12:37:06,836 - ERROR - get_address: Address not found (input: Le Quadri, 47 Avenue des Pays Bas, Rennes - Accessible aux PMR).
+2025-04-09 12:37:06,844 - ERROR - get_address: Address not found (input: Le Quadri, 47 Avenue des Pays Bas, Rennes - Accessible aux PMR).
+2025-04-09 12:37:06,847 - ERROR - get_address: Address not found (input: Le Quadri, 47 Avenue des Pays Bas, Rennes - Accessible aux PMR).
+2025-04-09 12:37:12,659 - ERROR - get_address: Address not found (input: La Pépiterie, coworking café, 2 rue du Haras, Angers - Accessible aux PMR).
+2025-04-09 12:37:12,665 - ERROR - get_address: Address not found (input: La Pépiterie, coworking café, 2 rue du Haras, Angers - Accessible aux PMR).
+2025-04-09 12:37:46,634 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2025-04-09 12:38:15,092 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2025-04-09 12:38:17,708 - ERROR - get_address: Address "{'house_number': '64', 'road': 'Rue du Doyenné - Dekenijstraat', 'neighbourhood': 'Globe', 'town': 'Uccle - Ukkel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1180', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue du Doyenné 64, 1180 Uccle, Belgique).
+2025-04-09 12:38:40,536 - ERROR - get_address: Address "{'amenity': '100 - Tarragona 159', 'road': 'Carrer de Tarragona', 'neighbourhood': 'Hostafrancs', 'suburb': 'Sants-Montjuïc', 'city': 'Barcelona', 'county': 'Barcelonès', 'province': 'Barcelona', 'ISO3166-2-lvl6': 'ES-B', 'state': 'Catalunya', 'ISO3166-2-lvl4': 'ES-CT', 'postcode': '08014', 'country': 'España', 'country_code': 'es'}" is not located in a supported country (input: Apocapoc (Nest City Lab) Carrer d'Àlaba, 100, 08018 Barcelona, Espagne).
+2025-04-09 12:38:44,770 - ERROR - get_address: Address "{'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Espace Associations - 6 place Robert Schuman 67500 Haguenau, France).
+2025-04-09 12:38:53,055 - ERROR - get_address: Address not found (input: Maison du lac 570 route du Lac d'Aiguebelette Cusina 73470 Nances).
+2025-04-09 12:38:53,059 - ERROR - get_address: Address not found (input: Maison du lac 570 route du Lac d'Aiguebelette Cusina 73470 Nances).
+2025-04-09 12:39:18,750 - ERROR - get_address: Address not found (input: ).
+2025-04-09 12:39:20,645 - ERROR - get_address: Address not found (input: Paris (le lieu exact vous sera communiqué ultérieurement)).
+2025-04-09 12:39:22,010 - ERROR - get_address: Address "{'suburb': 'Paris', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Paris).
+2025-04-09 12:40:15,568 - ERROR - get_address: Address "{'city': 'Villeurbanne', 'municipality': 'Lyon', 'county': 'Métropole de Lyon', 'ISO3166-2-lvl6': 'FR-69M', 'state_district': 'Rhône', 'state': 'Auvergne-Rhône-Alpes', 'ISO3166-2-lvl4': 'FR-ARA', 'region': 'France métropolitaine', 'postcode': '69100', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: ELISE Lyon - Rue Lucette et René Desgrand, Villeurbanne, France).
+2025-04-09 12:40:32,359 - ERROR - get_address: Address not found (input: ).
+2025-04-09 12:40:36,204 - ERROR - get_address: Address not found (input: Centre soc. cult. J.P Coste 217 Av. Jean-Paul Coste, 13100 Aix-en-Pce).
+2025-04-09 12:41:07,488 - ERROR - get_address: Address not found (input: Touchat Sa, Route de Baillargues, 34130 Mauguio, France).
+2025-04-09 12:41:29,060 - ERROR - get_address: Address "{'town': 'Les Ponts-de-Cé', 'municipality': 'Angers', 'county': 'Maine-et-Loire', 'ISO3166-2-lvl6': 'FR-49', 'state': 'Pays de la Loire', 'ISO3166-2-lvl4': 'FR-PDL', 'region': 'France métropolitaine', 'postcode': '49130', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Decathlon Angers - Avenue du Moulin Marcille, Les Ponts-de-Cé, France).
+2025-04-09 12:47:08,738 - ERROR - get_address: Address not found (input: Salle du Souvenir, Place du souvenir (à coté de la Poste) 56610 ARRADON).
+2025-04-09 12:47:24,379 - ERROR - get_address: Address not found (input: Maison municipale de l'en vironnement de Balma, 17 Rue du Calvel 31150 Balma).
+2025-04-09 12:48:04,219 - ERROR - get_address: Address not found (input: Maison Ecocitoyenne, quai richelieur 33000 Bordeaux).
+2025-04-09 12:49:10,358 - ERROR - get_address: Address not found (input: Maison de la planète, 72 allée du forum 92100 Boulogne Bilancourt).
+2025-04-09 12:49:25,839 - ERROR - get_address: Address "{'house_number': '251', 'road': 'Avenue Louise - Louizalaan', 'neighbourhood': 'La Cambre - Ter Kameren', 'city_district': 'Bruxelles - Brussel', 'city': 'Bruxelles - Brussel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1050', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Bleen Consulting, Avenue Louise 251 1050 Brussels).
+2025-04-09 13:00:59,655 - ERROR - get_address: Address not found (input: Ecrevis, 36 rue de l'aerodrome 74960 Methey).
+2025-04-09 13:01:48,744 - ERROR - get_address: Address not found (input: Comptoir des Halles, 6 bis All. des Muletiers 35310 Mordelles).
+2025-04-09 13:02:33,694 - ERROR - get_address: Address not found (input: La Galerie du Zéro Déchet, entrée Place Dulcie September, 5 Rue Fénelon 44000 Nantes).
+2025-04-09 13:11:22,317 - ERROR - get_address: Address not found (input: Mairie, place de la mairie 38960 St Etienne de Crossey).
+2025-04-09 13:14:37,175 - ERROR - get_address: Address not found (input: Biblio Le Phare, Chau. de Waterloo 935 1180 Uccle Belgium).
+2025-04-09 13:21:11,216 - ERROR - get_address: Address "{'building': 'Maison du développement durable', 'house_number': '50', 'road': 'Rue Sainte-Catherine Ouest', 'neighbourhood': 'Quartier des Spectacles', 'suburb': 'Ville-Marie', 'city': 'Montréal', 'county': 'Agglomération de Montréal', 'region': 'Montréal (région administrative)', 'state': 'Québec', 'ISO3166-2-lvl4': 'CA-QC', 'postcode': 'H2X 3V4', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: Maison du Développement Durable, 50, rue Sainte-Catherine Ouest Montréal (Québec), H2X 3V4 Canada).
+2025-04-09 13:21:41,319 - ERROR - get_address: Address "{'building': 'Maison du développement durable', 'house_number': '50', 'road': 'Rue Sainte-Catherine Ouest', 'neighbourhood': 'Quartier des Spectacles', 'suburb': 'Ville-Marie', 'city': 'Montréal', 'county': 'Agglomération de Montréal', 'region': 'Montréal (région administrative)', 'state': 'Québec', 'ISO3166-2-lvl4': 'CA-QC', 'postcode': 'H2X 3V4', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: Maison du Développement Durable, 50, rue Sainte-Catherine Ouest Montréal, H2X 3V4 Canada).
+2025-04-09 13:21:57,641 - ERROR - get_address: Address not found (input: Alliance français de Kuala Lumpur, 15, Lorong Gurney, Off, Jalan Sultan Yahya Petra Kuala Lumpur, 54100 Malaysia).
+2025-04-09 13:30:19,019 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, 1 Passage Jaqueline Giraud 75012 Paris).
+2025-04-09 13:30:33,399 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, 1 Passage Jaqueline Giraud 75012 Paris).
+2025-04-09 13:32:19,354 - ERROR - get_address: Address not found (input: Arradon , 4 Pl. du Souvenir, 56610 Arradon, France).
+2025-04-09 13:32:30,235 - ERROR - get_address: Address "{'postcode': '95600', 'town': 'Eaubonne', 'municipality': 'Argenteuil', 'county': "Val-d'Oise", 'ISO3166-2-lvl6': 'FR-95', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Médiathèque intercommunale maurice-genevoix place du 11 novembre , 95600 Eaubonne, France).
+2025-04-09 13:33:01,030 - ERROR - get_address: Address "{'locality': 'Place du Marché du Canal', 'neighbourhood': 'Grand Canal', 'town': 'Clamart', 'municipality': 'Antony', 'county': 'Hauts-de-Seine', 'ISO3166-2-lvl6': 'FR-92', 'region': 'France métropolitaine', 'postcode': '92140', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Salle henri lasson - passage du cinéma , Place du Marché, Antony, France).
+2025-04-09 13:33:21,742 - ERROR - get_address: Address not found (input: Maison des associations, salle 110 , 67 Rue Saint-François de Sales, Chambéry, France).
+2025-04-09 13:35:58,146 - ERROR - get_address: Address not found (input: Café herboristerie les herbes folles , 4 Rue des 3 Fuseaux, La Rochelle, France).
+2025-04-09 13:36:29,588 - ERROR - get_address: Address not found (input: Bibliothèque universitaire uphf mont houy - espace orée , Bâtiment Josquin des Près, Trith-Saint-Léger, France).
+2025-04-09 13:36:47,284 - ERROR - get_address: Address not found (input: Maison des syndicats, salle de réunion , Rue François Marceau, Saint-Nazaire, France).
+2025-04-09 13:37:17,455 - ERROR - get_address: Address "{'locality': 'Place du Marché du Canal', 'neighbourhood': 'Grand Canal', 'town': 'Clamart', 'municipality': 'Antony', 'county': 'Hauts-de-Seine', 'ISO3166-2-lvl6': 'FR-92', 'region': 'France métropolitaine', 'postcode': '92140', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Espace henri lasson , Place du Marché, Antony, France).
+2025-04-09 13:37:27,934 - ERROR - get_address: Address not found (input: Maison des possibles paris 17 , square Paul Paray à côté du 140 rue de Saussure).
+2025-04-09 13:37:44,625 - ERROR - get_address: Address "{'postcode': '53810', 'village': 'Changé', 'municipality': 'Laval', 'county': 'Mayenne', 'ISO3166-2-lvl6': 'FR-53', 'state': 'Pays de la Loire', 'ISO3166-2-lvl4': 'FR-PDL', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Salle les ondines , 53810 Changé, France).
+2025-04-09 13:38:03,896 - ERROR - get_address: Address "{'village': 'Roussennac', 'municipality': 'Villefranche-de-Rouergue', 'county': 'Aveyron', 'ISO3166-2-lvl6': 'FR-12', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '12220', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Lieu à définir dans l'ouest aveyron , 12220 Roussennac, France).
+2025-04-09 13:38:14,966 - ERROR - get_address: Address not found (input: Café l'escabel , 36 Rue Adolphe-Felix Gatien-Arnoult, Toulouse, France).
+2025-04-09 13:38:30,398 - ERROR - get_address: Address "{'park': 'Parc Paul Mistral', 'suburb': 'Secteur 5', 'city': 'Grenoble', 'municipality': 'Grenoble', 'county': 'Isère', 'ISO3166-2-lvl6': 'FR-38', 'state': 'Auvergne-Rhône-Alpes', 'ISO3166-2-lvl4': 'FR-ARA', 'region': 'France métropolitaine', 'postcode': '38000', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Parc paul mistral , Grenoble, France).
+2025-04-09 13:39:21,474 - ERROR - get_address: Address not found (input: Maison des associations, salle b215 , 67 Rue Saint-François de Sales, Chambéry, France).
+2025-04-09 13:39:27,257 - ERROR - get_address: Address not found (input: L’agora, fabrique des futurs , 20 Rue de Stalingrad, Nanterre, France).
+2025-04-09 13:40:45,114 - ERROR - get_address: Address "{'park': 'Parc Paul Mistral', 'suburb': 'Secteur 5', 'city': 'Grenoble', 'municipality': 'Grenoble', 'county': 'Isère', 'ISO3166-2-lvl6': 'FR-38', 'state': 'Auvergne-Rhône-Alpes', 'ISO3166-2-lvl4': 'FR-ARA', 'region': 'France métropolitaine', 'postcode': '38000', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Parc paul mistral , Grenoble, France).
+2025-04-09 13:41:01,322 - ERROR - get_address: Address not found (input: Immeuble cœur défense 2 – la défense , 90 Esplanade du Général de Gaulle, 92400 Courbevoie, France).
+2025-04-09 13:41:12,664 - ERROR - get_address: Address "{'locality': 'Place du Marché du Canal', 'neighbourhood': 'Grand Canal', 'town': 'Clamart', 'municipality': 'Antony', 'county': 'Hauts-de-Seine', 'ISO3166-2-lvl6': 'FR-92', 'region': 'France métropolitaine', 'postcode': '92140', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Salle henri lasson - passage du cinéma , Place du Marché, Antony, France).
+2025-04-09 13:43:19,049 - ERROR - get_address: Address not found (input: Café l'escabel , 36 Rue Adolphe-Felix Gatien-Arnoult, Toulouse, France).
+2025-04-09 13:45:13,537 - ERROR - get_address: Address "{'locality': 'Place du Marché du Canal', 'neighbourhood': 'Grand Canal', 'town': 'Clamart', 'municipality': 'Antony', 'county': 'Hauts-de-Seine', 'ISO3166-2-lvl6': 'FR-92', 'region': 'France métropolitaine', 'postcode': '92140', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Salle henri lasson - passage du cinéma , Place du Marché, Antony, France).
+2025-04-09 13:46:55,914 - ERROR - get_address: Address "{'locality': 'Place du Marché du Canal', 'neighbourhood': 'Grand Canal', 'town': 'Clamart', 'municipality': 'Antony', 'county': 'Hauts-de-Seine', 'ISO3166-2-lvl6': 'FR-92', 'region': 'France métropolitaine', 'postcode': '92140', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Salle henri lasson - passage du cinéma , Place du Marché, Antony, France).
+2025-04-09 13:49:53,425 - ERROR - get_address: Address "{'village': 'Roussennac', 'municipality': 'Villefranche-de-Rouergue', 'county': 'Aveyron', 'ISO3166-2-lvl6': 'FR-12', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '12220', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Lieu à définir dans l'ouest aveyron , 12220 Roussennac, France).
+2025-04-09 13:50:28,874 - ERROR - get_address: Address not found (input: Alternatibar - maison des alternatives , 126 Mnt de la Grande-Côte, 69001 Lyon, France).
+2025-04-09 13:51:23,951 - ERROR - get_address: Address not found (input: Alternatibar - maison des alternatives , 126 Mnt de la Grande-Côte, 69001 Lyon, France).
+2025-04-09 13:55:54,310 - ERROR - get_address: Address "{'postcode': '69003', 'suburb': 'Lyon 3e Arrondissement', 'city': 'Lyon', 'municipality': 'Lyon', 'county': 'Métropole de Lyon', 'ISO3166-2-lvl6': 'FR-69M', 'state_district': 'Rhône', 'state': 'Auvergne-Rhône-Alpes', 'ISO3166-2-lvl4': 'FR-ARA', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 15 boulevard Marius Vivier Merle, 69003 Lyon, France).
+2025-04-09 13:57:46,266 - ERROR - get_address: Address "{'house_number': '136-138', 'road': 'Carrer dels Almogàvers', 'quarter': 'el Parc i la Llacuna del Poblenou', 'suburb': 'Sant Martí', 'city': 'Barcelona', 'county': 'Barcelonès', 'province': 'Barcelona', 'ISO3166-2-lvl6': 'ES-B', 'state': 'Catalunya', 'ISO3166-2-lvl4': 'ES-CT', 'postcode': '08018', 'country': 'España', 'country_code': 'es'}" is not located in a supported country (input: Apocapoc Bcn, Carrer dels Almogàvers, 138, Sant Martí, 08018 Barcelona).
+2025-04-09 14:04:13,382 - ERROR - get_address: Address not found (input: ESSpace
+15 Rue Jean Antoine de Baïf
+75013 Paris
+France).
+2025-04-09 14:04:14,764 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.21)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-04-09 14:04:16,922 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-04-09 14:04:17,656 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-04-09 14:04:18,313 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-04-09 14:04:18,995 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-04-09 14:04:19,809 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-04-09 14:04:20,553 - ERROR - get_address: Address not found (input: Académie du Climat (salle 2.18 Tumo)
+2 Place Baudoyer
+75004 Paris
+France).
+2025-04-09 14:04:39,078 - ERROR - get_address: Address not found (input: ADESS, Bat. E
+1 rue Louis Pidoux
+29200 Brest
+France).
+2025-04-09 14:05:13,647 - ERROR - get_address: Address not found (input: Güstavo Gemüse Vebab
+35 Rue Pasteur
+69007 Lyon
+France).
+2025-04-09 14:05:14,806 - ERROR - get_address: Address not found (input: HOBA
+43 Rue Bernard Buffet
+75017 Paris
+France).
+2025-04-09 14:05:15,998 - ERROR - get_address: Address not found (input: La Pirogue
+1 Place de la Commune de 1871
+38100 Grenoble
+France).
+2025-04-09 14:05:17,177 - ERROR - get_address: Address not found (input: Le LABO des Possibles
+721 rue de la Prairie
+73350 Bozel
+France).
+2025-04-09 14:06:17,121 - ERROR - get_address: Address "{'city': 'Marseille', 'municipality': 'Marseille', 'county': 'Bouches-du-Rhône', 'ISO3166-2-lvl6': 'FR-13', 'state': "Provence-Alpes-Côte d'Azur", 'ISO3166-2-lvl4': 'FR-PAC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 68 rue Sainte (2ème étage), Marseille).
