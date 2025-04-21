@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Portugal",
+        "latitude": "38.722252",
+        "longitude": "-9.139337",
+        "link": "https://transitar.pt/",
+        "country_code": "PT"
+    },
+    {
+        "title": "Hop'La Transition",
+        "latitude": "48.573406",
+        "longitude": "7.752111",
+        "link": "https://hoplatransition.org/",
+        "country_code": "FR"
+    },
+    {
+        "title": "AwareNest",
+        "latitude": "58.315620",
+        "longitude": "14.497272",
+        "link": "",
+        "country_code": "SE"
+    },
+    {
+        "title": "Baskula",
+        "latitude": "43.4945144",
+        "longitude": "-1.4736657",
+        "link": "https://baskula.org/",
+        "country_code": "ES"
+    },
+    {
+        "title": "Bleen",
+        "latitude": "50.8465573",
+        "longitude": "4.351697",
+        "link": "https://www.bleen.be/",
+        "country_code": "BE"
+    },
+    {
+        "title": "Changes That Matter",
+        "latitude": "48.1371079",
+        "longitude": "11.5753822",
+        "link": "https://www.changesthatmatter.com/",
+        "country_code": "DE"
+    },
+    {
+        "title": "Climate Clarity",
+        "latitude": "51.4893335",
+        "longitude": "-0.1440551",
+        "link": "https://climateclarity.co.uk/",
+        "country_code": "GB"
+    },
+    {
+        "title": "Climatosfera",
+        "latitude": "44.4361414",
+        "longitude": "26.1027202",
+        "link": "https://www.climatosfera.org/",
+        "country_code": "RO"
+    },
+    {
+        "title": "EcoCapacitas",
+        "latitude": "23.6585116",
+        "longitude": "-102.0077097",
+        "link": "https://linktr.ee/EcoCapacitas",
+        "country_code": "MX"
+    },
+    {
+        "title": "En'jeux Communs",
+        "latitude": "45.194260",
+        "longitude": "5.731670",
+        "link": "https://enjeuxcommuns.fr/",
+        "country_code": "FR"
+    },
+    {
+        "title": "FADA (Fresques et Ateliers Déclencheurs d'Action)",
+        "latitude": "43.2961743",
+        "longitude": "5.3699525",
+        "link": "https://fada.earth/",
+        "country_code": "FR"
+    },
+    {
+        "title": "Ichigo bloom",
+        "latitude": "35.6768601",
+        "longitude": "139.7638947",
+        "link": "http://studioichigo.jp/bloom/",
+        "country_code": "JP"
+    },
+    {
+        "title": "IniciativaCC",
+        "latitude": "-33.4377756",
+        "longitude": "-70.6504502",
+        "link": "https://iniciativacc.cl/",
+        "country_code": "CL"
+    },
+    {
+        "title": "Jorda Nova",
+        "latitude": "59.913868",
+        "longitude": "10.752245",
+        "link": "https://www.linkedin.com/company/jorda-nova/",
+        "country_code": "NO"
+    },
+    {
+        "title": "The Transmutation Principle",
+        "latitude": "1.357107",
+        "longitude": "103.8194992",
+        "link": "https://linkin.bio/thetransmutationprinciple/?",
+        "country_code": "SG"
+    },
+    {
+        "title": "3Es Experience",
+        "latitude": "-1.3026148",
+        "longitude": "36.828842",
+        "link": "https://3esexperience.org/",
+        "country_code": "KE"
+    }
+]
