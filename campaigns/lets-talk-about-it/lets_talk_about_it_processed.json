@@ -16,7 +16,7 @@
     "city": "Clermont-Ferrand"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "WORKSHOP - Puzzle der Kreislaufwirtschaft - Vienna",
     "start_date": "2025-06-02T18:00:00+02:00",
     "end_date": "2025-06-02T21:00:00+02:00",
@@ -32,7 +32,7 @@
     "city": "Wien"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "TALLER - El Mural de la Economía Circular - En línea",
     "start_date": "2025-05-29T18:00:00+02:00",
     "end_date": "2025-05-29T21:00:00+02:00",
@@ -43,7 +43,7 @@
     "tickets_link": "https://www.eventbrite.fr/e/entradas-mural-de-la-economia-circular-en-linea-1318945825469?aff=oddtdtcreator"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "TALLER - El Mural de la Economía Circular en América Latina - En línea",
     "start_date": "2025-05-28T18:00:00-06:00",
     "end_date": "2025-05-28T21:00:00-06:00",
@@ -54,7 +54,7 @@
     "tickets_link": "https://www.eventbrite.fr/e/mural-de-la-economia-circular-alc-en-linea-tickets-1315985350609?aff=oddtdtcreator"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "WORKSHOP - Puzzle der Kreislaufwirtschaft - Köln-Ehrenfeld",
     "start_date": "2025-05-26T09:00:00+02:00",
     "end_date": "2025-05-26T12:00:00+02:00",
@@ -70,7 +70,7 @@
     "city": "Köln"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "WORKSHOP - Circular Economy Collage - Dubai",
     "start_date": "2025-05-15T09:00:00+04:00",
     "end_date": "2025-05-15T12:00:00+04:00",
@@ -81,7 +81,7 @@
     "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-in-dubai-tickets-1318478758459?aff=oddtdtcreator"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "WORKSHOP - Circular Economy Collage - Online",
     "start_date": "2025-05-26T14:00:00+03:00",
     "end_date": "2025-05-26T17:00:00+03:00",
@@ -92,7 +92,7 @@
     "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1329375320369?aff=oddtdtcreator"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "WORKSHOP - Circular Economy Collage - Online",
     "start_date": "2025-05-21T09:30:00+02:00",
     "end_date": "2025-05-21T12:30:00+02:00",
@@ -103,7 +103,7 @@
     "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1318903609199?aff=oddtdtcreator"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "TALLER - El Mural de la Economía Circular - México",
     "start_date": "2025-05-17T10:00:00-06:00",
     "end_date": "2025-05-17T13:00:00-06:00",
@@ -119,7 +119,7 @@
     "city": "Ciudad de México"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "WORKSHOP - Puzzle der Kreislaufwirtschaft - Online",
     "start_date": "2025-05-12T18:30:00+02:00",
     "end_date": "2025-05-12T21:30:00+02:00",
@@ -130,7 +130,7 @@
     "tickets_link": "https://www.eventbrite.fr/e/puzzle-der-kreislaufwirtschaft-online-tickets-1313542333479?aff=oddtdtcreator"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "TALLER - El Mural de la Economía Circular - Valencia, Spain",
     "start_date": "2025-05-10T10:30:00+02:00",
     "end_date": "2025-05-10T13:30:00+02:00",
@@ -146,7 +146,7 @@
     "city": "València"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "CHALLENGE - Circular Challenge - London, UK",
     "start_date": "2025-05-08T18:00:00+01:00",
     "end_date": "2025-05-08T19:30:00+01:00",
@@ -162,7 +162,7 @@
     "city": "London"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "WORKSHOP - Circular Economy Collage - Online",
     "start_date": "2025-05-07T09:00:00+01:00",
     "end_date": "2025-05-07T12:00:00+01:00",
@@ -173,7 +173,7 @@
     "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1313518251449?aff=oddtdtcreator"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "ATELIER - La Fresque de l'Économie Circulaire - Etterbeek, Belgium",
     "start_date": "2025-05-06T18:00:00+02:00",
     "end_date": "2025-05-06T21:00:00+02:00",
@@ -189,7 +189,7 @@
     "city": "Etterbeek"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "CHALLENGE - Circular Challenge - Online",
     "start_date": "2025-05-06T17:00:00+02:00",
     "end_date": "2025-05-06T18:30:00+02:00",
@@ -200,7 +200,7 @@
     "tickets_link": "https://www.eventbrite.fr/e/circular-challenge-online-tickets-1292732631099?aff=oddtdtcreator"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 300,
     "title": "TALLER - El Mural de la Economía Circular - México",
     "start_date": "2025-05-04T10:00:00-06:00",
     "end_date": "2025-05-04T13:00:00-06:00",
@@ -216,7 +216,7 @@
     "city": "Ciudad de México"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 10,
     "title": "WORKSHOP - Designing our sustainable lives - London",
     "start_date": "2025-05-06T19:00:00+02:00",
     "end_date": "2025-05-06T21:00:00+02:00",
@@ -232,7 +232,7 @@
     "city": "London"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 10,
     "title": "WORKSHOP - Designing our sustainable lives - Online",
     "start_date": "2025-05-09T10:00:00+02:00",
     "end_date": "2025-05-09T12:00:00+02:00",
@@ -243,7 +243,7 @@
     "tickets_link": "https://www.billetweb.fr/atelier-en-ligne-9-mai"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 10,
     "title": "WORKSHOP - Designing our sustainable lives - Online",
     "start_date": "2025-05-23T10:00:00+02:00",
     "end_date": "2025-05-23T12:00:00+02:00",
@@ -254,7 +254,7 @@
     "tickets_link": "https://www.billetweb.fr/atelier-en-ligne-23-mai"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 103,
     "title": "WORKSHOP - Plastic Collage",
     "start_date": "2025-05-14T14:00:00+08:00",
     "end_date": "2025-05-14T17:00:00+08:00",
@@ -270,7 +270,7 @@
     "city": "กรุงเทพมหานคร"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 2,
     "title": "Taller - El Mural de la Biodiversidad LATAM",
     "start_date": "2025-05-22T18:00:00-04:00",
     "end_date": "2025-05-22T21:00:00-04:00",
@@ -286,7 +286,7 @@
     "city": "Providencia"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 3,
     "title": "ATELIER - Fresque du Numérique - En ligne",
     "start_date": "2025-05-31T14:00:00+02:00",
     "end_date": "2025-05-31T17:30:00+02:00",
@@ -297,7 +297,7 @@
     "tickets_link": "https://www.billetweb.fr/atelier-fresque-du-numerique-en-ligne"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 14,
     "title": "ATELIER - Fresque du Textile - En ligne",
     "start_date": "2025-05-03T14:00:00+02:00",
     "end_date": "2025-05-05T17:00:00+02:00",
@@ -308,7 +308,7 @@
     "tickets_link": "https://www.billetweb.fr/fresque-du-textile-en-ligne22"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 7,
     "title": "ATELIER - Fresque de la Mobilité - En ligne",
     "start_date": "2025-05-08T10:00:00+02:00",
     "end_date": "2025-05-08T12:00:00+02:00",
@@ -319,7 +319,7 @@
     "tickets_link": "https://fresquedelamobilite.org/accueil/participer/billetterie-atelier-citoyen/"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 100,
     "title": "ATELIER - 2tonnes - En ligne",
     "start_date": "2025-05-24T09:30:00+02:00",
     "end_date": "2025-05-24T12:30:00+02:00",
@@ -330,7 +330,7 @@
     "tickets_link": "https://www.eventbrite.fr/e/billets-2tonnes-france-ateliers-en-ligne-en-francais-dates-multiples-1328105341829"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 100,
     "title": "2tonnes World - Workshop in BASEL (Switzerland)",
     "start_date": "2025-06-17T18:00:00+02:00",
     "end_date": "2025-06-17T21:00:00+02:00",
@@ -346,7 +346,7 @@
     "city": "Basel"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 100,
     "title": "2tonnes France - Atelier à UCCLE, Belgium (Français)",
     "start_date": "2025-06-14T10:00:00+02:00",
     "end_date": "2025-06-14T13:00:00+02:00",
@@ -362,7 +362,7 @@
     "city": "Uccle - Ukkel"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 100,
     "title": "2tonnes Quebec - Atelier à MONTRÉAL (QUÉBEC) , Canada (Français)",
     "start_date": "2025-05-26T18:00:00+02:00",
     "end_date": "2025-05-26T21:00:00+02:00",
@@ -378,7 +378,7 @@
     "city": "Montréal"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 100,
     "title": "2tonnes - Atelier à BRUSSELS (1050)",
     "start_date": "2025-05-08T18:00:00+02:00",
     "end_date": "2025-05-08T21:00:00+02:00",
@@ -394,7 +394,7 @@
     "city": "Bruxelles - Brussel"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 100,
     "title": "2tonnes QUEBEC : Ateliers en ligne en Français",
     "start_date": "2025-05-07T00:00:00+02:00",
     "end_date": "2025-05-07T03:00:00+02:00",
@@ -405,7 +405,7 @@
     "tickets_link": "https://www.eventbrite.com/e/billets-2tonnes-quebec-ateliers-en-ligne-en-francais-dates-multiples-1023853562567?aff=odcleoeventsincollection&keep_tld=1"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 100,
     "title": "2Tonnes WORLD - Online workshop auf Deutsch",
     "start_date": "2025-06-20T08:30:00+02:00",
     "end_date": "2025-06-20T11:30:00+02:00",
@@ -416,7 +416,7 @@
     "tickets_link": "https://www.eventbrite.com/e/2tonnes-world-online-workshop-auf-deutsch-mehrere-daten-tickets-1023719110417?aff=odcleoeventsincollection&keep_tld=1"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 100,
     "title": "2Tonnes WORLD - Online workshop in English",
     "start_date": "2025-05-12T19:00:00+02:00",
     "end_date": "2025-05-12T22:00:00+02:00",
@@ -427,7 +427,7 @@
     "tickets_link": "https://www.eventbrite.com/e/2tonnes-world-version-online-workshops-in-english-multiple-date-tickets-429558058717?aff=oddtdtcreator&keep_tld=1"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk Workshop in Bangkok",
     "start_date": "2025-05-24T03:30:00+07:00",
     "end_date": "2025-05-24T06:30:00+07:00",
@@ -443,7 +443,7 @@
     "city": "กรุงเทพมหานคร"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk workshop",
     "start_date": "2025-05-18T17:00:00+02:00",
     "end_date": "2025-05-18T20:00:00+02:00",
@@ -454,7 +454,7 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/cbe92f3a-caa1-459c-a9e3-c9993dde1c46/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk workshop",
     "start_date": "2025-05-06T17:00:00+02:00",
     "end_date": "2025-05-06T20:00:00+02:00",
@@ -465,7 +465,7 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/0e28b5e1-78bc-49ec-996e-7727f3613d1e/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk Portsmouth",
     "start_date": "2025-05-17T12:30:00+01:00",
     "end_date": "2025-05-17T15:30:00+01:00",
@@ -481,7 +481,7 @@
     "city": "Portsmouth"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Fresque du Climat - Québec (Montréal)",
     "start_date": "2025-05-26T21:50:00+02:00",
     "end_date": "2025-05-26T22:00:00+02:00",
@@ -497,7 +497,7 @@
     "city": "Montréal"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Fresque du climat à Malibran en français, entrée gratuite.",
     "start_date": "2025-05-12T16:00:00+02:00",
     "end_date": "2025-05-12T19:30:00+02:00",
@@ -513,7 +513,7 @@
     "city": "Ixelles - Elsene"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Das Klima Puzzle | Workshop",
     "start_date": "2025-05-08T16:00:00+02:00",
     "end_date": "2025-05-08T19:00:00+02:00",
@@ -529,7 +529,7 @@
     "city": "Wien"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Nationale Klimaatweek - Climate Fresk: dé klimaatworkshop",
     "start_date": "2025-05-03T07:30:00+02:00",
     "end_date": "2025-05-03T10:30:00+02:00",
@@ -538,14 +538,14 @@
     "language_code": "nl",
     "online": false,
     "tickets_link": "https://association.climatefresk.org/training_sessions/226c9663-aa4f-4312-a30d-22ae00c47502/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
-    "location_name": "",
-    "longitude": "6.0024994",
-    "latitude": "51.1982885",
+    "location_name": "Cycle Hub",
+    "longitude": "6.0038404",
+    "latitude": "51.1989600",
     "address": "10 Bredeweg",
     "city": "Roermond"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk at the Singapore Sustainability Academy",
     "start_date": "2025-05-30T10:30:00+08:00",
     "end_date": "2025-05-30T13:30:00+08:00",
@@ -561,7 +561,7 @@
     "city": "Singapore"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Laboratorio in italiano (online)",
     "start_date": "2025-05-08T17:00:00+02:00",
     "end_date": "2025-05-08T20:00:00+02:00",
@@ -572,7 +572,7 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/a37dcf3d-88d7-4a5e-88cd-15b8714ef87c/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "クライメートフレスク【日本語】",
     "start_date": "2025-05-24T04:00:00+09:00",
     "end_date": "2025-05-24T07:00:00+09:00",
@@ -583,7 +583,7 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/daeef273-f77d-4ec3-8d91-ed7d6232976e/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Monthly Workshop - English",
     "start_date": "2025-05-24T04:00:00+09:00",
     "end_date": "2025-05-24T07:00:00+09:00",
@@ -594,7 +594,7 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/1477bfdf-d70a-43a9-89a7-38fdc1b53f7d/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Klima Puzzle Workshopz",
     "start_date": "2025-05-18T10:00:00+02:00",
     "end_date": "2025-05-18T13:00:00+02:00",
@@ -610,7 +610,7 @@
     "city": "Münster"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Fresque du Climat",
     "start_date": "2025-05-14T16:30:00+02:00",
     "end_date": "2025-05-14T19:30:00+02:00",
@@ -626,7 +626,7 @@
     "city": "Luxembourg"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Will your team succeed in solving the climate puzzle?",
     "start_date": "2025-05-05T21:50:00+02:00",
     "end_date": "2025-05-06T01:00:00+02:00",
@@ -642,7 +642,7 @@
     "city": "Montréal"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk Workshop",
     "start_date": "2025-05-07T06:00:00+04:00",
     "end_date": "2025-05-07T09:00:00+04:00",
@@ -653,7 +653,7 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/5127cca6-d0e9-46ca-ade8-09ee5827ade9/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Taller mensual El Mural del Clima",
     "start_date": "2025-05-13T16:30:00+02:00",
     "end_date": "2025-05-13T19:30:00+02:00",
@@ -664,7 +664,7 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/29b67b31-6ecd-4c96-9042-5e09f86d1252/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk - Randwick Sustainability Hub",
     "start_date": "2025-05-10T03:00:00+10:00",
     "end_date": "2025-05-10T03:00:00+10:00",
@@ -680,7 +680,7 @@
     "city": "Sydney"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk workshop",
     "start_date": "2025-05-11T12:00:00+02:00",
     "end_date": "2025-05-11T15:00:00+02:00",
@@ -696,7 +696,7 @@
     "city": "Amersfoort"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk Workshop (Klima Puzzle)",
     "start_date": "2025-05-10T07:30:00+02:00",
     "end_date": "2025-05-10T10:30:00+02:00",
@@ -712,7 +712,7 @@
     "city": "Germering"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Klima Puzzle Workshop in der Villa Gründergeist",
     "start_date": "2025-05-27T17:00:00+02:00",
     "end_date": "2025-05-27T20:00:00+02:00",
@@ -728,7 +728,7 @@
     "city": "Frankfurt am Main"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "South London Climate Fresk Workshop - All welcome, no charge",
     "start_date": "2025-05-07T15:30:00+01:00",
     "end_date": "2025-05-07T18:30:00+01:00",
@@ -744,7 +744,7 @@
     "city": "London"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Atelier de la Fresque du Climat - Lausanne",
     "start_date": "2025-05-05T16:30:00+02:00",
     "end_date": "2025-05-05T19:30:00+02:00",
@@ -760,7 +760,7 @@
     "city": "Lausanne"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk",
     "start_date": "2025-05-08T22:00:00+02:00",
     "end_date": "2025-05-09T01:30:00+02:00",
@@ -776,7 +776,7 @@
     "city": "Guelph"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk Workshop",
     "start_date": "2025-05-21T07:30:00+10:00",
     "end_date": "2025-05-21T10:30:00+10:00",
@@ -792,7 +792,7 @@
     "city": "Sydney"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Citizens' Climate Fresk Workshop",
     "start_date": "2025-05-01T21:30:00+02:00",
     "end_date": "2025-05-02T00:30:00+02:00",
@@ -808,7 +808,7 @@
     "city": "Ottawa"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk workshop | Green Drinks Copenhagen 🌱",
     "start_date": "2025-05-07T16:00:00+02:00",
     "end_date": "2025-05-07T19:00:00+02:00",
@@ -824,7 +824,7 @@
     "city": "København"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk workshop",
     "start_date": "2025-05-14T13:00:00+02:00",
     "end_date": "2025-05-14T16:00:00+02:00",
@@ -834,13 +834,13 @@
     "online": false,
     "tickets_link": "https://association.climatefresk.org/training_sessions/044088c4-001f-40a8-8cd2-b66fb1b7f35e/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
     "location_name": "Polfermolen",
-    "longitude": "5.8270536",
-    "latitude": "50.8652118",
-    "address": "Plenkertstraat",
+    "longitude": "5.8267457",
+    "latitude": "50.8673931",
+    "address": "Prinses Margrietlaan",
     "city": "Valkenburg"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk workshop",
     "start_date": "2025-05-26T15:00:00+03:00",
     "end_date": "2025-05-26T18:00:00+03:00",
@@ -856,7 +856,7 @@
     "city": "Vilnius"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Öffentlicher Klima Puzzle Workshop",
     "start_date": "2025-05-13T16:00:00+02:00",
     "end_date": "2025-05-13T19:00:00+02:00",
@@ -872,7 +872,7 @@
     "city": "Linz"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Atelier \"La Fresque du Cimat\"",
     "start_date": "2025-05-26T18:30:00+02:00",
     "end_date": "2025-05-26T21:30:00+02:00",
@@ -888,7 +888,7 @@
     "city": "Saint-Gilles - Sint-Gillis"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk Workshop (English)",
     "start_date": "2025-05-27T20:30:00+02:00",
     "end_date": "2025-05-27T23:30:00+02:00",
@@ -904,7 +904,7 @@
     "city": "San Diego"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk workshop",
     "start_date": "2025-05-20T16:00:00+02:00",
     "end_date": "2025-05-20T19:00:00+02:00",
@@ -920,7 +920,7 @@
     "city": "Amsterdam"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk Workshop (Deutsch)",
     "start_date": "2025-05-07T16:00:00+02:00",
     "end_date": "2025-05-07T19:15:00+02:00",
@@ -931,7 +931,7 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/623cda55-569f-4571-bf6a-7118d87b2c21/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Affresco del Clima - Laboratorio in presenza @ Toolbox Coworking",
     "start_date": "2025-05-15T16:30:00+02:00",
     "end_date": "2025-05-15T19:30:00+02:00",
@@ -947,7 +947,7 @@
     "city": "Torino"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Atelier La Fresque du Climat",
     "start_date": "2025-05-22T16:00:00+02:00",
     "end_date": "2025-05-22T19:30:00+02:00",
@@ -963,7 +963,7 @@
     "city": "Woluwe-Saint-Lambert - Sint-Lambrechts-Woluwe"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk @ Invictus International School, Dempsey Hill",
     "start_date": "2025-05-18T02:00:00+08:00",
     "end_date": "2025-05-18T05:00:00+08:00",
@@ -979,7 +979,7 @@
     "city": "Singapore"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Atelier La Fresque du Climat",
     "start_date": "2025-05-23T11:30:00+02:00",
     "end_date": "2025-05-23T14:30:00+02:00",
@@ -995,7 +995,7 @@
     "city": "Uccle - Ukkel"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Atelier Fresque du Climat à l'Espace-Atout, Erpent",
     "start_date": "2025-05-15T16:30:00+02:00",
     "end_date": "2025-05-15T19:45:00+02:00",
@@ -1011,7 +1011,7 @@
     "city": "Namur"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Taller el Mural del Clima en Valencia",
     "start_date": "2025-05-17T08:00:00+02:00",
     "end_date": "2025-05-17T11:00:00+02:00",
@@ -1027,7 +1027,7 @@
     "city": "València"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Atelier la Fresque du Climat",
     "start_date": "2025-05-17T12:00:00+02:00",
     "end_date": "2025-05-17T15:00:00+02:00",
@@ -1043,7 +1043,7 @@
     "city": "Gembloux"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Das Klima Puzzle",
     "start_date": "2025-05-16T12:00:00+02:00",
     "end_date": "2025-05-16T15:00:00+02:00",
@@ -1052,14 +1052,14 @@
     "language_code": "de",
     "online": false,
     "tickets_link": "https://association.climatefresk.org/training_sessions/19dfbf0f-1808-4f38-b38e-c7f3bbb3c973/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
-    "location_name": "Sportzentrum",
-    "longitude": "13.4486206",
-    "latitude": "48.5661535",
-    "address": "45 Innstraße",
+    "location_name": "Universität Passau",
+    "longitude": "13.4521080",
+    "latitude": "48.5675495",
+    "address": "Innstraße",
     "city": "Passau"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "La fresque du climat",
     "start_date": "2025-05-16T12:00:00+02:00",
     "end_date": "2025-05-16T15:00:00+02:00",
@@ -1068,14 +1068,14 @@
     "language_code": "fr",
     "online": false,
     "tickets_link": "https://association.climatefresk.org/training_sessions/97ccf368-c4ae-462f-baad-1d317da1b074/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
-    "location_name": "Sportzentrum",
-    "longitude": "13.4486206",
-    "latitude": "48.5661535",
-    "address": "45 Innstraße",
+    "location_name": "Universität Passau",
+    "longitude": "13.4521080",
+    "latitude": "48.5675495",
+    "address": "Innstraße",
     "city": "Passau"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Klima Puzzle Workshop",
     "start_date": "2025-05-15T12:00:00+02:00",
     "end_date": "2025-05-15T16:00:00+02:00",
@@ -1091,7 +1091,7 @@
     "city": "Karlsruhe"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Atelier de la Fresque du Climat",
     "start_date": "2025-05-06T16:00:00+02:00",
     "end_date": "2025-05-06T19:00:00+02:00",
@@ -1107,7 +1107,7 @@
     "city": "Karlsruhe"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 200,
     "title": "Climate Fresk workshop (Northern Ireland - English - Online)",
     "start_date": "2025-05-02T09:00:00+01:00",
     "end_date": "2025-05-02T12:00:00+01:00",
@@ -1156,7 +1156,7 @@
     "end_date": "2025-05-18T12:30:00+01:00",
     "full_location": "Göteborgs Föreningscenter, Södra Allégatan 1B, 413 01 Göteborg, Sweden",
     "country_code": "se",
-    "language_code": "other",
+    "language_code": "en",
     "online": false,
     "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091",
     "location_name": "",

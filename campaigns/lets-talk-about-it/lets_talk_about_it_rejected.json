@@ -1,0 +1,58 @@
+[
+  {
+    "entry": {
+      "workshop_type": 300,
+      "title": "WORKSHOP - Circular Economy Collage - Dubai",
+      "start_date": "2025-05-15T09:00:00+04:00",
+      "end_date": "2025-05-15T12:00:00+04:00",
+      "full_location": "14b Street, Umm Suqeim 1, Umm Suqeim, Dubai, United Arab Emirates",
+      "country_code": "ae",
+      "language_code": "en",
+      "online": false,
+      "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-in-dubai-tickets-1318478758459?aff=oddtdtcreator"
+    },
+    "error": "Address \"{'road': '14b شارع', 'neighbourhood': 'أم سقيم 1', 'suburb': 'أم سقيم', 'state': 'دبي', 'ISO3166-2-lvl4': 'AE-DU', 'country': 'الإمارات العربية المتحدة', 'country_code': 'ae'}\" has a bad city format, unhandled by TuF (input: 14b Street, Umm Suqeim 1, Umm Suqeim, Dubai, United Arab Emirates)."
+  },
+  {
+    "entry": {
+      "workshop_type": 200,
+      "title": "クライメートフレスク【日本語】",
+      "start_date": "2025-05-24T04:00:00+09:00",
+      "end_date": "2025-05-24T07:00:00+09:00",
+      "full_location": "SusHi Tech Square, 3, Marunouchi 3, Marunouchi, Chiyoda, Tokyo, 100-0005, Japan",
+      "country_code": "jp",
+      "language_code": "ja",
+      "online": false,
+      "tickets_link": "https://association.climatefresk.org/training_sessions/daeef273-f77d-4ec3-8d91-ed7d6232976e/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    },
+    "error": "Address \"{'building': 'SusHi Tech Square', 'house_number': '3', 'neighbourhood': '丸の内三丁目', 'quarter': '丸の内', 'city': '千代田区', 'ISO3166-2-lvl4': 'JP-13', 'postcode': '100-0005', 'country': '日本', 'country_code': 'jp'}\" has a bad road format, unhandled by TuF (input: SusHi Tech Square, 3, Marunouchi 3, Marunouchi, Chiyoda, Tokyo, 100-0005, Japan)."
+  },
+  {
+    "entry": {
+      "workshop_type": 200,
+      "title": "Monthly Workshop - English",
+      "start_date": "2025-05-24T04:00:00+09:00",
+      "end_date": "2025-05-24T07:00:00+09:00",
+      "full_location": "SusHi Tech Square, 3, Marunouchi 3, Marunouchi, Chiyoda, Tokyo, 100-0005, Japan",
+      "country_code": "jp",
+      "language_code": "en",
+      "online": false,
+      "tickets_link": "https://association.climatefresk.org/training_sessions/1477bfdf-d70a-43a9-89a7-38fdc1b53f7d/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    },
+    "error": "Address \"{'building': 'SusHi Tech Square', 'house_number': '3', 'neighbourhood': '丸の内三丁目', 'quarter': '丸の内', 'city': '千代田区', 'ISO3166-2-lvl4': 'JP-13', 'postcode': '100-0005', 'country': '日本', 'country_code': 'jp'}\" has a bad road format, unhandled by TuF (input: SusHi Tech Square, 3, Marunouchi 3, Marunouchi, Chiyoda, Tokyo, 100-0005, Japan)."
+  },
+  {
+    "entry": {
+      "workshop_type": 200,
+      "title": "Climate Fresk Workshop",
+      "start_date": "2025-05-07T06:00:00+04:00",
+      "end_date": "2025-05-07T09:00:00+04:00",
+      "full_location": "Khalifa City, Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "country_code": "ae",
+      "language_code": "en",
+      "online": false,
+      "tickets_link": "https://association.climatefresk.org/training_sessions/5127cca6-d0e9-46ca-ade8-09ee5827ade9/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    },
+    "error": "Address \"{'city': 'مدينة خليفة', 'county': 'أبوظبي', 'state': 'أبو ظبي', 'ISO3166-2-lvl4': 'AE-AZ', 'country': 'الإمارات العربية المتحدة', 'country_code': 'ae'}\" has a bad road format, unhandled by TuF (input: Khalifa City, Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates)."
+  }
+]
