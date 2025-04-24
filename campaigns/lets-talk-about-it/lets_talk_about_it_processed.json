@@ -1,21 +1,5 @@
 [
   {
-    "workshop_type": 0,
-    "title": "[ATELIER - Puy-de-Dôme (63)] La Fresque des Nouveaux Récits",
-    "start_date": "2025-04-22T18:00:00+02:00",
-    "end_date": "2025-04-22T21:00:00+02:00",
-    "full_location": "Cowork'it, Rue Barillot Veuve Coupelon, Clermont-Ferrand, France",
-    "country_code": "fr",
-    "language_code": "fr",
-    "online": false,
-    "tickets_link": "https://www.billetweb.fr/shop.php?event=963868&margin=no_margin&color=635BFF&cross_shop=21569&step=1&session=11231631",
-    "location_name": "Rue Barillot Veuve Coupelon",
-    "longitude": "3.0820663",
-    "latitude": "45.7687943",
-    "address": "Rue Barillot Veuve Coupelon",
-    "city": "Clermont-Ferrand"
-  },
-  {
     "workshop_type": 300,
     "title": "WORKSHOP - Puzzle der Kreislaufwirtschaft - Vienna",
     "start_date": "2025-06-02T18:00:00+02:00",

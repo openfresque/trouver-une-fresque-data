@@ -1,16 +1,5 @@
 [
   {
-    "workshop_type": 0,
-    "title": "[ATELIER - Puy-de-Dôme (63)] La Fresque des Nouveaux Récits",
-    "start_date": "2025-04-22T18:00:00+02:00",
-    "end_date": "2025-04-22T21:00:00+02:00",
-    "full_location": "Cowork'it, Rue Barillot Veuve Coupelon, Clermont-Ferrand, France",
-    "country_code": "fr",
-    "language_code": "fr",
-    "online": false,
-    "tickets_link": "https://www.billetweb.fr/shop.php?event=963868&margin=no_margin&color=635BFF&cross_shop=21569&step=1&session=11231631"
-  },
-  {
     "workshop_type": 300,
     "title": "WORKSHOP - Puzzle der Kreislaufwirtschaft - Vienna",
     "start_date": "2025-06-02T18:00:00+02:00",
@@ -858,7 +847,7 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/6135968c-a0bd-478e-9965-0a8a39c83880/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 3,
     "title": "AwareNest Fest Göteborg",
     "start_date": "2025-05-18T09:30:00+01:00",
     "end_date": "2025-05-18T12:30:00+01:00",
@@ -875,7 +864,7 @@
     "end_date": "2025-05-18T12:30:00+01:00",
     "full_location": "Göteborgs Föreningscenter, Södra Allégatan 1B, 413 01 Göteborg, Sweden",
     "country_code": "se",
-    "language_code": "en",
+    "language_code": "se",
     "online": false,
     "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091"
   },
