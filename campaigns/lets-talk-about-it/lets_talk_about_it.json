@@ -6,7 +6,7 @@
     "end_date": "2025-04-22T21:00:00+02:00",
     "full_location": "Cowork'it, Rue Barillot Veuve Coupelon, Clermont-Ferrand, France",
     "country_code": "fr",
-    "language_code": "",
+    "language_code": "fr",
     "online": false,
     "tickets_link": "https://www.billetweb.fr/shop.php?event=963868&margin=no_margin&color=635BFF&cross_shop=21569&step=1&session=11231631"
   },
@@ -126,7 +126,7 @@
     "start_date": "2025-05-08T18:00:00+01:00",
     "end_date": "2025-05-08T19:30:00+01:00",
     "full_location": "151 Walworth Rd, London SE17 1RS, Royaume-Uni",
-    "country_code": "",
+    "country_code": "gb",
     "language_code": "en",
     "online": false,
     "tickets_link": "https://www.eventbrite.fr/e/circular-challenge-in-london-tickets-1324849393199?aff=oddtdtcreator"
@@ -869,7 +869,7 @@
     "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 100,
     "title": "AwareNest Fest Göteborg",
     "start_date": "2025-05-18T09:30:00+01:00",
     "end_date": "2025-05-18T12:30:00+01:00",
@@ -880,7 +880,7 @@
     "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 1,
     "title": "AwareNest Fest Göteborg",
     "start_date": "2025-05-18T09:30:00+01:00",
     "end_date": "2025-05-18T12:30:00+01:00",
@@ -891,7 +891,7 @@
     "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 500,
     "title": "AwareNest Fest Göteborg",
     "start_date": "2025-05-18T14:00:00+01:00",
     "end_date": "2025-05-18T17:00:00+01:00",
@@ -902,7 +902,7 @@
     "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091"
   },
   {
-    "workshop_type": 0,
+    "workshop_type": 14,
     "title": "AwareNest Fest Göteborg",
     "start_date": "2025-05-18T14:00:00+01:00",
     "end_date": "2025-05-18T17:00:00+01:00",
