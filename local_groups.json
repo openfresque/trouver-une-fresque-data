@@ -110,5 +110,19 @@
         "longitude": "36.828842",
         "link": "https://3esexperience.org/",
         "country_code": "KE"
+    },
+    {
+        "title": "Workshops for the Planet",
+        "latitude": "-0.120835",
+        "longitude": "51.512717",
+        "link": "https://workshopsfortheplanet.co.uk/",
+        "country_code": "GB"
+    },
+    {
+        "title": "Fresques.re",
+        "latitude": "55.450611",
+        "longitude": "-20.875955",
+        "link": "https://fresques.re/",
+        "country_code": "FR"
     }
 ]
