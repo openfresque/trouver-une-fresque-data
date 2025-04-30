@@ -113,15 +113,15 @@
     },
     {
         "title": "Workshops for the Planet",
-        "latitude": "-0.120835",
-        "longitude": "51.512717",
+        "latitude": "51.512717",
+        "longitude": "-0.120835",
         "link": "https://workshopsfortheplanet.co.uk/",
         "country_code": "GB"
     },
     {
         "title": "Fresques.re",
-        "latitude": "55.450611",
-        "longitude": "-20.875955",
+        "latitude": "-20.875955",
+        "longitude": "55.450611",
         "link": "https://fresques.re/",
         "country_code": "FR"
     }
