@@ -8,7 +8,12 @@
     "country_code": "de",
     "language_code": "de",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/9d0c2f0c-5e65-4264-908c-cc20a3e33749/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/9d0c2f0c-5e65-4264-908c-cc20a3e33749/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "Volkshochschule Krefeld",
+    "longitude": "6.5593048",
+    "latitude": "51.3344747",
+    "address": "2 Von-der-Leyen-Platz",
+    "city": "Krefeld"
   },
   {
     "workshop_type": 200,
@@ -19,7 +24,12 @@
     "country_code": "au",
     "language_code": "en",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/335e0f8e-8592-453f-b86e-6ecd4cac1c06/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/335e0f8e-8592-453f-b86e-6ecd4cac1c06/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "Canva",
+    "longitude": "151.2113922",
+    "latitude": "-33.8853076",
+    "address": "Kippax Street",
+    "city": "Sydney"
   },
   {
     "workshop_type": 200,
@@ -30,7 +40,12 @@
     "country_code": "de",
     "language_code": "de",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/6bf8dbab-b04e-460f-861a-500dae24b933/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/6bf8dbab-b04e-460f-861a-500dae24b933/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "",
+    "longitude": "11.4200676",
+    "latitude": "48.1024043",
+    "address": "10a Am Marktplatz",
+    "city": "Planegg"
   },
   {
     "workshop_type": 200,
@@ -41,7 +56,12 @@
     "country_code": "de",
     "language_code": "de",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/6e6d3262-9b72-4100-9385-40a6ca268340/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/6e6d3262-9b72-4100-9385-40a6ca268340/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "EineWeltHaus",
+    "longitude": "11.5529350",
+    "latitude": "48.1379275",
+    "address": "80 Schwanthalerstraße",
+    "city": "München"
   },
   {
     "workshop_type": 200,
@@ -52,7 +72,12 @@
     "country_code": "de",
     "language_code": "de",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/8df24a2e-94be-4d6b-bbe8-5286e92b5e8e/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/8df24a2e-94be-4d6b-bbe8-5286e92b5e8e/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "EineWeltHaus",
+    "longitude": "11.5529350",
+    "latitude": "48.1379275",
+    "address": "80 Schwanthalerstraße",
+    "city": "München"
   },
   {
     "workshop_type": 200,
@@ -85,7 +110,12 @@
     "country_code": "nl",
     "language_code": "en",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/9e3feb78-e72a-42c9-9b9c-774da9ab4d56/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/9e3feb78-e72a-42c9-9b9c-774da9ab4d56/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "Faculty of Aerospace Engineering",
+    "longitude": "4.3753701",
+    "latitude": "51.9898961",
+    "address": "1 Kluyverweg",
+    "city": "Delft"
   },
   {
     "workshop_type": 200,
@@ -96,7 +126,12 @@
     "country_code": "ae",
     "language_code": "en",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/65c710eb-4d7d-4f6c-b4d2-a7b94351590e/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/65c710eb-4d7d-4f6c-b4d2-a7b94351590e/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "Nexx Home Healthcare Services",
+    "longitude": "55.2596551",
+    "latitude": "25.1843712",
+    "address": "Marasi Dr - Business Bay - Dubai - United Arab Emirates شارع الأبراج",
+    "city": "الخليج التجاري"
   },
   {
     "workshop_type": 200,
@@ -107,7 +142,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/c372a562-0b33-43f8-91cb-3efd3f7a98cd/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/c372a562-0b33-43f8-91cb-3efd3f7a98cd/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "Centro sociocultural de L'Eliana",
+    "longitude": "-0.5342550",
+    "latitude": "39.5659938",
+    "address": "1 Plaça d'Europa",
+    "city": "l'Eliana"
   },
   {
     "workshop_type": 200,
@@ -129,7 +169,12 @@
     "country_code": "id",
     "language_code": "id",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/515616ac-dcc9-462c-8711-a6b82573cb64/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/515616ac-dcc9-462c-8711-a6b82573cb64/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "Jalan Raden Saleh Raya",
+    "longitude": "106.8447920",
+    "latitude": "-6.1899826",
+    "address": "Jalan Raden Saleh Raya",
+    "city": "Daerah Khusus ibukota Jakarta"
   },
   {
     "workshop_type": 200,
@@ -140,7 +185,12 @@
     "country_code": "de",
     "language_code": "de",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/1b11029b-3736-4330-a448-fba97341dbaf/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/1b11029b-3736-4330-a448-fba97341dbaf/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "WühlischVierzig",
+    "longitude": "13.4602707",
+    "latitude": "52.5087918",
+    "address": "40 Wühlischstraße",
+    "city": "Berlin"
   },
   {
     "workshop_type": 200,
@@ -151,7 +201,12 @@
     "country_code": "be",
     "language_code": "fr",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/d38cf261-f24a-411e-a32b-1e0abe3773c3/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/d38cf261-f24a-411e-a32b-1e0abe3773c3/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "",
+    "longitude": "4.3595236",
+    "latitude": "50.8517974",
+    "address": "49;53 Rue du Marais - Broekstraat",
+    "city": "Bruxelles - Brussel"
   },
   {
     "workshop_type": 200,
@@ -173,7 +228,12 @@
     "country_code": "be",
     "language_code": "fr",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/ac651fe6-9831-4e08-8f59-d8ee190c419b/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/ac651fe6-9831-4e08-8f59-d8ee190c419b/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "Maison communale de Watermael-Boitsfort - Gemeentehuis Watermaal-Bosvoorde",
+    "longitude": "4.4170547",
+    "latitude": "50.7980558",
+    "address": "1 Place Antoine Gilson - Antoine Gilsonplein",
+    "city": "Watermael-Boitsfort - Watermaal-Bosvoorde"
   },
   {
     "workshop_type": 200,
@@ -184,7 +244,12 @@
     "country_code": "lt",
     "language_code": "lt",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/43e68c5d-45fd-4ec2-9436-5bafe2a176f8/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/43e68c5d-45fd-4ec2-9436-5bafe2a176f8/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "",
+    "longitude": "25.2890530",
+    "latitude": "54.6801899",
+    "address": "10 Didžioji g.",
+    "city": "Vilnius"
   },
   {
     "workshop_type": 2,
@@ -195,7 +260,12 @@
     "country_code": "se",
     "language_code": "en",
     "online": false,
-    "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091"
+    "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091",
+    "location_name": "",
+    "longitude": "11.9540552",
+    "latitude": "57.6998839",
+    "address": "1B Södra Allégatan",
+    "city": "Göteborg"
   },
   {
     "workshop_type": 200,
@@ -206,7 +276,12 @@
     "country_code": "se",
     "language_code": "other",
     "online": false,
-    "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091"
+    "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091",
+    "location_name": "",
+    "longitude": "11.9540552",
+    "latitude": "57.6998839",
+    "address": "1B Södra Allégatan",
+    "city": "Göteborg"
   },
   {
     "workshop_type": 100,
@@ -272,7 +347,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://www.eventbrite.fr/e/billets-2tonnes-world-taller-en-madrid-spain-espanol-1345019953889"
+    "tickets_link": "https://www.eventbrite.fr/e/billets-2tonnes-world-taller-en-madrid-spain-espanol-1345019953889",
+    "location_name": "Triple Coworking",
+    "longitude": "-3.7187030",
+    "latitude": "40.4277413",
+    "address": "56 Calle de Ferraz",
+    "city": "Madrid"
   },
   {
     "workshop_type": 200,
@@ -283,7 +363,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/3a1d8e30-7c3f-4a3c-b096-0283dd3a11f9/show_public?language=es&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/3a1d8e30-7c3f-4a3c-b096-0283dd3a11f9/show_public?language=es&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "Triple Coworking",
+    "longitude": "-3.7187030",
+    "latitude": "40.4277413",
+    "address": "56 Calle de Ferraz",
+    "city": "Madrid"
   },
   {
     "workshop_type": 200,
@@ -294,7 +379,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/de15e7e3-dd81-4ea0-9b35-65d8f2f491ac/show_public?language=es&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/de15e7e3-dd81-4ea0-9b35-65d8f2f491ac/show_public?language=es&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "",
+    "longitude": "-0.8919362",
+    "latitude": "41.6438356",
+    "address": "1,3 Paseo de Fernando El Católico",
+    "city": "Zaragoza"
   },
   {
     "workshop_type": 0,
@@ -305,7 +395,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://www.billetweb.fr/taller-espana-el-mural-de-los-nuevos-relatos"
+    "tickets_link": "https://www.billetweb.fr/taller-espana-el-mural-de-los-nuevos-relatos",
+    "location_name": "Alliance Française",
+    "longitude": "-3.7086547",
+    "latitude": "40.4202423",
+    "address": "13 Cuesta de Santo Domingo",
+    "city": "Madrid"
   },
   {
     "workshop_type": -1,
@@ -316,7 +411,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://framaforms.org/adaptacion-al-cambio-climatico-inscripciones-29-de-mayo-18h-21h-apocapoc-bcn-1730203715"
+    "tickets_link": "https://framaforms.org/adaptacion-al-cambio-climatico-inscripciones-29-de-mayo-18h-21h-apocapoc-bcn-1730203715",
+    "location_name": "",
+    "longitude": "2.1919586",
+    "latitude": "41.3980527",
+    "address": "100 Carrer d'Àlaba",
+    "city": "Barcelona"
   },
   {
     "workshop_type": 801,
@@ -327,7 +427,12 @@
     "country_code": "es",
     "language_code": "en",
     "online": false,
-    "tickets_link": "https://www.billetweb.fr/living-soils-workshop-barcelona-eng2&multi=28268&margin=no_margin&color=2CB67D&parent=atelierdessolsvivants&margin=no_margin&color=2CB67D"
+    "tickets_link": "https://www.billetweb.fr/living-soils-workshop-barcelona-eng2&multi=28268&margin=no_margin&color=2CB67D&parent=atelierdessolsvivants&margin=no_margin&color=2CB67D",
+    "location_name": "",
+    "longitude": "2.1919586",
+    "latitude": "41.3980527",
+    "address": "100 Carrer d'Àlaba",
+    "city": "Barcelona"
   },
   {
     "workshop_type": 200,
@@ -338,7 +443,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/a0ca04d5-1f1b-4343-a73e-578c14cb2181/show_public?language=es&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/a0ca04d5-1f1b-4343-a73e-578c14cb2181/show_public?language=es&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "",
+    "longitude": "2.1919586",
+    "latitude": "41.3980527",
+    "address": "100 Carrer d'Àlaba",
+    "city": "Barcelona"
   },
   {
     "workshop_type": 200,
@@ -349,7 +459,12 @@
     "country_code": "es",
     "language_code": "other",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/a0a06bee-10b1-4b7b-ab4f-ce03cc97b98d/show_public?language=es&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/a0a06bee-10b1-4b7b-ab4f-ce03cc97b98d/show_public?language=es&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "",
+    "longitude": "2.1919586",
+    "latitude": "41.3980527",
+    "address": "100 Carrer d'Àlaba",
+    "city": "Barcelona"
   },
   {
     "workshop_type": 200,
@@ -360,7 +475,12 @@
     "country_code": "es",
     "language_code": "en",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/dde138b6-183c-4c01-b29b-2182479add5c/show_public?language=en&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/dde138b6-183c-4c01-b29b-2182479add5c/show_public?language=en&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "",
+    "longitude": "2.1919586",
+    "latitude": "41.3980527",
+    "address": "100 Carrer d'Àlaba",
+    "city": "Barcelona"
   },
   {
     "workshop_type": 2,
@@ -371,7 +491,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://lu.ma/2cmt3l5s"
+    "tickets_link": "https://lu.ma/2cmt3l5s",
+    "location_name": "",
+    "longitude": "2.1919586",
+    "latitude": "41.3980527",
+    "address": "100 Carrer d'Àlaba",
+    "city": "Barcelona"
   },
   {
     "workshop_type": 200,
@@ -382,7 +507,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/30ec8a70-b6cf-49ae-b796-ebeb9d9b785f/show_public?language=es&tenant_token=36bd2274d3982262c0021755"
+    "tickets_link": "https://association.climatefresk.org/training_sessions/30ec8a70-b6cf-49ae-b796-ebeb9d9b785f/show_public?language=es&tenant_token=36bd2274d3982262c0021755",
+    "location_name": "Carrer del Primer de Maig",
+    "longitude": "2.0977953",
+    "latitude": "41.3286969",
+    "address": "Carrer del Primer de Maig",
+    "city": "el Prat de Llobregat"
   },
   {
     "workshop_type": 2,
@@ -393,7 +523,12 @@
     "country_code": "es",
     "language_code": "fr",
     "online": false,
-    "tickets_link": "https://www.madrid-accueil.fr/Decouvrez-La-Fresque-de-la-Biodiversite"
+    "tickets_link": "https://www.madrid-accueil.fr/Decouvrez-La-Fresque-de-la-Biodiversite",
+    "location_name": "Institut français de Madrid",
+    "longitude": "-3.6922159",
+    "latitude": "40.4246914",
+    "address": "12 Calle del Marqués de la Ensenada",
+    "city": "Madrid"
   },
   {
     "workshop_type": 14,
@@ -404,7 +539,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://www.billetweb.fr/mural-del-textil-en-valencia"
+    "tickets_link": "https://www.billetweb.fr/mural-del-textil-en-valencia",
+    "location_name": "Campus de Vera de la Universitat Politècnica de València",
+    "longitude": "-0.3420311",
+    "latitude": "39.4808517",
+    "address": "Camí de Vera",
+    "city": "València"
   },
   {
     "workshop_type": 300,
@@ -415,7 +555,12 @@
     "country_code": "es",
     "language_code": "es",
     "online": false,
-    "tickets_link": "https://www.eventbrite.fr/e/entradas-mural-de-la-economia-circular-en-el-centre-de-juventut-en-valencia-1333906483199?aff=oddtdtcreator"
+    "tickets_link": "https://www.eventbrite.fr/e/entradas-mural-de-la-economia-circular-en-el-centre-de-juventut-en-valencia-1333906483199?aff=oddtdtcreator",
+    "location_name": "",
+    "longitude": "-0.3563410",
+    "latitude": "39.4866797",
+    "address": "63 Carrer de l'Arquitecte Arnau",
+    "city": "València"
   },
   {
     "workshop_type": 300,
@@ -426,7 +571,12 @@
     "country_code": "ca",
     "language_code": "en",
     "online": false,
-    "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-in-montreal-canada-tickets-1349564336259?aff=oddtdtcreator"
+    "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-in-montreal-canada-tickets-1349564336259?aff=oddtdtcreator",
+    "location_name": "Humanity & Inclusion",
+    "longitude": "-73.5639452",
+    "latitude": "45.5091703",
+    "address": "50 Rue Sainte-Catherine Ouest",
+    "city": "Montréal"
   },
   {
     "workshop_type": 300,
@@ -437,7 +587,12 @@
     "country_code": "sg",
     "language_code": "en",
     "online": false,
-    "tickets_link": "https://www.eventbrite.fr/e/1349583222749?aff=oddtdtcreator"
+    "tickets_link": "https://www.eventbrite.fr/e/1349583222749?aff=oddtdtcreator",
+    "location_name": "Jalan Pinang",
+    "longitude": "103.8581910",
+    "latitude": "1.3030650",
+    "address": "Jalan Pinang",
+    "city": "Singapore"
   },
   {
     "workshop_type": 300,
@@ -448,6 +603,11 @@
     "country_code": "ca",
     "language_code": "fr",
     "online": false,
-    "tickets_link": "https://www.eventbrite.fr/e/1349599832429?aff=oddtdtcreator"
+    "tickets_link": "https://www.eventbrite.fr/e/1349599832429?aff=oddtdtcreator",
+    "location_name": "Humanity & Inclusion",
+    "longitude": "-73.5639452",
+    "latitude": "45.5091703",
+    "address": "50 Rue Sainte-Catherine Ouest",
+    "city": "Montréal"
   }
 ]
