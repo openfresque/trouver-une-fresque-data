@@ -176,17 +176,6 @@
     "tickets_link": "https://association.climatefresk.org/training_sessions/ac651fe6-9831-4e08-8f59-d8ee190c419b/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
   },
   {
-    "workshop_type": 200,
-    "title": "Climate Fresk workshop (Lithuanian)",
-    "start_date": "2025-05-26T15:00:00+03:00",
-    "end_date": "2025-05-26T18:00:00+03:00",
-    "full_location": "10, Didžioji g., Senamiesčio seniūnija, Vilnius, Lithuania",
-    "country_code": "lt",
-    "language_code": "lt",
-    "online": false,
-    "tickets_link": "https://association.climatefresk.org/training_sessions/43e68c5d-45fd-4ec2-9436-5bafe2a176f8/show_public?language=fr&tenant_token=36bd2274d3982262c0021755"
-  },
-  {
     "workshop_type": 2,
     "title": "AwareNest Fest Göteborg",
     "start_date": "2025-05-18T09:30:00+01:00",
@@ -204,7 +193,7 @@
     "end_date": "2025-05-18T12:30:00+01:00",
     "full_location": "Göteborgs Föreningscenter, Södra Allégatan 1B, 413 01 Göteborg, Sweden",
     "country_code": "se",
-    "language_code": "other",
+    "language_code": "en",
     "online": false,
     "tickets_link": "https://www.tickettailor.com/events/awarenest/1651091"
   },
