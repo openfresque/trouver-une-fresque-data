@@ -124,5 +124,19 @@
         "longitude": "55.450611",
         "link": "https://fresques.re/",
         "country_code": "FR"
+    },
+    {
+        "title": "One Planet Friends",
+        "latitude": "47.379486",
+        "longitude": "8.522422",
+        "link": "https://oneplanetfriends.org/",
+        "country_code": "CH"
+    },
+    {
+        "title": "Fresques Zamies & Co",
+        "latitude": "46.515425",
+        "longitude": "6.633776",
+        "link": "https://fresqueszamies.ch/",
+        "country_code": "CH"
     }
 ]
