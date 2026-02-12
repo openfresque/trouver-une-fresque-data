@@ -74,7 +74,8 @@
         "source_link": "https://association.climatefresk.org/training_sessions/d2963304-2a15-44c8-bfb9-06b58db018f3/show_public?language=fr&tenant_token=36bd2274d3982262c0021755",
         "tickets_link": "https://association.climatefresk.org/training_sessions/d2963304-2a15-44c8-bfb9-06b58db018f3/public_participations/ticket_choice?language=fr&tenant_token=36bd2274d3982262c0021755",
         "description": "Description\nPour organiser une Fresque du climat, de l'économie circulaire ou du partage à Bienne en 2026 , merci de me contacter au 077 449 21 72 ou marie.valentin@gmail.com.\nNous déterminerons une date et un lieu ensemble. ",
-        "scrape_date": "2026-02-08T21:02:55.803573+01:00"
+        "scrape_date": "2026-02-08T21:02:55.803573+01:00",
+        "lregion": "Sarine"
     },
     {
         "id": "300-d16b6b7a-410d-4312-ae12-2ebc8c112da9",
@@ -125,7 +126,7 @@
         "source_link": "https://ennetraum.ch/sdgs/",
         "tickets_link": "https://ennetraum.ch/sdgs/",
         "description": "https://ennetraum.ch/sdgs/",
-        "scrape_date": "2026-02-08T21:08:07.710086+01:00"
+        "scrape_date": "2026-02-08T21:08:07.710086+01:00",
         "lregion": "Deutschschweiz"
     },
     {
@@ -177,7 +178,7 @@
         "source_link": "https://ennetraum.ch/sdgs/",
         "tickets_link": "https://ennetraum.ch/sdgs/",
         "description": "https://ennetraum.ch/sdgs/",
-        "scrape_date": "2026-02-08T21:08:07.712906+01:00"
+        "scrape_date": "2026-02-08T21:08:07.712906+01:00",
         "lregion": "Deutschschweiz"
     },
     {
