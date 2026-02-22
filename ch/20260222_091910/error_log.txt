@@ -1,0 +1,75 @@
+2026-02-22 08:52:59,534 - ERROR - get_address: Address not found (input: 1 Pass. Jaqueline Giraud - Paris 12ème).
+2026-02-22 08:55:11,153 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:55:35,207 - ERROR - get_address: Address not found (input: La Melting Coop, épicerie et café participatifs, Cours Émile-Zola, Villeurbanne, F).
+2026-02-22 08:55:43,210 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2026-02-22 08:55:43,211 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2026-02-22 08:55:43,211 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2026-02-22 08:55:43,212 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2026-02-22 08:55:43,212 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2026-02-22 08:55:53,311 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:55:55,134 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:08,102 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:08,337 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:08,337 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:08,338 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:08,339 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:08,340 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:08,340 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:08,340 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:11,386 - ERROR - get_address: Address not found (input: KABIA, MAISON DE L'ESS, ECONOMIE SOCIALE ET SOLIDAIRE EN PAYS BASQUE, Av. de la Répu).
+2026-02-22 08:56:15,830 - ERROR - get_address: Address "{'postcode': '06560', 'suburb': 'Sophia Antipolis', 'town': 'Valbonne', 'municipality': 'Grasse', 'county': 'Alpes-Maritimes', 'ISO3166-2-lvl6': 'FR-06', 'state': "Provence-Alpes-Côte d'Azur", 'ISO3166-2-lvl4': 'FR-PAC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 06560 Valbonne, France).
+2026-02-22 08:56:21,644 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-02-22 08:56:29,781 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:56:36,799 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-02-22 08:57:37,895 - ERROR - get_address: Address "{'postcode': '31300', 'suburb': 'Lardenne / Pradettes / Basso-Cambo', 'city': 'Toulouse', 'municipality': 'Toulouse', 'county': 'Haute-Garonne', 'ISO3166-2-lvl6': 'FR-31', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Le grenier - 1 Place de la Charte des Libertés Communales, 31300 Toulouse).
+2026-02-22 08:57:43,260 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:58:07,362 - ERROR - get_address: Address "{'house_number': '22', 'road': 'Place Saint-Géry - Sint-Goriksplein', 'neighbourhood': 'Quartier Saint-Géry - Sint-Gorikswijk', 'suburb': 'Pentagone - Vijfhoek', 'city_district': 'Bruxelles - Brussel', 'city': 'Bruxelles - Brussel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1000', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Entropy Restaurant, Place Saint-Géry 22, 1000 Bruxelles, Belgique).
+2026-02-22 08:59:42,913 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:59:44,418 - ERROR - get_address: Address not found (input: Salle Bartholmé, Paroisse du Bouclier, 4 rue du Bouclier 67000 Strasbourg ).
+2026-02-22 08:59:45,795 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:59:52,743 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:59:55,022 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:59:55,948 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:59:57,439 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 08:59:59,748 - ERROR - get_address: Address not found (input: Open Lande - 10 Rue de l'Île Mabon, 44200 Nantes - Accessible PMR).
+2026-02-22 08:59:59,749 - ERROR - get_address: Address not found (input: Open Lande - 10 Rue de l'Île Mabon, 44200 Nantes - Accessible PMR).
+2026-02-22 08:59:59,749 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 09:00:06,708 - ERROR - get_address: Address not found (input: La Cordée, 4 Rue Saint-François de Sales, Annecy - Non accessible PMR).
+2026-02-22 09:00:10,148 - ERROR - get_address: Address not found (input: La Cordée, 1 Carr Jouaust, 35000 Rennes, France ).
+2026-02-22 09:00:18,367 - ERROR - get_address: Address not found (input: Auberge Jeunesse Paris Yves Robert 20 Espl Nathalie Sarraute 75018 ).
+2026-02-22 09:00:27,252 - ERROR - get_address: Address not found (input: Maison des étudiants de Grenoble - 6 Place Pasteur, 38000 Grenoble - Accessible PMR).
+2026-02-22 09:00:37,860 - ERROR - get_address: Address "{'village': 'La Turballe', 'municipality': 'Saint-Nazaire', 'state': 'Pays de la Loire', 'ISO3166-2-lvl4': 'FR-PDL', 'region': 'France métropolitaine', 'postcode': '44420', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Centre Culturel Saint-Pierre · 13 Rue de l'Église, 44420 La Turballe).
+2026-02-22 09:00:44,596 - ERROR - get_address: Address not found (input: Le HangarT, 14 Rue Garibaldi, Lille - Accessible PMR).
+2026-02-22 09:00:44,597 - ERROR - get_address: Address not found (input: Le HangarT, 14 Rue Garibaldi, Lille - Accessible PMR).
+2026-02-22 09:01:00,041 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 09:01:02,630 - ERROR - get_address: Address not found (input: Muséum d'histoire naturelle , Palais Longchamp, Rue Espérandieu, 13004 Marseille).
+2026-02-22 09:01:11,807 - ERROR - get_address: Address "{'road': 'Providencia', 'quarter': 'Barrio Lo Errázuriz', 'suburb': 'Maipú', 'city': 'Santiago', 'county': 'Provincia de Santiago', 'state': 'Región Metropolitana de Santiago', 'ISO3166-2-lvl4': 'CL-RM', 'postcode': '8320000', 'country': 'Chile', 'country_code': 'cl'}" is not located in a supported country (input: Instituto Francés de Chile - Francisco Noguera 176, Providencia, Santiago, Chile).
+2026-02-22 09:01:23,931 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 09:02:06,308 - ERROR - get_address: Address not found (input: Lieu à définir).
+2026-02-22 09:02:14,611 - ERROR - get_address: Address "{'postcode': '76000', 'suburb': 'Quartier Vieux-Marché Cathédrale', 'city': 'Rouen', 'municipality': 'Rouen', 'county': 'Seine-Maritime', 'ISO3166-2-lvl6': 'FR-76', 'state': 'Normandie', 'ISO3166-2-lvl4': 'FR-NOR', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: ALTERN - 9 bis Rue Jeanne d'Arc, 76000 Rouen, France).
+2026-02-22 09:02:53,474 - ERROR - get_address: Address "{'city': 'Besançon', 'municipality': 'Besançon', 'county': 'Doubs', 'ISO3166-2-lvl6': 'FR-25', 'state': 'Bourgogne-Franche-Comté', 'ISO3166-2-lvl4': 'FR-BFC', 'region': 'France métropolitaine', 'postcode': '25000', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Hop hop hop - 5 Place Saint-Jacques, 25000 Besançon).
+2026-02-22 09:05:31,660 - ERROR - get_address: Address "{'town': 'Saint-Paul', 'municipality': 'Saint-Paul', 'state': 'La Réunion', 'ISO3166-2-lvl4': 'FR-RE', 'ISO3166-2-lvl3': 'FR-974', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 12 Avenue du Grand Piton, Saint-Paul 97460, La Réunion).
+2026-02-22 09:05:37,387 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 09:05:38,463 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 09:05:38,463 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 09:05:38,464 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 09:05:38,464 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 09:06:24,882 - ERROR - get_dates: 
+2026-02-22 09:06:25,716 - ERROR - get_dates: 
+2026-02-22 09:09:00,581 - ERROR - Location element not found for offline event https://www.eventbrite.fr/e/billets-fresque-du-plastique-paris-12e-1006-1316086031749?aff=ebdsoporgprofile.
+2026-02-22 09:09:13,682 - ERROR - Location element not found for offline event https://www.eventbrite.fr/e/billets-fresque-du-plastique-paris-18e-1805-1268840860169?aff=ebdsoporgprofile.
+2026-02-22 09:09:48,538 - ERROR - Location element not found for offline event https://www.eventbrite.fr/e/circular-economy-collage-in-dubai-united-arab-emirates-tickets-1853028340649?aff=ebdsoporgprofile.
+2026-02-22 09:10:30,757 - ERROR - Location element not found for offline event https://www.eventbrite.fr/e/circular-economy-collage-in-massachusetts-usa-tickets-1980533700613?aff=ebdsoporgprofile.
+2026-02-22 09:10:43,855 - ERROR - Location element not found for offline event https://www.eventbrite.fr/e/circular-economy-collage-in-massachusetts-usa-tickets-1980534050660?aff=ebdsoporgprofile.
+2026-02-22 09:10:55,189 - ERROR - get_address: Address "{'building': 'iAccelerate UOW', 'road': 'Puckey Avenue', 'suburb': 'North Wollongong', 'city': 'Wollongong City Council', 'state': 'New South Wales', 'ISO3166-2-lvl4': 'AU-NSW', 'postcode': '2500', 'country': 'Australia', 'country_code': 'au'}" is not located in a supported country (input: iAccelerate, Puckey Avenue, North Wollongong, NSW 2500).
+2026-02-22 09:11:53,477 - ERROR - get_address: Address not found (input: Alianza Francesa, 156, Avenida Homero, Polanco 2ª Sección. Miguel Hidalgo Mexico, MEX 11591).
+2026-02-22 09:12:05,250 - ERROR - get_address: Address "{'emergency': 'Rettungswache Trudering', 'house_number': '288', 'road': 'Truderinger Straße', 'quarter': 'Straßtrudering', 'neighbourhood': '15.1', 'suburb': 'Trudering-Riem', 'city': 'München', 'state': 'Bayern', 'ISO3166-2-lvl4': 'DE-BY', 'postcode': '81825', 'country': 'Deutschland', 'country_code': 'de'}" is not located in a supported country (input: Ehemaligen Truderinger Rathaus, Truderinger Str. 288, 81825 München).
+2026-02-22 09:12:18,747 - ERROR - get_dates: Dienstag, März 3, 2026 von 5 pm an 8 pm UTC
+2026-02-22 09:12:32,016 - ERROR - get_dates: Montag, Feb. 23, 2026 von 5 pm an 8 pm UTC
+2026-02-22 09:13:11,879 - ERROR - get_address: Address "{'house_number': '4', 'road': 'Rue Dieudonné Lefèvre - Dieudonné Lefèvrestraat', 'neighbourhood': 'Tivoli', 'village': 'Laeken - Laken', 'city': 'Bruxelles - Brussel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1020', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: BE-HERE, Rue Dieudonné Lefèvre 4, 1020 Bruxelles, Belgique).
+2026-02-22 09:13:13,277 - ERROR - get_address: Department Department number. not recognized.
+2026-02-22 09:13:17,031 - ERROR - get_address: Address not found (input: https://murmuresdevie.org/contact).
+2026-02-22 09:13:17,229 - ERROR - get_address: Address "{'village': 'Sainte-Croix-en-Plaine', 'municipality': 'Colmar-Ribeauvillé', 'county': 'Haut-Rhin', 'ISO3166-2-lvl6': 'FR-68', 'state': 'Grand Est', 'ISO3166-2-lvl4': 'FR-GES', 'region': 'France métropolitaine', 'postcode': '68127', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: sainte croix en plaine).
+2026-02-22 09:13:17,901 - ERROR - get_address: Address not found (input: espacekrajcberg.fr 21 avenue du Maine 75015 Paris).
+2026-02-22 09:13:18,860 - ERROR - get_address: Address "{'village': 'Gommerville', 'municipality': 'Le Havre', 'county': 'Seine-Maritime', 'ISO3166-2-lvl6': 'FR-76', 'state': 'Normandie', 'ISO3166-2-lvl4': 'FR-NOR', 'region': 'France métropolitaine', 'postcode': '76430', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Gommerville).
+2026-02-22 09:13:19,272 - ERROR - get_address: Address "{'village': 'Gommerville', 'municipality': 'Le Havre', 'county': 'Seine-Maritime', 'ISO3166-2-lvl6': 'FR-76', 'state': 'Normandie', 'ISO3166-2-lvl4': 'FR-NOR', 'region': 'France métropolitaine', 'postcode': '76430', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Gommerville).
