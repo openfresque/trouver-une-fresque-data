@@ -1,0 +1,76 @@
+2026-05-15 11:20:36,834 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2026-05-15 11:20:36,834 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2026-05-15 11:20:42,525 - ERROR - get_address: Address "{'postcode': '06560', 'suburb': 'Sophia Antipolis', 'town': 'Valbonne', 'municipality': 'Grasse', 'county': 'Alpes-Maritimes', 'ISO3166-2-lvl6': 'FR-06', 'state': "Provence-Alpes-Côte d'Azur", 'ISO3166-2-lvl4': 'FR-PAC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 06560 Valbonne, France).
+2026-05-15 11:20:56,459 - ERROR - get_address: Address "{'building': 'Maison du développement durable', 'house_number': '50', 'road': 'Rue Sainte-Catherine Ouest', 'neighbourhood': 'Quartier des Spectacles', 'suburb': 'Ville-Marie', 'city': 'Montréal', 'county': 'Agglomération de Montréal', 'state_district': 'Montréal (région administrative)', 'state': 'Québec', 'ISO3166-2-lvl4': 'CA-QC', 'postcode': 'H2X 3V4', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: Maison du développement durable, Rue Sainte-Catherine Ouest, Montréal, QC, Canada).
+2026-05-15 11:21:04,432 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-05-15 11:21:20,166 - ERROR - get_address: Address "{'beach': 'Plage du Moulin Blanc', 'hamlet': 'Palaren', 'town': 'Guipavas', 'municipality': 'Brest', 'county': 'Finistère', 'ISO3166-2-lvl6': 'FR-29', 'state': 'Bretagne', 'ISO3166-2-lvl4': 'FR-BRE', 'region': 'France métropolitaine', 'postcode': '29490', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Plage du Moulin Blanc, Brest, France).
+2026-05-15 11:21:38,017 - ERROR - get_address: Department Department number. not recognized.
+2026-05-15 11:21:40,266 - ERROR - get_address: Address not found (input: Muséum d'histoire naturelle de la Ville de Marseille, Palais Longchamp, Rue Espéran).
+2026-05-15 11:21:47,711 - ERROR - get_address: Address "{'city': 'Providencia', 'county': 'Provincia de Santiago', 'state': 'Región Metropolitana de Santiago', 'ISO3166-2-lvl4': 'CL-RM', 'country': 'Chile', 'country_code': 'cl'}" is not located in a supported country (input: Instituto Francés de Chile - Francisco Noguera 176, Providencia, Chili).
+2026-05-15 11:21:52,433 - ERROR - get_address: Address not found (input: La Fermette Plouha : Lanloric - 41 rue de la corderie 22580 Plouha).
+2026-05-15 11:22:13,603 - ERROR - get_address: Address not found (input: La Cordée - coworking & salles de réunion Annecy, Rue Saint-François de Sales, Ann).
+2026-05-15 11:22:16,094 - ERROR - get_address: Address "{'village': 'Argelès-Gazost', 'municipality': 'Argelès-Gazost', 'county': 'Hautes-Pyrénées', 'ISO3166-2-lvl6': 'FR-65', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '65400', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: La Terrasse Place de la République, Argelès-Gazost, France).
+2026-05-15 11:22:18,500 - ERROR - get_address: Address not found (input: The Island - Coworking, Bureaux, Salles & Patio végétalisé, Avenue de Toulouse, Mo).
+2026-05-15 11:22:26,494 - ERROR - get_address: Address not found (input: petite salle socio de Saint-Sauveur-Villages (parking au carrefour de la rue génér).
+2026-05-15 11:22:30,829 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-05-15 11:22:30,830 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-05-15 11:22:30,831 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-05-15 11:22:35,449 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-05-15 11:22:35,450 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-05-15 11:22:35,451 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-05-15 11:22:46,143 - ERROR - get_address: Address not found (input: Locaux de la Fresque de la Biodiversité : 29 place bellecour, escalier B au fond à).
+2026-05-15 11:22:53,702 - ERROR - get_address: Address not found (input: Baan Chaopraya, 208 Soi Somdet Chao Phraya 17, Khlong San, Bangkok 10600, Thaïlande).
+2026-05-15 11:23:27,709 - ERROR - get_address: Address "{'postcode': '31300', 'suburb': 'Lardenne / Pradettes / Basso-Cambo', 'city': 'Toulouse', 'municipality': 'Toulouse', 'county': 'Haute-Garonne', 'ISO3166-2-lvl6': 'FR-31', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Le grenier - 1 Place de la Charte des Libertés Communales, 31300 Toulouse).
+2026-05-15 11:23:41,738 - ERROR - get_address: Address not found (input: Maison de l'Environnement de Grand Paris Sud, D346, 77240 Vert-Saint-Denis, France).
+2026-05-15 11:23:55,273 - ERROR - get_address: Address not found (input: La Marmite des Adrets, Lotissement de l'Église, Les Adrets, France).
+2026-05-15 11:24:24,820 - ERROR - get_address: Address not found (input: Tok'ici, 173 Rue des Bois Blancs, Lille, France - Accessible PMR).
+2026-05-15 11:24:24,820 - ERROR - get_address: Address not found (input: Le HangarT, 14 Rue Garibaldi, Lille - Accessible PMR).
+2026-05-15 11:24:28,351 - ERROR - get_address: Address not found (input: Restaurant L'Équilibriste, 125 Avenue Lacassagne, 69003 Lyon - Pas d'accès PMR).
+2026-05-15 11:24:32,909 - ERROR - get_address: Address not found (input: Open Lande - 10 Rue de l'Île Mabon, 44200 Nantes - Accessible PMR).
+2026-05-15 11:24:32,909 - ERROR - get_address: Address not found (input: Open Lande - 10 Rue de l'Île Mabon, 44200 Nantes - Accessible PMR).
+2026-05-15 11:24:32,910 - ERROR - get_address: Address not found (input: Open Lande - 10 Rue de l'Île Mabon, 44200 Nantes - Accessible PMR).
+2026-05-15 11:24:38,925 - ERROR - get_address: Department Department number. not recognized.
+2026-05-15 11:24:53,441 - ERROR - get_dates: 
+2026-05-15 11:25:34,309 - ERROR - get_address: Address "{'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Paris ).
+2026-05-15 11:25:35,185 - ERROR - get_address: Address not found (input: ).
+2026-05-15 11:27:11,161 - ERROR - get_dates: 
+2026-05-15 11:27:12,586 - ERROR - get_dates: 
+2026-05-15 11:29:20,986 - ERROR - get_address: Address not found (input: Petites Cantines Annecy, 13 Avenue Germain Perréard, 74960 Annecy, 74000 Annecy).
+2026-05-15 11:29:47,226 - ERROR - get_dates: mer., juin 03 14:00 - 17:30
+2026-05-15 11:29:55,120 - ERROR - get_dates: mer., juin 17 14:00 - 18:00
+2026-05-15 11:30:05,387 - ERROR - get_address: Address not found (input: Centre communautaire marcel Giroux, 4501 Av Bannantyne, Montréal, H4G 1E3).
+2026-05-15 11:30:37,320 - ERROR - get_address: Address not found (input: La Base, 17 Rue du Dauphiné, 38000 Grenoble, 38000 Grenoble).
+2026-05-15 11:30:42,229 - ERROR - get_address: Address not found (input: Maison municipale de l'environnement ce Balma, 17 aven ue du Calvel, 31130 Balma).
+2026-05-15 11:31:47,107 - ERROR - get_address: Address not found (input: La Bastide, 2 place de la Mairie, 31130 Quint-Fonsegrives).
+2026-05-15 11:31:57,406 - ERROR - get_address: Address not found (input: Salle Agora, 2 Places des Droits de l'Homme, 35520 La Chapelle des Fougeretz).
+2026-05-15 11:32:02,330 - ERROR - get_address: Address "{'road': 'Place des Jardins de Baseilles', 'village': 'Erpent', 'city': 'Namur', 'county': 'Namur', 'state': 'Namur', 'ISO3166-2-lvl6': 'BE-WNA', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '5101', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Espace Atout, Place des Jardins de Baseilles 19/25, 5101 Namur ).
+2026-05-15 11:33:50,495 - ERROR - get_address: Address not found (input:  Office de tourisme la plagne vallée , 1139 Avenue de la Tarentaise, Aime-la-Plagne, France).
+2026-05-15 11:34:11,331 - ERROR - get_address: Address not found (input:  Tuba , 15 Boulevard Marius Vivier Merle, Lyon, France).
+2026-05-15 11:34:15,885 - ERROR - get_address: Department Department number. not recognized.
+2026-05-15 11:35:18,669 - ERROR - get_address: Department Department number. not recognized.
+2026-05-15 11:35:25,602 - ERROR - get_address: Address "{'hamlet': 'Launay', 'village': 'Québriac', 'municipality': 'Saint-Malo', 'county': 'Ille-et-Vilaine', 'ISO3166-2-lvl6': 'FR-35', 'state': 'Bretagne', 'ISO3166-2-lvl4': 'FR-BRE', 'region': 'France métropolitaine', 'postcode': '35190', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input:  Tiers lieu les serres , 2a Launay, 35190 Québriac, France).
+2026-05-15 11:35:41,801 - ERROR - get_address: Address "{'postcode': '81500', 'town': 'Lavaur', 'municipality': 'Castres', 'county': 'Tarn', 'ISO3166-2-lvl6': 'FR-81', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input:  Salle à lavaur ou dans une commune voisine  , 81500 Lavaur, France).
+2026-05-15 11:35:44,075 - ERROR - get_address: Address not found (input:  Tuba , 15 Boulevard Marius Vivier Merle, Lyon, France).
+2026-05-15 11:36:46,968 - ERROR - get_address: Department Department number. not recognized.
+2026-05-15 11:36:56,255 - ERROR - get_address: Department Department number. not recognized.
+2026-05-15 11:39:00,540 - ERROR - get_address: Address not found (input: Césure - 13 rue de Santeuil - 75005 PARIS - 3 e étage - Salle 376
+).
+2026-05-15 11:42:39,715 - ERROR - get_address: Address not found (input: 
+        Tiers-lieu Lab'Aux de Semur-en-Auxois
+       43 Rue de Vigne 21140 Semur-en-Auxois France).
+2026-05-15 11:43:07,141 - ERROR - get_address: Address not found (input: 
+        Grand Bain 
+       20 Allée de la Maison Rouge 44000 Nantes France).
+2026-05-15 11:46:27,642 - ERROR - get_address: Address not found (input: 
+        La Cité - Montaudran
+       55 Avenue Louis Breguet 31400 Toulouse France).
+2026-05-15 11:47:30,252 - ERROR - get_address: Address not found (input: 
+        CocoShaker
+       1 rue Verdier Latour 63000 Clermont-Ferrand France).
+2026-05-15 11:48:00,790 - ERROR - get_address: Address not found (input: 
+        Groupe SORAM
+       6 Rue Ferdinand de Lesseps 79000 Niort France).
+2026-05-15 11:48:15,954 - ERROR - get_address: Department Department number. not recognized.
+2026-05-15 11:48:47,065 - ERROR - get_address: Address "{'village': 'Veyrier-du-Lac', 'municipality': 'Annecy', 'county': 'Haute-Savoie', 'ISO3166-2-lvl6': 'FR-74', 'state': 'Auvergne-Rhône-Alpes', 'ISO3166-2-lvl4': 'FR-ARA', 'region': 'France métropolitaine', 'postcode': '74290', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Veyrier-du-Lac).
+2026-05-15 11:48:48,131 - ERROR - get_address: Address not found (input: https://murmuresdevie.org/contact).
+2026-05-15 11:48:49,572 - ERROR - get_address: Address "{'city_district': 'Louvain-la-Neuve', 'town': 'Ottignies-Louvain-la-Neuve', 'county': 'Nivelles', 'state': 'Brabant wallon', 'ISO3166-2-lvl6': 'BE-WBR', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '1348', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Louvain-la-Neuve).
