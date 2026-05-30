@@ -1,0 +1,40 @@
+2026-05-30 08:25:38,712 - ERROR - get_address: Address "{'road': 'Rue Beaubien Est', 'neighbourhood': 'Rosemont', 'suburb': 'Rosemont–La Petite-Patrie', 'city': 'Montréal', 'county': 'Agglomération de Montréal', 'state_district': 'Montréal (région administrative)', 'state': 'Québec', 'ISO3166-2-lvl4': 'CA-QC', 'postcode': 'H1Y 1G2', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: Espace des Possibles, Rue Beaubien Est, Montréal, QC, Canada).
+2026-05-30 08:25:58,446 - ERROR - get_address: Address "{'building': 'Maison du développement durable', 'house_number': '50', 'road': 'Rue Sainte-Catherine Ouest', 'neighbourhood': 'Quartier des Spectacles', 'suburb': 'Ville-Marie', 'city': 'Montréal', 'county': 'Agglomération de Montréal', 'state_district': 'Montréal (région administrative)', 'state': 'Québec', 'ISO3166-2-lvl4': 'CA-QC', 'postcode': 'H2X 3V4', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: Maison du développement durable, Rue Sainte-Catherine Ouest, Montréal, QC, Canada).
+2026-05-30 08:26:07,605 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2026-05-30 08:26:30,943 - ERROR - get_address: Address not found (input: ).
+2026-05-30 08:26:34,820 - ERROR - get_address: Address "{'beach': 'Plage du Moulin Blanc', 'hamlet': 'Palaren', 'town': 'Guipavas', 'municipality': 'Brest', 'county': 'Finistère', 'ISO3166-2-lvl6': 'FR-29', 'state': 'Bretagne', 'ISO3166-2-lvl4': 'FR-BRE', 'region': 'France métropolitaine', 'postcode': '29490', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Plage du Moulin Blanc, Brest, France).
+2026-05-30 08:27:30,497 - ERROR - get_address: Address not found (input: La Cordée - coworking & salles de réunion Annecy, Rue Saint-François de Sales, Ann).
+2026-05-30 08:27:33,272 - ERROR - get_address: Address "{'village': 'Argelès-Gazost', 'municipality': 'Argelès-Gazost', 'county': 'Hautes-Pyrénées', 'ISO3166-2-lvl6': 'FR-65', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '65400', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: La Terrasse Place de la République, Argelès-Gazost, France).
+2026-05-30 08:27:45,611 - ERROR - get_address: Address not found (input: petite salle socio de Saint-Sauveur-Villages (parking au carrefour de la rue génér).
+2026-05-30 08:27:49,522 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-05-30 08:27:49,523 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-05-30 08:27:53,442 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-05-30 08:27:53,442 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-05-30 08:27:59,636 - ERROR - get_address: Address not found (input: Locaux de la Fresque de la Biodiversité : 29 place bellecour, escalier B au fond à).
+2026-05-30 08:28:37,563 - ERROR - get_address: Address "{'postcode': '31300', 'suburb': 'Lardenne / Pradettes / Basso-Cambo', 'city': 'Toulouse', 'municipality': 'Toulouse', 'county': 'Haute-Garonne', 'ISO3166-2-lvl6': 'FR-31', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Le grenier - 1 Place de la Charte des Libertés Communales, 31300 Toulouse).
+2026-05-30 08:29:16,967 - ERROR - get_address: Address not found (input: La Marmite des Adrets, Lotissement de l'Église, Les Adrets, France).
+2026-05-30 08:29:55,571 - ERROR - get_address: Address not found (input: Open Lande - 10 Rue de l'Île Mabon, 44200 Nantes - Accessible PMR).
+2026-05-30 08:29:55,571 - ERROR - get_address: Address not found (input: Open Lande - 10 Rue de l'Île Mabon, 44200 Nantes - Accessible PMR).
+2026-05-30 08:29:55,572 - ERROR - get_address: Address not found (input: Open Lande, 10 rue de l’Île Mabon, Nantes - Accessible PMR).
+2026-05-30 08:29:55,572 - ERROR - get_address: Address not found (input: Open Lande, 10 rue de l’Île Mabon, Nantes - Accessible PMR).
+2026-05-30 08:29:55,573 - ERROR - get_address: Address not found (input: Open Lande, 10 rue de l’Île Mabon, Nantes - Accessible PMR).
+2026-05-30 08:29:59,881 - ERROR - get_address: Address not found (input: La Capsule - 21 rue Boucher-de-Perthes, 38000 GRENOBLE, Accessible PMR).
+2026-05-30 08:29:59,882 - ERROR - get_address: Address not found (input: La Capsule - 21 rue Boucher-de-Perthes, 38000 GRENOBLE, Accessible PMR).
+2026-05-30 08:30:08,943 - ERROR - get_address: Address not found (input: Café Studio, 4 Rue de Sambre-et-Meuse, Paris 10ème ).
+2026-05-30 08:30:08,943 - ERROR - get_address: Address not found (input: Jardin21, 12a Rue Ella Fitzgerald, 75019 Paris, accès PMR à confirmer).
+2026-05-30 08:30:11,777 - ERROR - get_address: Address not found (input: Restaurant L'Équilibriste, 125 Avenue Lacassagne, 69003 Lyon - Pas d'accès PMR).
+2026-05-30 08:30:14,438 - ERROR - get_address: Address not found (input: Le HangarT, 14 Rue Garibaldi, Lille - Accessible PMR).
+2026-05-30 08:30:23,527 - ERROR - get_address: Address not found (input: 10 Canal Saint-Martin, 35700 Rennes, France - Accessible PMR).
+2026-05-30 08:30:26,303 - ERROR - get_address: Address not found (input: Les Petites Cantines Strasbourg, 5 Rue Kuhn, 67000 Strasbourg - Non accessible PMR).
+2026-05-30 08:30:49,259 - ERROR - get_address: Address "{'country': 'Mauritius / Maurice', 'country_code': 'mu'}" is not located in a supported country (input: Nouvelle Usine Floreal, Maurice).
+2026-05-30 08:30:51,185 - ERROR - get_address: Address not found (input: Vitrinn, Quartier Général , industriel zone, St Pierre Ile Maurice).
+2026-05-30 08:31:31,398 - ERROR - get_dates: 
+2026-05-30 08:31:33,267 - ERROR - get_dates: 
+2026-05-30 08:31:50,837 - ERROR - get_address: Address not found (input:  lola, quartiertreffpunkt sankt-johann , Lothringerstrasse 63, 4056 Basel, Schweiz).
+2026-05-30 08:33:08,437 - ERROR - get_address: Address not found (input: 
+        La Cité - Montaudran
+       55 Avenue Louis Breguet 31400 Toulouse France).
+2026-05-30 08:33:42,078 - ERROR - get_address: Address not found (input: City, University of London College Building, City, University of, 280 St John St, Greater, London EC1V 4PB, Royaume-Uni).
+2026-05-30 08:33:42,380 - ERROR - get_address: Address not found (input: Vitrinn, Quartier Général , industriel zone, St Pierre Ile Maurice).
+2026-05-30 08:33:42,430 - ERROR - get_address: Address "{'country': 'Mauritius / Maurice', 'country_code': 'mu'}" is not located in a supported country (input: Nouvelle Usine Floreal, Maurice).
+2026-05-30 08:33:46,635 - ERROR - get_address: Address not found (input: https://fermeurbainedutrichon.fr/  une ferme urbaine inspirante au coeur de Roubaix).
