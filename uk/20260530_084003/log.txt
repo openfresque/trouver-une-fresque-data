@@ -1,0 +1,1130 @@
+2026-05-30 08:40:09,932 - INFO - Scraping data from glide.page
+2026-05-30 08:40:10,354 - INFO - Playwright stealth browser initialized successfully
+2026-05-30 08:40:10,541 - INFO - ==================
+Processing page {'name': 'Planetary Boundaries Fresco', 'url': 'https://1erdegre.glide.page/dl/3b1bc8', 'type': 'scraper', 'filter': 'Fresque des frontières planétaires', 'id': 500}
+2026-05-30 08:40:38,941 - INFO - Found 4 elements on current page
+2026-05-30 08:40:44,503 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2DnHvJ9oTIWifxFqAbkzOw
+2026-05-30 08:40:54,744 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Ja0IjxXVSPWARmZqdIhNvw
+2026-05-30 08:41:05,051 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/z.GGButySFuSJSQE0i3KIQ
+2026-05-30 08:41:15,510 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Q6VrN3UxRQK0zhNW9yh-.w
+2026-05-30 08:41:22,542 - INFO - Total links collected: 4
+2026-05-30 08:41:22,542 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2DnHvJ9oTIWifxFqAbkzOw ...
+2026-05-30 08:41:29,914 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2DnHvJ9oTIWifxFqAbkzOw
+{
+    "id": "500-2DnHvJ9oTIWifxFqAbkzOw",
+    "workshop_type": 500,
+    "title": "Online Planetary Boundaries Fresco workshop | English | with Elise & Joy",
+    "start_date": "2026-06-10T13:30:00+02:00",
+    "end_date": "2026-06-10T17:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2DnHvJ9oTIWifxFqAbkzOw",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2DnHvJ9oTIWifxFqAbkzOw",
+    "description": "Do you know the boundaries of the planet we call home?\nToday, seven of the nine planetary boundaries have been crossed, putting increasing pressure on Earth\u2019s life-support systems. To secure a safe and just future for all, we must understand how human activities interact with the Earth system --and act decisively to reduce pressures on our planet and its ecosystems.\nThe Planetary Boundaries Fresco is a 3.5-hour collaborative, science-based workshop that brings the planetary boundaries framework to life through guided discussions and an interactive card game. Together, you'll explore the processes that regulate Earth\u2019s stability, uncover how human pressures drive changes across the planet, and identify leverage points for action.\nThe workshop will take place on Wednesday, June 10, from 13h30 - 17h00 CEST (Amsterdam Time)\n",
+    "scrape_date": "2026-05-30T10:41:29.902865+02:00"
+}
+2026-05-30 08:41:29,915 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Ja0IjxXVSPWARmZqdIhNvw ...
+2026-05-30 08:41:37,778 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Ja0IjxXVSPWARmZqdIhNvw
+{
+    "id": "500-Ja0IjxXVSPWARmZqdIhNvw",
+    "workshop_type": 500,
+    "title": "Atelier fresque des Fronti\u00e8res plan\u00e9taires ACADEMIE DU CLIMAT PARIS",
+    "start_date": "2026-06-19T18:30:00+02:00",
+    "end_date": "2026-06-19T21:30:00+02:00",
+    "full_location": "ACADEMIE DU CLIMAT 2 Place Baudoyer 75004 PARIS (salle 1.09)\n",
+    "location_name": "Acad\u00e9mie du Climat",
+    "address": "2 Place Baudoyer",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75004",
+    "country_code": "fr",
+    "latitude": "48.8561484",
+    "longitude": "2.3557819",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Ja0IjxXVSPWARmZqdIhNvw",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Ja0IjxXVSPWARmZqdIhNvw",
+    "description": "La fresque des fronti\u00e8res plan\u00e9taires, c\u2019est la Fresque la plus compl\u00e8te sur les enjeux environnementaux.\n\ud83c\udf0f Une mission ambitieuse : former tous les publics aux ph\u00e9nom\u00e8nes qui r\u00e9gissent la stabilit\u00e9 de notre syst\u00e8me Terre : les 9 fronti\u00e8res plan\u00e9taires !\n\ud83d\udd2c Une rigueur scientifique : l\u2019atelier se base sur les derni\u00e8res \u00e9tudes issues d\u2019organismes rigoureux et reconnus.\n\ud83e\udd1d Un format ludique et collaboratif : Un atelier de 3h pour comprendre l\u2019ensemble des sujets environnementaux.\nTout repose sur l\u2019intelligence collective et sur la participation du groupe dans la bienveillance.\nAllez viens, avan\u00e7ons ensemble, il est temps d\u2019agir ! H\u00e2te de l\u2019animer et de poursuivre l\u2019aventure tous et toutes ensemble !\nAccueil des participant-es \u00e0 partir de 18h15. D\u00e9but de l\u2019atelier 18h30 Contact si besoin 0750411719 Philippe\n",
+    "scrape_date": "2026-05-30T10:41:37.778659+02:00"
+}
+2026-05-30 08:41:37,779 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/z.GGButySFuSJSQE0i3KIQ ...
+2026-05-30 08:41:45,001 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/z.GGButySFuSJSQE0i3KIQ
+{
+    "id": "500-z.GGButySFuSJSQE0i3KIQ",
+    "workshop_type": 500,
+    "title": "Online Planetary Boundaries Fresco workshop | English | with Joy & Elise",
+    "start_date": "2026-07-07T09:30:00+02:00",
+    "end_date": "2026-07-07T13:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/z.GGButySFuSJSQE0i3KIQ",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/z.GGButySFuSJSQE0i3KIQ",
+    "description": "Do you know the boundaries of the planet we call home?\nToday, seven of the nine planetary boundaries have been crossed, putting increasing pressure on Earth\u2019s life-support systems. To secure a safe and just future for all, we must understand how human activities interact with the Earth system -- and act decisively to reduce pressures on our planet and its ecosystems.\nThe Planetary Boundaries Fresco is a 3.5-hour collaborative, science-based workshop that brings the planetary boundaries framework to life through guided discussions and an interactive card game. Together, you'll explore the processes that regulate Earth\u2019s stability, uncover how human pressures drive changes across the planet, and identify leverage points for action.\nThe workshop will take place on Tuesday, July 7, from 9h30 - 13h00 CEST (Amsterdam Time)\n",
+    "scrape_date": "2026-05-30T10:41:45.001421+02:00"
+}
+2026-05-30 08:41:45,002 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Q6VrN3UxRQK0zhNW9yh-.w ...
+2026-05-30 08:41:51,967 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Q6VrN3UxRQK0zhNW9yh-.w
+{
+    "id": "500-Q6VrN3UxRQK0zhNW9yh-.w",
+    "workshop_type": 500,
+    "title": "Online Planetary Boundaries Fresco workshop | English | with Elise & Joy",
+    "start_date": "2026-08-12T13:30:00+02:00",
+    "end_date": "2026-08-12T17:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Q6VrN3UxRQK0zhNW9yh-.w",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/Q6VrN3UxRQK0zhNW9yh-.w",
+    "description": "Do you know the boundaries of the planet we call home?\nToday, seven of the nine planetary boundaries have been crossed, putting increasing pressure on Earth\u2019s life-support systems. To secure a safe and just future for all, we must understand how human activities interact with the Earth system --and act decisively to reduce pressures on our planet and its ecosystems.\nThe Planetary Boundaries Fresco is a 3.5-hour collaborative, science-based workshop that brings the planetary boundaries framework to life through guided discussions and an interactive card game. Together, you'll explore the processes that regulate Earth\u2019s stability, uncover how human pressures drive changes across the planet, and identify leverage points for action.\nThe workshop will take place on Wednesday, August 12, from 13h30 - 17h00 CEST (Amsterdam Time)\n",
+    "scrape_date": "2026-05-30T10:41:51.967010+02:00"
+}
+2026-05-30 08:41:52,040 - INFO - Browser closed successfully
+2026-05-30 08:41:52,061 - INFO - Saved 542 geocode cache entries to .geocode_cache.json
+2026-05-30 08:41:52,862 - INFO - Scraping data from www.billetweb.fr
+2026-05-30 08:41:56,976 - INFO - ==================
+Processing page {'name': 'Digital Collage', 'url': 'https://www.billetweb.fr/multi_event.php?multi=11442', 'type': 'scraper', 'iframe': 'eventu84999', 'id': 3}
+2026-05-30 08:42:08,312 - INFO - Rejecting record: iframe not found
+2026-05-30 08:42:08,312 - INFO - ==================
+Processing page {'name': 'Digital Collage', 'url': 'https://www.billetweb.fr/pro/atelier-fresque-du-numerique', 'type': 'scraper', 'iframe': 'event41180', 'id': 3}
+2026-05-30 08:42:09,307 - INFO - ------------------
+Processing event https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC
+2026-05-30 08:42:14,536 - INFO - 
+-> Processing session 1/3 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12406784 ...
+2026-05-30 08:42:14,789 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique-12406784",
+    "workshop_type": 3,
+    "title": "PARIS 03, Atelier avec Jos\u00e9phine Mouton",
+    "start_date": "2026-05-30T14:30:00+02:00",
+    "end_date": "2026-05-30T17:30:00+02:00",
+    "full_location": "La Ga\u00eet\u00e9 Lyrique, Rue Papin, Paris, France",
+    "location_name": "La Ga\u00eet\u00e9 lyrique",
+    "address": "3 bis Rue Papin",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75012",
+    "country_code": "fr",
+    "latitude": "48.8665807",
+    "longitude": "2.3533873",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12406784",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-05-30T10:42:14.779295+02:00"
+}
+2026-05-30 08:42:14,789 - INFO - 
+-> Processing session 2/3 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11767154 ...
+2026-05-30 08:42:14,795 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique-11767154",
+    "workshop_type": 3,
+    "title": "PARIS 04, Atelier avec Nathalie Simonnet",
+    "start_date": "2026-06-11T18:00:00+02:00",
+    "end_date": "2026-06-11T21:00:00+02:00",
+    "full_location": "L'Academie du Climat, 2 place Baudoyer 75004 PARIS",
+    "location_name": "Acad\u00e9mie du Climat",
+    "address": "2 Place Baudoyer",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75004",
+    "country_code": "fr",
+    "latitude": "48.8561484",
+    "longitude": "2.3557819",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11767154",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-05-30T10:42:14.794913+02:00"
+}
+2026-05-30 08:42:14,796 - INFO - 
+-> Processing session 3/3 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12029484 ...
+2026-05-30 08:42:14,800 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique-12029484",
+    "workshop_type": 3,
+    "title": "PARIS 12, Atelier avec Agathe Gajac",
+    "start_date": "2026-06-13T10:15:00+02:00",
+    "end_date": "2026-06-13T13:15:00+02:00",
+    "full_location": "La Maison du Z\u00e9ro D\u00e9chet \u2013 1 passage Emma Calv\u00e9, 75012 Paris",
+    "location_name": "La Maison du Z\u00e9ro D\u00e9chet",
+    "address": "1 Passage Emma Calv\u00e9",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75012",
+    "country_code": "fr",
+    "latitude": "48.8485602",
+    "longitude": "2.3856496",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12029484",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-05-30T10:42:14.800740+02:00"
+}
+2026-05-30 08:42:14,801 - INFO - ------------------
+Processing event https://www.billetweb.fr/gironde-33-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC
+2026-05-30 08:42:17,364 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=904819&margin=no_margin&color=006056&ref=gironde-33-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11573864 ...
+2026-05-30 08:42:17,370 - INFO - Successfully scraped:
+{
+    "id": "3-gironde-33-atelier-fresque-du-numerique-11573864",
+    "workshop_type": 3,
+    "title": "BORDEAUX Atelier",
+    "start_date": "2026-06-04T18:30:00+02:00",
+    "end_date": "2026-06-04T21:30:00+02:00",
+    "full_location": "Aquinum - Le Node, Rue des Faussets, Bordeaux, France",
+    "location_name": "Le Node",
+    "address": "12 Rue des Faussets",
+    "city": "Bordeaux",
+    "department": "33",
+    "zip_code": "33000",
+    "country_code": "fr",
+    "latitude": "44.8404215",
+    "longitude": "-0.5704848",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/gironde-33-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904819&margin=no_margin&color=006056&ref=gironde-33-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11573864",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-05-30T10:42:17.370648+02:00"
+}
+2026-05-30 08:42:17,371 - INFO - ------------------
+Processing event https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC
+2026-05-30 08:42:20,035 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=904831&margin=no_margin&color=006056&ref=loire-atlantique-44-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12455949 ...
+2026-05-30 08:42:20,041 - INFO - Successfully scraped:
+{
+    "id": "3-loire-atlantique-44-atelier-fresque-du-numerique-12455949",
+    "workshop_type": 3,
+    "title": "Nantes - Atelier la Fresque du Num\u00e9rique avec Pascal Hubert",
+    "start_date": "2026-06-16T18:30:00+02:00",
+    "end_date": "2026-06-16T21:30:00+02:00",
+    "full_location": "La Galerie du Z\u00e9ro D\u00e9chet, Rue F\u00e9nelon, Nantes, France",
+    "location_name": "Rue F\u00e9nelon",
+    "address": "Rue F\u00e9nelon",
+    "city": "Nantes",
+    "department": "44",
+    "zip_code": "44036",
+    "country_code": "fr",
+    "latitude": "47.2171079",
+    "longitude": "-1.5541712",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904831&margin=no_margin&color=006056&ref=loire-atlantique-44-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12455949",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-05-30T10:42:20.041486+02:00"
+}
+2026-05-30 08:42:20,042 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC
+2026-05-30 08:42:26,589 - INFO - 
+-> Processing session 1/4 https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954533 ...
+2026-05-30 08:42:26,590 - ERROR - get_address: Address "{'postcode': '31300', 'suburb': 'Lardenne / Pradettes / Basso-Cambo', 'city': 'Toulouse', 'municipality': 'Toulouse', 'county': 'Haute-Garonne', 'ISO3166-2-lvl6': 'FR-31', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Le grenier - 1 Place de la Charte des Libertés Communales, 31300 Toulouse).
+2026-05-30 08:42:26,590 - INFO - Rejecting record: Address "{'postcode': '31300', 'suburb': 'Lardenne / Pradettes / Basso-Cambo', 'city': 'Toulouse', 'municipality': 'Toulouse', 'county': 'Haute-Garonne', 'ISO3166-2-lvl6': 'FR-31', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Le grenier - 1 Place de la Charte des Libertés Communales, 31300 Toulouse)..
+2026-05-30 08:42:26,590 - INFO - 
+-> Processing session 2/4 https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954534 ...
+2026-05-30 08:42:26,602 - INFO - Successfully scraped:
+{
+    "id": "3-haute-garonne-31-atelier-fresque-du-numerique-11954534",
+    "workshop_type": 3,
+    "title": "BALMA Atelier",
+    "start_date": "2026-10-07T19:00:00+02:00",
+    "end_date": "2026-10-07T22:00:00+02:00",
+    "full_location": "Maison de l'environnement - BALMA",
+    "location_name": "Maison de l'environnement",
+    "address": "Avenue des Mourlingues",
+    "city": "Balma",
+    "department": "31",
+    "zip_code": "31130",
+    "country_code": "fr",
+    "latitude": "43.6029483",
+    "longitude": "1.5074662",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954534",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir du 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n    Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-05-30T10:42:26.598114+02:00"
+}
+2026-05-30 08:42:26,602 - INFO - 
+-> Processing session 3/4 https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954524 ...
+2026-05-30 08:42:26,608 - INFO - Successfully scraped:
+{
+    "id": "3-haute-garonne-31-atelier-fresque-du-numerique-11954524",
+    "workshop_type": 3,
+    "title": "TOULOUSE Atelier",
+    "start_date": "2026-11-10T19:00:00+01:00",
+    "end_date": "2026-11-10T22:00:00+01:00",
+    "full_location": "Les Halles de la Transition, Rue du Canon d'Arcole, Toulouse, France",
+    "location_name": "Les Halles De La Transition",
+    "address": "7 Rue du Canon d'Arcole",
+    "city": "Toulouse",
+    "department": "31",
+    "zip_code": "31000",
+    "country_code": "fr",
+    "latitude": "43.6137551",
+    "longitude": "1.4351445",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954524",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir du 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n    Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-05-30T10:42:26.607892+02:00"
+}
+2026-05-30 08:42:26,608 - INFO - 
+-> Processing session 4/4 https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954530 ...
+2026-05-30 08:42:26,613 - INFO - Successfully scraped:
+{
+    "id": "3-haute-garonne-31-atelier-fresque-du-numerique-11954530",
+    "workshop_type": 3,
+    "title": "TOULOUSE Atelier",
+    "start_date": "2026-12-12T10:00:00+01:00",
+    "end_date": "2026-12-12T13:00:00+01:00",
+    "full_location": "L'Archipel - Tiers Lieu Educatif, Rue de l'Ari\u00e8ge, Tournefeuille, France",
+    "location_name": "Rue de l'Ari\u00e8ge",
+    "address": "Rue de l'Ari\u00e8ge",
+    "city": "Tournefeuille",
+    "department": "31",
+    "zip_code": "31170",
+    "country_code": "fr",
+    "latitude": "43.5888786",
+    "longitude": "1.3379438",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954530",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir du 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n    Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-05-30T10:42:26.612997+02:00"
+}
+2026-05-30 08:42:26,614 - INFO - ------------------
+Processing event https://www.billetweb.fr/rhone-69-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC
+2026-05-30 08:42:29,691 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=904918&margin=no_margin&color=006056&ref=rhone-69-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12239582 ...
+2026-05-30 08:42:29,701 - INFO - Successfully scraped:
+{
+    "id": "3-rhone-69-atelier-fresque-du-numerique-12239582",
+    "workshop_type": 3,
+    "title": "Atelier Fresque du Num\u00e9rique \u00e0 Lyon avec Virgile Demolliens",
+    "start_date": "2026-06-18T18:00:00+02:00",
+    "end_date": "2026-06-18T21:00:00+02:00",
+    "full_location": "Tub\u00e0, 15 Boulevard Vivier-Merle, Lyon 69003",
+    "location_name": "Tub\u00e0",
+    "address": "15 Boulevard Vivier-Merle",
+    "city": "Lyon",
+    "department": "69",
+    "zip_code": "69003",
+    "country_code": "fr",
+    "latitude": "45.7623520",
+    "longitude": "4.8589181",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/rhone-69-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904918&margin=no_margin&color=006056&ref=rhone-69-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12239582",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-05-30T10:42:29.700888+02:00"
+}
+2026-05-30 08:42:29,703 - INFO - ------------------
+Processing event https://www.billetweb.fr/paris-75-formation-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC
+2026-05-30 08:42:32,436 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=909532&margin=no_margin&color=006056&ref=paris-75-formation-fresque-du-numerique&cross_shop=41180&step=1&session=12165668 ...
+2026-05-30 08:42:32,443 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-formation-fresque-du-numerique-12165668",
+    "workshop_type": 3,
+    "title": "PARIS 75 FORMATION \u00c0 L'ANIMATION - PARIS 12, Formation avec Agathe Gajac",
+    "start_date": "2026-06-26T14:00:00+02:00",
+    "end_date": "2026-06-26T17:00:00+02:00",
+    "full_location": "La Maison du Z\u00e9ro D\u00e9chet, 1 passage Emma Calv\u00e9 75012 Paris",
+    "location_name": "La Maison du Z\u00e9ro D\u00e9chet",
+    "address": "1 Passage Emma Calv\u00e9",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75012",
+    "country_code": "fr",
+    "latitude": "48.8485602",
+    "longitude": "2.3856496",
+    "language_code": "fr",
+    "online": false,
+    "training": true,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-formation-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=909532&margin=no_margin&color=006056&ref=paris-75-formation-fresque-du-numerique&cross_shop=41180&step=1&session=12165668",
+    "description": "Cette formation \u00e0 l'animation est r\u00e9serv\u00e9e aux particuliers :\n- souhaitant animer principalement dans un contexte b\u00e9n\u00e9vole citoyen ou scolaire,  \n- ayant d\u00e9j\u00e0 particip\u00e9 \u00e0 un atelier Fresque du Num\u00e9rique depuis moins de 6 mois\n- ayant d\u00e9j\u00e0 particip\u00e9 \u00e0 un atelier Fresque du Climat\n  Cette formation citoyenne est destin\u00e9e aux particuliers. Pour les professionnel\u00b7le\u00b7s, vous pouvez vous orienter soit vers une formation pro inter-entreprises pour 1 ou quelques salari\u00e9\u00b7es, soit vers une formation pro intra-entreprises sous forme de prestation commerciale d\u00e9di\u00e9e, \u00e0 partir de 5 salari\u00e9\u00b7e\u00b7s.\n  La formations \u00e0 l'animation de la Fresque du Num\u00e9rique vous permet d'animer des ateliers dans des cadres non-commerciaux via la licence Creative Commons BY-NC-ND. Pour pouvoir animer dans un cadre pro des pr\u00e9requis suppl\u00e9mentaires sont n\u00e9cessaires et un contrat d\u2019agr\u00e9ment doit \u00eatre sign\u00e9 avec l\u2019association. Vous trouverez plus d'infos sur la licence sur le site de l'asso et nous y reviendrons aussi en fin de formation.\n  Le but de cette formation est de vous faire devenir animateur\u00b7rice de la Fresque du Num\u00e9rique, pour que vous puissiez ensuite animer des ateliers. Le but ici n\u2019est pas de faire de vous un\u00b7e expert\u00b7e de l'empreinte environnementale du num\u00e9rique. Si vous souhaitez approfondir vos connaissances sur le fond du sujet, nous vous recommandons plut\u00f4t vivement de suivre le MOOC de l'INRIA \"Impacts environnementaux du num\u00e9rique\".\n  Cette session aura lieu en pr\u00e9sentiel \u00e0 l'adresse indiqu\u00e9e. Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7e\u00b7s inscrits quelques jours avant la formation. Par respect des autres et du timing, les participant\u00b7e\u00b7s ne seront pas accept\u00e9s s'ils ont plus de 10 minutes de retard.\n  Une fois inscrit, votre nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.\n  Votre billet n'est pas modifiable et il est remboursable seulement jusqu'\u00e0 7 jours avant la formation, on vous remercie de vous inscrire seulement si vous \u00eates s\u00fbr\u00b7e de pouvoir participer afin de ne pas bloquer de place pour d'autres.",
+    "scrape_date": "2026-05-30T10:42:32.443533+02:00"
+}
+2026-05-30 08:42:32,444 - INFO - ------------------
+Processing event https://www.billetweb.fr/en-ligne-formation-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC
+2026-05-30 08:42:35,253 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=909349&margin=no_margin&color=006056&ref=en-ligne-formation-fresque-du-numerique&cross_shop=41180&step=1&session=12436462 ...
+2026-05-30 08:42:35,260 - INFO - Successfully scraped:
+{
+    "id": "3-en-ligne-formation-fresque-du-numerique-12436462",
+    "workshop_type": 3,
+    "title": "EN LIGNE - FORMATION \u00c0 L'ANIMATION - EN LIGNE - Formation avec Tom Duclos",
+    "start_date": "2026-06-30T18:00:00+02:00",
+    "end_date": "2026-06-30T21:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": true,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/en-ligne-formation-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=909349&margin=no_margin&color=006056&ref=en-ligne-formation-fresque-du-numerique&cross_shop=41180&step=1&session=12436462",
+    "description": "Cette formation \u00e0 l'animation est r\u00e9serv\u00e9e aux particuliers :\n- souhaitant animer principalement dans un contexte b\u00e9n\u00e9vole citoyen ou scolaire,  \n- ayant d\u00e9j\u00e0 particip\u00e9 \u00e0 un atelier Fresque du Num\u00e9rique depuis moins de 6 mois\n- ayant d\u00e9j\u00e0 particip\u00e9 \u00e0 un atelier Fresque du Climat\n  Cette formation citoyenne est destin\u00e9e aux particuliers. Pour les professionnel\u00b7le\u00b7s, vous pouvez vous orienter soit vers une formation pro inter-entreprises pour 1 ou quelques salari\u00e9\u00b7es, soit vers une formation pro intra-entreprises sous forme de prestation commerciale d\u00e9di\u00e9e, \u00e0 partir de 5 salari\u00e9\u00b7e\u00b7s. \n  La formations \u00e0 l'animation de la Fresque du Num\u00e9rique vous permet d'animer des ateliers dans des cadres non-commerciaux via la licence Creative Commons BY-NC-ND. Pour pouvoir animer dans un cadre pro des pr\u00e9requis suppl\u00e9mentaires sont n\u00e9cessaires et un contrat d\u2019agr\u00e9ment doit \u00eatre sign\u00e9 avec l\u2019association. Vous trouverez plus d'infos sur la licence sur le site de l'asso et nous y reviendrons aussi en fin de formation.\n  Le but de cette formation est de vous faire devenir animateur\u00b7rice de la Fresque du Num\u00e9rique, pour que vous puissiez ensuite animer des ateliers. Le but ici n\u2019est pas de faire de vous un\u00b7e expert\u00b7e de l'empreinte environnementale du num\u00e9rique. Si vous souhaitez approfondir vos connaissances sur le fond du sujet, nous vous recommandons plut\u00f4t vivement de suivre le MOOC de l'INRIA \"Impacts environnementaux du num\u00e9rique\".\n  Cette session aura lieu en ligne en utilisant un outil de visioconf\u00e9rence et un outil de collaboration visuelle. Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7e\u00b7s inscrits quelques jours avant la formation. Par respect des autres et du timing, les participant\u00b7e\u00b7s ne seront pas accept\u00e9s s'ils ont plus de 10 minutes de retard.\n  Une fois inscrit, votre nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.\n  Votre billet n'est pas modifiable et il est remboursable seulement jusqu'\u00e0 7 jours avant la formation, on vous remercie de vous inscrire seulement si vous \u00eates s\u00fbr\u00b7e de pouvoir participer afin de ne pas bloquer de place pour d'autres.",
+    "scrape_date": "2026-05-30T10:42:35.260599+02:00"
+}
+2026-05-30 08:42:35,261 - INFO - ------------------
+Processing event https://www.billetweb.fr/nord-59-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC
+2026-05-30 08:42:39,232 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=904873&margin=no_margin&color=006056&ref=nord-59-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11999006 ...
+2026-05-30 08:42:39,242 - INFO - Successfully scraped:
+{
+    "id": "3-nord-59-atelier-fresque-du-numerique-11999006",
+    "workshop_type": 3,
+    "title": "NORD - LEZENNES - ATELIER Pauline DAUDE",
+    "start_date": "2026-07-06T12:00:00+02:00",
+    "end_date": "2026-07-06T15:00:00+02:00",
+    "full_location": "Synergie Park, 6 Rue Louis N\u00e9el, 59260 Lezennes",
+    "location_name": "",
+    "address": "6 Rue Louis N\u00e9el",
+    "city": "Lezennes",
+    "department": "59",
+    "zip_code": "59260",
+    "country_code": "fr",
+    "latitude": "50.6021864",
+    "longitude": "3.1355487",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/nord-59-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904873&margin=no_margin&color=006056&ref=nord-59-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11999006",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.\n ",
+    "scrape_date": "2026-05-30T10:42:39.237952+02:00"
+}
+2026-05-30 08:42:39,243 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=904873&margin=no_margin&color=006056&ref=nord-59-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11999009 ...
+2026-05-30 08:42:39,251 - INFO - Successfully scraped:
+{
+    "id": "3-nord-59-atelier-fresque-du-numerique-11999009",
+    "workshop_type": 3,
+    "title": "NORD - LEZENNES- ATELIER Pauline DAUDE",
+    "start_date": "2026-10-05T12:00:00+02:00",
+    "end_date": "2026-10-05T15:00:00+02:00",
+    "full_location": "Synergie Park, 6 Rue Louis N\u00e9el, 59260 Lezennes",
+    "location_name": "",
+    "address": "6 Rue Louis N\u00e9el",
+    "city": "Lezennes",
+    "department": "59",
+    "zip_code": "59260",
+    "country_code": "fr",
+    "latitude": "50.6021864",
+    "longitude": "3.1355487",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/nord-59-atelier-fresque-du-numerique&multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique&margin=no_margin&ref=41180&color=3DA9FC",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904873&margin=no_margin&color=006056&ref=nord-59-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11999009",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.\n ",
+    "scrape_date": "2026-05-30T10:42:39.251683+02:00"
+}
+2026-05-30 08:42:39,254 - INFO - ==================
+Processing page {'name': 'Biodiversity Collage', 'url': 'https://www.billetweb.fr/multi_event.php?user=82762', 'type': 'scraper', 'iframe': 'event17309', 'id': 2}
+2026-05-30 08:42:40,433 - INFO - ------------------
+Processing event https://www.billetweb.fr/calvados-13&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:42:42,767 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857147&margin=margin_small&color=no&ref=calvados-13&cross_shop=17309&step=1&session=12409549 ...
+2026-05-30 08:42:42,772 - INFO - Successfully scraped:
+{
+    "id": "2-calvados-13-12409549",
+    "workshop_type": 2,
+    "title": "CALVADOS (14) - CAEN",
+    "start_date": "2026-06-30T18:00:00+02:00",
+    "end_date": "2026-06-30T21:00:00+02:00",
+    "full_location": "MoHo, 16 bis Quai Amiral Hamelin, 14000 Caen, France",
+    "location_name": "MoHo",
+    "address": "16 bis Quai Amiral Hamelin",
+    "city": "Caen",
+    "department": "14",
+    "zip_code": "14000",
+    "country_code": "fr",
+    "latitude": "49.1769635",
+    "longitude": "-0.3530316",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/calvados-13&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=857147&margin=margin_small&color=no&ref=calvados-13&cross_shop=17309&step=1&session=12409549",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n  Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-05-30T10:42:42.772455+02:00"
+}
+2026-05-30 08:42:42,773 - INFO - ------------------
+Processing event https://www.billetweb.fr/corr-ze-191&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:42:45,413 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1298387&margin=margin_small&color=no&ref=corr-ze-191&cross_shop=17309&step=1&session=12351714 ...
+2026-05-30 08:42:45,419 - INFO - Successfully scraped:
+{
+    "id": "2-corr-ze-191-12351714",
+    "workshop_type": 2,
+    "title": "CORR\u00c8ZE (19) - Fresque Junior \u00e0 CHARTIER-FERRIERE",
+    "start_date": "2026-06-13T14:30:00+02:00",
+    "end_date": "2026-06-13T17:30:00+02:00",
+    "full_location": "Tiers-lieu Les \u00c2git\u00e9\u00b7es du local - Oasis des \u00c2ges - 34 Route des Etoiles, 19600 C",
+    "location_name": "C",
+    "address": "Zone A\u00e9roportuaire Nord",
+    "city": "Nespouls",
+    "department": "19",
+    "zip_code": "19600",
+    "country_code": "fr",
+    "latitude": "45.0390197",
+    "longitude": "1.4889259",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": true,
+    "source_link": "https://www.billetweb.fr/corr-ze-191&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=1298387&margin=margin_small&color=no&ref=corr-ze-191&cross_shop=17309&step=1&session=12351714",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser les participants aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n  Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org",
+    "scrape_date": "2026-05-30T10:42:45.419207+02:00"
+}
+2026-05-30 08:42:45,420 - INFO - ------------------
+Processing event https://www.billetweb.fr/fresque-de-la-biodiversite-en-ligne-2022&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:42:48,092 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=513845&margin=margin_small&color=no&ref=fresque-de-la-biodiversite-en-ligne-2022&cross_shop=17309&step=1&session=12281739 ...
+2026-05-30 08:42:48,098 - INFO - Successfully scraped:
+{
+    "id": "2-fresque-de-la-biodiversite-en-ligne-2022-12281739",
+    "workshop_type": 2,
+    "title": "EN LIGNE - Fresque de la Biodiversit\u00e9 (FR) - avec L\u00e9a Lakhdar et Pierre Gross",
+    "start_date": "2026-05-31T10:00:00+02:00",
+    "end_date": "2026-05-31T13:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/fresque-de-la-biodiversite-en-ligne-2022&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=513845&margin=margin_small&color=no&ref=fresque-de-la-biodiversite-en-ligne-2022&cross_shop=17309&step=1&session=12281739",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser les participants aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nCet atelier aura lieu en ligne, en utilisant un outil de visioconf\u00e9rence (Zoom) et un outil de collaboration visuelle (MURAL). La participation \u00e0 cet atelier n\u00e9cessite donc un ordinateur avec micro.\nLes informations de connexion seront envoy\u00e9es par mail avant l'atelier.\n  La participation \u00e0 l'atelier est \u00e0 prix libre avec un minimum de 1\u20ac. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Le prix libre, ce n'est pas la gratuit\u00e9 syst\u00e9matique. C'est une estimation au plus juste entre vos possibilit\u00e9s, votre situation financi\u00e8re personnelle et la valorisation du temps, du travail et des comp\u00e9tences de la personne qui d\u00e9livre l'atelier ou la formation. C'est un principe de confiance et d'\u00e9quit\u00e9 qui nous permet aussi de construire un autre mod\u00e8le de soci\u00e9t\u00e9 plus juste et plus solidaire. Par cons\u00e9quent, merci d'envisager votre participation en toute conscience. \n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker + Prise en main de l'outil Mural\n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org",
+    "scrape_date": "2026-05-30T10:42:48.098677+02:00"
+}
+2026-05-30 08:42:48,099 - INFO - ------------------
+Processing event https://www.billetweb.fr/essonne-91&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:42:50,758 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=862840&margin=margin_small&color=no&ref=essonne-91&cross_shop=17309&step=1&session=12420469 ...
+2026-05-30 08:42:50,763 - INFO - Successfully scraped:
+{
+    "id": "2-essonne-91-12420469",
+    "workshop_type": 2,
+    "title": "ESSONNE (91) - VILLEBON SUR YVETTE",
+    "start_date": "2026-06-27T13:30:00+02:00",
+    "end_date": "2026-06-27T16:30:00+02:00",
+    "full_location": "MJC Boby Lapointe, 8 rue des Mara\u00eechers, Villebon-sur-Yvette, 91140",
+    "location_name": "MJC Boby Lapointe",
+    "address": "8 Rue des Mara\u00eechers",
+    "city": "Villebon-sur-Yvette",
+    "department": "91",
+    "zip_code": "91140",
+    "country_code": "fr",
+    "latitude": "48.6980905",
+    "longitude": "2.2312533",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/essonne-91&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=862840&margin=margin_small&color=no&ref=essonne-91&cross_shop=17309&step=1&session=12420469",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-05-30T10:42:50.763659+02:00"
+}
+2026-05-30 08:42:50,764 - INFO - ------------------
+Processing event https://www.billetweb.fr/paris-75&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:42:54,584 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858776&margin=margin_small&color=no&ref=paris-75&cross_shop=17309&step=1&session=12095450 ...
+2026-05-30 08:42:54,589 - INFO - Successfully scraped:
+{
+    "id": "2-paris-75-12095450",
+    "workshop_type": 2,
+    "title": "Fresque de la Biodiversit\u00e9 - PARIS (75) - PARIS (12)",
+    "start_date": "2026-06-09T18:30:00+02:00",
+    "end_date": "2026-06-09T21:30:00+02:00",
+    "full_location": "kawaa, 24 avenue Daumesnil, 75012",
+    "location_name": "Le Kawaa",
+    "address": "24 Avenue Daumesnil",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75012",
+    "country_code": "fr",
+    "latitude": "48.8480029",
+    "longitude": "2.3734333",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858776&margin=margin_small&color=no&ref=paris-75&cross_shop=17309&step=1&session=12095450",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n  Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n   ",
+    "scrape_date": "2026-05-30T10:42:54.589324+02:00"
+}
+2026-05-30 08:42:54,594 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858776&margin=margin_small&color=no&ref=paris-75&cross_shop=17309&step=1&session=12238775 ...
+2026-05-30 08:42:54,603 - INFO - Successfully scraped:
+{
+    "id": "2-paris-75-12238775",
+    "workshop_type": 2,
+    "title": "Fresque de la Biodiversit\u00e9 - PARIS (75) - FdB - Acad\u00e9mie du Climat",
+    "start_date": "2026-06-10T14:30:00+02:00",
+    "end_date": "2026-06-10T17:30:00+02:00",
+    "full_location": "Acad\u00e9mie du Climat, Place Baudoyer, Paris, France",
+    "location_name": "Acad\u00e9mie du Climat",
+    "address": "2 Place Baudoyer",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75004",
+    "country_code": "fr",
+    "latitude": "48.8561484",
+    "longitude": "2.3557819",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858776&margin=margin_small&color=no&ref=paris-75&cross_shop=17309&step=1&session=12238775",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n  Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n   ",
+    "scrape_date": "2026-05-30T10:42:54.603485+02:00"
+}
+2026-05-30 08:42:54,606 - INFO - ------------------
+Processing event https://www.billetweb.fr/gironde-33&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:42:57,310 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857660&margin=margin_small&color=no&ref=gironde-33&cross_shop=17309&step=1&session=12430815 ...
+2026-05-30 08:42:57,316 - INFO - Successfully scraped:
+{
+    "id": "2-gironde-33-12430815",
+    "workshop_type": 2,
+    "title": "GIRONDE (33)",
+    "start_date": "2026-05-30T10:00:00+02:00",
+    "end_date": "2026-05-30T13:00:00+02:00",
+    "full_location": "Maison du d\u00e9velopement durable, Avenue Espeleta, Talence, France",
+    "location_name": "Avenue Espeleta",
+    "address": "Avenue Espeleta",
+    "city": "Talence",
+    "department": "33",
+    "zip_code": "33400",
+    "country_code": "fr",
+    "latitude": "44.8102586",
+    "longitude": "-0.5896842",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": true,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/gironde-33&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=857660&margin=margin_small&color=no&ref=gironde-33&cross_shop=17309&step=1&session=12430815",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-05-30T10:42:57.315707+02:00"
+}
+2026-05-30 08:42:57,316 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-savoie-74&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:01,123 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858773&margin=margin_small&color=no&ref=haute-savoie-74&cross_shop=17309&step=1&session=12333344 ...
+2026-05-30 08:43:01,132 - INFO - Successfully scraped:
+{
+    "id": "2-haute-savoie-74-12333344",
+    "workshop_type": 2,
+    "title": "HAUTE-SAVOIE (74) - Fresque de la Biodiversit\u00e9 \u00e0 ANNECY",
+    "start_date": "2026-06-10T18:30:00+02:00",
+    "end_date": "2026-06-10T21:30:00+02:00",
+    "full_location": "Les Petites Cantines 13 avenue Germain Perr\u00e9ard 74960 ANNECY",
+    "location_name": "Les Petites cantines Annecy",
+    "address": "13 Avenue Germain Perreard",
+    "city": "Annecy",
+    "department": "74",
+    "zip_code": "74960",
+    "country_code": "fr",
+    "latitude": "45.9098399",
+    "longitude": "6.1118992",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-savoie-74&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858773&margin=margin_small&color=no&ref=haute-savoie-74&cross_shop=17309&step=1&session=12333344",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org",
+    "scrape_date": "2026-05-30T10:43:01.132190+02:00"
+}
+2026-05-30 08:43:01,133 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858773&margin=margin_small&color=no&ref=haute-savoie-74&cross_shop=17309&step=1&session=12416450 ...
+2026-05-30 08:43:01,133 - ERROR - get_address: Address not found (input: La Cordée - coworking & salles de réunion Annecy, Rue Saint-François de Sales, Ann).
+2026-05-30 08:43:01,134 - INFO - Rejecting record: Address not found (input: La Cordée - coworking & salles de réunion Annecy, Rue Saint-François de Sales, Ann)..
+2026-05-30 08:43:01,134 - INFO - ------------------
+Processing event https://www.billetweb.fr/hautes-pyr-n-es-65&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:03,945 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1393429&margin=margin_small&color=no&ref=hautes-pyr-n-es-65&cross_shop=17309&step=1&session=12442442 ...
+2026-05-30 08:43:03,946 - ERROR - get_address: Address "{'village': 'Argelès-Gazost', 'municipality': 'Argelès-Gazost', 'county': 'Hautes-Pyrénées', 'ISO3166-2-lvl6': 'FR-65', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '65400', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: La Terrasse Place de la République, Argelès-Gazost, France).
+2026-05-30 08:43:03,946 - INFO - Rejecting record: Address "{'village': 'Argelès-Gazost', 'municipality': 'Argelès-Gazost', 'county': 'Hautes-Pyrénées', 'ISO3166-2-lvl6': 'FR-65', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '65400', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: La Terrasse Place de la République, Argelès-Gazost, France)..
+2026-05-30 08:43:03,946 - INFO - ------------------
+Processing event https://www.billetweb.fr/hauts-de-seine-78&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:06,704 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=907391&margin=margin_small&color=no&ref=hauts-de-seine-78&cross_shop=17309&step=1&session=12443348 ...
+2026-05-30 08:43:06,710 - INFO - Successfully scraped:
+{
+    "id": "2-hauts-de-seine-78-12443348",
+    "workshop_type": 2,
+    "title": "HAUTS-DE-SEINE (92) - BOULOGNE-BILLANCOURT",
+    "start_date": "2026-06-13T14:00:00+02:00",
+    "end_date": "2026-06-13T17:00:00+02:00",
+    "full_location": "Maison de la Plan\u00e8te, all\u00e9e du Forum, Boulogne-Billancourt, France",
+    "location_name": "Maison de la Plan\u00e8te",
+    "address": "72 All\u00e9e du Forum",
+    "city": "Boulogne-Billancourt",
+    "department": "92",
+    "zip_code": "92100",
+    "country_code": "fr",
+    "latitude": "48.8299922",
+    "longitude": "2.2343425",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/hauts-de-seine-78&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=907391&margin=margin_small&color=no&ref=hauts-de-seine-78&cross_shop=17309&step=1&session=12443348",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-05-30T10:43:06.710397+02:00"
+}
+2026-05-30 08:43:06,711 - INFO - ------------------
+Processing event https://www.billetweb.fr/le-et-vilaine-34&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:10,872 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12434717 ...
+2026-05-30 08:43:10,877 - INFO - Successfully scraped:
+{
+    "id": "2-le-et-vilaine-34-12434717",
+    "workshop_type": 2,
+    "title": "ILLE-ET-VILAINE (35) - RENNES",
+    "start_date": "2026-06-01T14:00:00+02:00",
+    "end_date": "2026-06-01T17:00:00+02:00",
+    "full_location": "Maison Consommation Environnement, 48 Boulevard Magenta, Rennes, France",
+    "location_name": "Maison de la consommation et de l'environnement",
+    "address": "48 Boulevard Magenta",
+    "city": "Rennes",
+    "department": "35",
+    "zip_code": "35000",
+    "country_code": "fr",
+    "latitude": "48.1045925",
+    "longitude": "-1.6738445",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/le-et-vilaine-34&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12434717",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-05-30T10:43:10.877250+02:00"
+}
+2026-05-30 08:43:10,878 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12434714 ...
+2026-05-30 08:43:10,883 - INFO - Successfully scraped:
+{
+    "id": "2-le-et-vilaine-34-12434714",
+    "workshop_type": 2,
+    "title": "ILLE-ET-VILAINE (35) - SAINT AUBIN DES LANDES",
+    "start_date": "2026-06-06T14:00:00+02:00",
+    "end_date": "2026-06-06T17:00:00+02:00",
+    "full_location": "L'Aubaine : caf\u00e9 associatif, Rue de la Poste, Saint-Aubin-des-Landes, France",
+    "location_name": "Rue de la Poste",
+    "address": "Rue de la Poste",
+    "city": "Saint-Aubin-des-Landes",
+    "department": "35",
+    "zip_code": "35500",
+    "country_code": "fr",
+    "latitude": "48.0943591",
+    "longitude": "-1.2954368",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/le-et-vilaine-34&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12434714",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-05-30T10:43:10.882999+02:00"
+}
+2026-05-30 08:43:10,883 - INFO - ------------------
+Processing event https://www.billetweb.fr/loire-atlantique-44&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:13,659 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858418&margin=margin_small&color=no&ref=loire-atlantique-44&cross_shop=17309&step=1&session=11945864 ...
+2026-05-30 08:43:13,666 - INFO - Successfully scraped:
+{
+    "id": "2-loire-atlantique-44-11945864",
+    "workshop_type": 2,
+    "title": "LOIRE-ATLANTIQUE (44) - NANTES",
+    "start_date": "2026-06-01T18:30:00+02:00",
+    "end_date": "2026-06-01T21:30:00+02:00",
+    "full_location": "Open Lande - Entreprises et territoires, Rue de l'\u00cele Mabon, Nantes, France",
+    "location_name": "Rue de l'\u00cele Mabon",
+    "address": "Rue de l'\u00cele Mabon",
+    "city": "Nantes",
+    "department": "44",
+    "zip_code": "44262",
+    "country_code": "fr",
+    "latitude": "47.2070177",
+    "longitude": "-1.5592533",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/loire-atlantique-44&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858418&margin=margin_small&color=no&ref=loire-atlantique-44&cross_shop=17309&step=1&session=11945864",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-05-30T10:43:13.666328+02:00"
+}
+2026-05-30 08:43:13,667 - INFO - ------------------
+Processing event https://www.billetweb.fr/manche-50&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:16,363 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858439&margin=margin_small&color=no&ref=manche-50&cross_shop=17309&step=1&session=12269185 ...
+2026-05-30 08:43:16,363 - ERROR - get_address: Address not found (input: petite salle socio de Saint-Sauveur-Villages (parking au carrefour de la rue génér).
+2026-05-30 08:43:16,364 - INFO - Rejecting record: Address not found (input: petite salle socio de Saint-Sauveur-Villages (parking au carrefour de la rue génér)..
+2026-05-30 08:43:16,364 - INFO - ------------------
+Processing event https://www.billetweb.fr/morbihan-56&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:20,164 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858469&margin=margin_small&color=no&ref=morbihan-56&cross_shop=17309&step=1&session=12021786 ...
+2026-05-30 08:43:20,165 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-05-30 08:43:20,165 - INFO - Rejecting record: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann)..
+2026-05-30 08:43:20,165 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858469&margin=margin_small&color=no&ref=morbihan-56&cross_shop=17309&step=1&session=12021787 ...
+2026-05-30 08:43:20,165 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-05-30 08:43:20,166 - INFO - Rejecting record: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann)..
+2026-05-30 08:43:20,166 - INFO - ------------------
+Processing event https://www.billetweb.fr/netherlands-biodiversity-collage-en&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:24,026 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=1221740&margin=margin_small&color=no&ref=netherlands-biodiversity-collage-en&cross_shop=17309&step=1&session=11995686 ...
+2026-05-30 08:43:24,027 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-05-30 08:43:24,027 - INFO - Rejecting record: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag)..
+2026-05-30 08:43:24,028 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=1221740&margin=margin_small&color=no&ref=netherlands-biodiversity-collage-en&cross_shop=17309&step=1&session=11995688 ...
+2026-05-30 08:43:24,028 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-05-30 08:43:24,028 - INFO - Rejecting record: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag)..
+2026-05-30 08:43:24,028 - INFO - ------------------
+Processing event https://www.billetweb.fr/biodiversity-collage-online&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:26,674 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=520757&margin=margin_small&color=no&ref=biodiversity-collage-online&cross_shop=17309&step=1&session=12420416 ...
+2026-05-30 08:43:26,679 - INFO - Successfully scraped:
+{
+    "id": "2-biodiversity-collage-online-12420416",
+    "workshop_type": 2,
+    "title": "ONLINE Biodiversity Collage workshop (EN) - with Lea (UK time)",
+    "start_date": "2026-06-29T13:00:00+02:00",
+    "end_date": "2026-06-29T16:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/biodiversity-collage-online&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=520757&margin=margin_small&color=no&ref=biodiversity-collage-online&cross_shop=17309&step=1&session=12420416",
+    "description": "Workshop held in English\n\nThe Biodiversity Collage is a playful and cooperative workshop that aims to raise awareness around the stakes of biodiversity collapsing. During this workshop, you will discover the functioning of ecosystems, the part that Biodiversity plays for the Humanity well being, the interactions with human activities and the threat regarding its erosion.\nThis workshop will be held online using a videoconference tool (zoom) and a collaborative tool (MURAL). The participation to this workshop requires then a computer with a functioning microphone.\nThe connection info will be sent by email before the workshop.\n  The participation to the workshop is under open pricing, starting from 10\u20ac. The collected amount will be used to finance the tools of the association \"Fresque de la Biodiversit\u00e9\", actions to raise awareness as well as the development of the Fresque de la Biodiversit\u00e9 network.\n  Length : 3h00\n15 min Presentation of the workshop + Icebreaker + getting familiar with the tool Mural\n30 min Starter to understand the mecanism of the ecosystems\n75 min Biodiversity Collage, with 5 decks and 40 cards.\n30 min Creativity, to pimp your collage absorb the information\n30 min Restitution, debriefing and discussion",
+    "scrape_date": "2026-05-30T10:43:26.679510+02:00"
+}
+2026-05-30 08:43:26,680 - INFO - ------------------
+Processing event https://www.billetweb.fr/rh-ne-69&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:29,376 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858541&margin=margin_small&color=no&ref=rh-ne-69&cross_shop=17309&step=1&session=12409553 ...
+2026-05-30 08:43:29,377 - ERROR - get_address: Address not found (input: Locaux de la Fresque de la Biodiversité : 29 place bellecour, escalier B au fond à).
+2026-05-30 08:43:29,377 - INFO - Rejecting record: Address not found (input: Locaux de la Fresque de la Biodiversité : 29 place bellecour, escalier B au fond à)..
+2026-05-30 08:43:29,378 - INFO - ------------------
+Processing event https://www.billetweb.fr/uk&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:32,081 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=894230&margin=margin_small&color=no&ref=uk&cross_shop=17309&step=1&session=12397534 ...
+2026-05-30 08:43:32,081 - INFO - Rejecting record: gift card
+2026-05-30 08:43:32,081 - INFO - ------------------
+Processing event https://www.billetweb.fr/val-de-marne-94&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:34,779 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=862849&margin=margin_small&color=no&ref=val-de-marne-94&cross_shop=17309&step=1&session=12264677 ...
+2026-05-30 08:43:34,785 - INFO - Successfully scraped:
+{
+    "id": "2-val-de-marne-94-12264677",
+    "workshop_type": 2,
+    "title": "VAL-DE-MARNE (94) - L'HAY-LES-ROSES",
+    "start_date": "2026-05-31T10:00:00+02:00",
+    "end_date": "2026-05-31T13:00:00+02:00",
+    "full_location": "Moulin de la Bi\u00e8vre, 73 Avenue Larroum\u00e8s, L'Ha\u00ff-les-Roses, France",
+    "location_name": "",
+    "address": "73 Avenue Larroum\u00e8s",
+    "city": "L'Ha\u00ff-les-Roses",
+    "department": "94",
+    "zip_code": "94240",
+    "country_code": "fr",
+    "latitude": "48.7757000",
+    "longitude": "2.3254980",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/val-de-marne-94&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=862849&margin=margin_small&color=no&ref=val-de-marne-94&cross_shop=17309&step=1&session=12264677",
+    "description": "Ici vous trouverez tous les ateliers FDB grand-public ADULTE et JUNIOR en Val-de-Marne (bien v\u00e9rifier le titre de l'atelier).\nLa Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n  Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org",
+    "scrape_date": "2026-05-30T10:43:34.785438+02:00"
+}
+2026-05-30 08:43:34,786 - INFO - ------------------
+Processing event https://www.billetweb.fr/yvelines-78&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23
+2026-05-30 08:43:38,717 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858791&margin=margin_small&color=no&ref=yvelines-78&cross_shop=17309&step=1&session=12397335 ...
+2026-05-30 08:43:38,726 - INFO - Successfully scraped:
+{
+    "id": "2-yvelines-78-12397335",
+    "workshop_type": 2,
+    "title": "YVELINES (78) - Montigny-le-Bretonneux",
+    "start_date": "2026-05-30T14:30:00+02:00",
+    "end_date": "2026-05-30T17:30:00+02:00",
+    "full_location": "Maison de quartier A Malraux, 4 rue des bl\u00e9s d'or, 78180 Montigny-le-Bretonneux",
+    "location_name": "Maison de quartier Andr\u00e9 Malraux",
+    "address": "4 Rue des Bl\u00e9s d'Or",
+    "city": "Montigny-le-Bretonneux",
+    "department": "78",
+    "zip_code": "78180",
+    "country_code": "fr",
+    "latitude": "48.7791885",
+    "longitude": "2.0359232",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": true,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/yvelines-78&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858791&margin=margin_small&color=no&ref=yvelines-78&cross_shop=17309&step=1&session=12397335",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-05-30T10:43:38.726044+02:00"
+}
+2026-05-30 08:43:38,727 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858791&margin=margin_small&color=no&ref=yvelines-78&cross_shop=17309&step=1&session=12397339 ...
+2026-05-30 08:43:38,733 - INFO - Successfully scraped:
+{
+    "id": "2-yvelines-78-12397339",
+    "workshop_type": 2,
+    "title": "YVELINES (78) - Montigny-le-Bretonneux",
+    "start_date": "2026-06-19T18:00:00+02:00",
+    "end_date": "2026-06-19T21:00:00+02:00",
+    "full_location": "Maison de quartier A Malraux, 4 rue des bl\u00e9s d'or, 78180 Montigny-le-Bretonneux",
+    "location_name": "Maison de quartier Andr\u00e9 Malraux",
+    "address": "4 Rue des Bl\u00e9s d'Or",
+    "city": "Montigny-le-Bretonneux",
+    "department": "78",
+    "zip_code": "78180",
+    "country_code": "fr",
+    "latitude": "48.7791885",
+    "longitude": "2.0359232",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/yvelines-78&multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite&margin=no_margin&ref=17309&color=99ad23",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858791&margin=margin_small&color=no&ref=yvelines-78&cross_shop=17309&step=1&session=12397339",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-05-30T10:43:38.733009+02:00"
+}
+2026-05-30 08:43:39,970 - INFO - Saved 542 geocode cache entries to .geocode_cache.json
+2026-05-30 08:43:40,777 - INFO - Scraping data from eventbrite (new template)
+2026-05-30 08:43:41,197 - INFO - Playwright stealth browser initialized successfully
+2026-05-30 08:43:41,380 - INFO - ==================
+Processing page {'name': 'Circular Economy Collage', 'url': 'https://www.eventbrite.fr/o/fresque-de-leconomie-circulaire-68155531313', 'type': 'scraper', 'id': 300}
+2026-05-30 08:43:46,123 - INFO - Extracted 3 links from __NEXT_DATA__ (total: 3, has_more: False)
+2026-05-30 08:43:46,124 - INFO - Total links collected: 3
+2026-05-30 08:43:46,124 - INFO - 
+-> Processing https://www.eventbrite.fr/e/biglietti-circular-economy-collage-online-in-italian-with-english-cards-1990009810914 ...
+2026-05-30 08:43:51,761 - INFO - Successfully scraped https://www.eventbrite.fr/e/biglietti-circular-economy-collage-online-in-italian-with-english-cards-1990009810914
+{
+    "id": "300-1990009810914",
+    "workshop_type": 300,
+    "title": "Circular Economy Collage online in Italian (with English cards)",
+    "start_date": "2026-06-24T18:30:00+02:00",
+    "end_date": "2026-06-24T21:30:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.eventbrite.fr/e/biglietti-circular-economy-collage-online-in-italian-with-english-cards-1990009810914",
+    "tickets_link": "https://www.eventbrite.fr/e/biglietti-circular-economy-collage-online-in-italian-with-english-cards-1990009810914",
+    "description": "A fun and educational workshop using collective intelligence to explain the issues surrounding our use of natural resources.Starting hour : 6.30pm Paris timeThe Circular Economy Collage will give you a clearer understanding of the issues related to our use of natural resources and to the waste we generate.Which resources do we consume the most and which are most under pressure? What impacts do our consumption and waste generation have on those resources and on the planet in general?How can I contribute to reducing those impacts in my daily life? How can companies evolve their business models?To discover the answers to these and many other questions, come and take part in a workshop of the Circular Economy Collage. The workshop covers topics such as climate change, biodiversity loss, resource scarcity and pollution generated by human activities and enables you to identify concrete courses of action!About the workshopThe Circular Economy Collage is a stimulating, group-based workshop founded on scientific information, which enables participants to grasp the limits of our existing global \u201clinear\u201d economy and understand the opportunities offered by the circular economy. Inspired by the Climate Fresk, the workshop will allow you to understand the issues surrounding our use of natural resources and our generation and treatment of waste as well as other impacts caused by human activities. The online workshop lasts 3 hours and takes place in groups of 6/7 people with 1 facilitator.Our online Circular Economy Collage workshops are aimed at the general public, and are open to all, whatever your level of knowledge on these subjects. The Collage is also relevant for other audiences such as companies, communities and schools. For our online public workshops, participation is limited to 1 participant per organisation. If several members of your organisation wish to take part, please contact us to organise a dedicated session.Benefits of the workshopHaving deepened your understanding of the limits of the linear production-consumption-waste system, you will discover a more virtuous model for our economy and lots of ways that each of us can save natural resources and produce less waste. You will leave the workshop more aware, better-informed and motivated to take action to \"circularise\" our system!",
+    "scrape_date": "2026-05-30T10:43:51.751095+02:00"
+}
+2026-05-30 08:43:51,762 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1982757414802 ...
+2026-05-30 08:43:57,461 - INFO - Successfully scraped https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1982757414802
+{
+    "id": "300-1982757414802",
+    "workshop_type": 300,
+    "title": "Circular Economy Collage online",
+    "start_date": "2026-07-27T13:00:00+02:00",
+    "end_date": "2026-07-27T16:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1982757414802",
+    "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1982757414802",
+    "description": "A fun and educational workshop using collective intelligence to explain the issues surrounding our use of natural resources.Starting hour : 1pm London timeThe Circular Economy Collage will give you a clearer understanding of the issues related to our use of natural resources and to the waste we generate.Which resources do we consume the most and which are most under pressure? What impacts do our consumption and waste generation have on those resources and on the planet in general?How can I contribute to reducing those impacts in my daily life? How can companies evolve their business models?To discover the answers to these and many other questions, come and take part in a workshop of the Circular Economy Collage. The workshop covers topics such as climate change, biodiversity loss, resource scarcity and pollution generated by human activities and enables you to identify concrete courses of action!About the workshopThe Circular Economy Collage is a stimulating, group-based workshop founded on scientific information, which enables participants to grasp the limits of our existing global \u201clinear\u201d economy and understand the opportunities offered by the circular economy. Inspired by the Climate Fresk, the workshop will allow you to understand the issues surrounding our use of natural resources and our generation and treatment of waste as well as other impacts caused by human activities. The online workshop lasts 3 hours and takes place in groups of 6/7 people with 1 facilitator.Our online Circular Economy Collage workshops are aimed at the general public, and are open to all, whatever your level of knowledge on these subjects. The Collage is also relevant for other audiences such as companies, communities and schools. For our online public workshops, participation is limited to 1 participant per organisation. If several members of your organisation wish to take part, please contact us to organise a dedicated session.Benefits of the workshopHaving deepened your understanding of the limits of the linear production-consumption-waste system, you will discover a more virtuous model for our economy and lots of ways that each of us can save natural resources and produce less waste. You will leave the workshop more aware, better-informed and motivated to take action to \"circularise\" our system!",
+    "scrape_date": "2026-05-30T10:43:57.461342+02:00"
+}
+2026-05-30 08:43:57,462 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987997913274 ...
+2026-05-30 08:44:02,764 - INFO - Successfully scraped https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987997913274
+{
+    "id": "300-1987997913274",
+    "workshop_type": 300,
+    "title": "Circular Economy Collage online",
+    "start_date": "2026-09-28T13:00:00+02:00",
+    "end_date": "2026-09-28T16:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987997913274",
+    "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987997913274",
+    "description": "A fun and educational workshop using collective intelligence to explain the issues surrounding our use of natural resources.Starting hour : 1pm London timeThe Circular Economy Collage will give you a clearer understanding of the issues related to our use of natural resources and to the waste we generate.Which resources do we consume the most and which are most under pressure? What impacts do our consumption and waste generation have on those resources and on the planet in general?How can I contribute to reducing those impacts in my daily life? How can companies evolve their business models?To discover the answers to these and many other questions, come and take part in a workshop of the Circular Economy Collage. The workshop covers topics such as climate change, biodiversity loss, resource scarcity and pollution generated by human activities and enables you to identify concrete courses of action!About the workshopThe Circular Economy Collage is a stimulating, group-based workshop founded on scientific information, which enables participants to grasp the limits of our existing global \u201clinear\u201d economy and understand the opportunities offered by the circular economy. Inspired by the Climate Fresk, the workshop will allow you to understand the issues surrounding our use of natural resources and our generation and treatment of waste as well as other impacts caused by human activities. The online workshop lasts 3 hours and takes place in groups of 6/7 people with 1 facilitator.Our online Circular Economy Collage workshops are aimed at the general public, and are open to all, whatever your level of knowledge on these subjects. The Collage is also relevant for other audiences such as companies, communities and schools. For our online public workshops, participation is limited to 1 participant per organisation. If several members of your organisation wish to take part, please contact us to organise a dedicated session.Benefits of the workshopHaving deepened your understanding of the limits of the linear production-consumption-waste system, you will discover a more virtuous model for our economy and lots of ways that each of us can save natural resources and produce less waste. You will leave the workshop more aware, better-informed and motivated to take action to \"circularise\" our system!",
+    "scrape_date": "2026-05-30T10:44:02.763772+02:00"
+}
+2026-05-30 08:44:02,848 - INFO - Browser closed successfully
+2026-05-30 08:44:02,871 - INFO - Saved 542 geocode cache entries to .geocode_cache.json
