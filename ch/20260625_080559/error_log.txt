@@ -1,0 +1,27 @@
+2026-06-25 07:43:47,543 - ERROR - get_address: Address not found (input: Maison Ecohuis, 33 rue Lefort, 1060 Saint Gilles, Belgique).
+2026-06-25 07:44:21,327 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-06-25 07:44:26,668 - ERROR - get_address: Address not found (input: I-Factory, Avenue Jean Capelle Ouest, Villeurbanne, France).
+2026-06-25 07:44:28,039 - ERROR - get_address: Address not found (input: I-Factory, Avenue Jean Capelle Ouest, Villeurbanne, France).
+2026-06-25 07:44:30,022 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-06-25 07:44:32,289 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-06-25 07:44:46,867 - ERROR - get_address: Address "{'village': 'Argelès-Gazost', 'municipality': 'Argelès-Gazost', 'county': 'Hautes-Pyrénées', 'ISO3166-2-lvl6': 'FR-65', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '65400', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: La Terrasse Place de la République, Argelès-Gazost, France).
+2026-06-25 07:44:50,862 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-06-25 07:44:50,863 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-06-25 07:44:55,830 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-06-25 07:44:55,830 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-06-25 07:45:18,899 - ERROR - get_address: Address "{'postcode': '31300', 'suburb': 'Lardenne / Pradettes / Basso-Cambo', 'city': 'Toulouse', 'municipality': 'Toulouse', 'county': 'Haute-Garonne', 'ISO3166-2-lvl6': 'FR-31', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Le grenier - 1 Place de la Charte des Libertés Communales, 31300 Toulouse).
+2026-06-25 07:45:34,313 - ERROR - get_address: Department Department number. not recognized.
+2026-06-25 07:45:39,325 - ERROR - get_address: Address not found (input: La Marmite des Adrets, Lotissement de l'Église, Les Adrets, France).
+2026-06-25 07:46:19,979 - ERROR - get_address: Address not found (input: Les Petites Cantines Strasbourg, 5 Rue Kuhn, 67000 Strasbourg - Non accessible PMR).
+2026-06-25 07:46:26,719 - ERROR - get_address: Address not found (input: Jardin21, 12a Rue Ella Fitzgerald, 75019 Paris, accès PMR à confirmer).
+2026-06-25 07:46:28,563 - ERROR - get_address: Address "{'postcode': '75017', 'suburb': 'Paris', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Chez Popote - 31 Rue Nollet, 75017 Paris ).
+2026-06-25 07:46:33,227 - ERROR - get_address: Address not found (input: Open Lande, 10 rue de l’Île Mabon, Nantes - Accessible PMR).
+2026-06-25 07:46:33,227 - ERROR - get_address: Address not found (input: Open Lande, 10 rue de l’Île Mabon, Nantes - Accessible PMR).
+2026-06-25 07:46:33,792 - ERROR - get_address: Address not found (input: Le Grand Bain, 20 Allée de la Maison Rouge, Nantes - Accès PMR sur demande).
+2026-06-25 07:46:36,462 - ERROR - get_address: Address not found (input: Oasis des Âges, Les Âges, chemin des Potz, Chartrier-Ferrière, France).
+2026-06-25 07:47:40,312 - ERROR - get_address: Address not found (input: Complexe sportif du Noyer Courteau 91580 Bouray-sur-Juine).
+2026-06-25 07:47:49,566 - ERROR - get_dates: 
+2026-06-25 07:47:51,072 - ERROR - get_dates: 
+2026-06-25 07:48:36,340 - ERROR - get_address: Address not found (input: 107 Zeyaar St, 107 Zeyaar Street, Dubai, Dubai).
+2026-06-25 07:48:49,289 - ERROR - get_address: Address "{'house_number': '72', 'road': 'Rheinstraße', 'suburb': 'Hafen', 'city': 'Osnabrück', 'state': 'Niedersachsen', 'ISO3166-2-lvl4': 'DE-NI', 'postcode': '49090', 'country': 'Deutschland', 'country_code': 'de'}" is not located in a supported country (input: Rheinstraße 72, Rheinstraße 72, 49090 Osnabrück).
+2026-06-25 07:48:55,745 - ERROR - get_address: Address not found (input: 4501 Av Bannantyne, 4501 Avenue Bannantyne, Montréal, QC H4G 1E3).
