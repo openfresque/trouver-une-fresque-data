@@ -1,0 +1,13 @@
+2026-07-13 08:43:13,988 - ERROR - get_dates: Tue Dec 31, 2030
+2026-07-13 08:43:16,816 - ERROR - get_dates: Tue Dec 31, 2030
+2026-07-13 08:43:28,370 - ERROR - get_dates: Tue Dec 31, 2030
+2026-07-13 08:43:31,170 - ERROR - get_dates: Tue Dec 31, 2030
+2026-07-13 08:43:33,939 - ERROR - get_dates: Tue Dec 31, 2030
+2026-07-13 08:43:36,759 - ERROR - get_dates: Tue Dec 31, 2030
+2026-07-13 08:43:40,719 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-07-13 08:43:40,720 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-07-13 08:43:44,702 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-07-13 08:43:44,703 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-07-13 08:43:57,937 - ERROR - get_address: Address "{'highway': 'Bannantyne / 1re Avenue', 'road': 'Rue Bannantyne', 'suburb': 'Verdun', 'city': 'Montréal', 'county': 'Agglomération de Montréal', 'state_district': 'Montréal (région administrative)', 'state': 'Québec', 'ISO3166-2-lvl4': 'CA-QC', 'postcode': 'H4G 1E4', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: 4501 Av Bannantyne).
+2026-07-13 08:44:37,906 - ERROR - get_address: Address not found (input: Rikhardinkatu library).
+2026-07-13 08:45:17,477 - ERROR - get_address: Address not found (input: 107 Zeyaar St).
