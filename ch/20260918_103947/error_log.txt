@@ -1,0 +1,136 @@
+2026-09-18 10:17:47,599 - ERROR - get_address: Address not found (input: Césure, 13 rue Santeuil, 75007 PARIS - salle 375
+).
+2026-09-18 10:18:08,025 - ERROR - get_address: Address not found (input: Césure, 13 rue Santeuil, 75005, PARIS - salle 376
+).
+2026-09-18 10:18:33,826 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-09-18 10:18:33,827 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-09-18 10:18:33,835 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-09-18 10:18:33,843 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-09-18 10:18:56,151 - ERROR - get_address: Address not found (input: TUBÀ, 15 Bd Marius Vivier Merle, 69003 Lyon, France).
+2026-09-18 10:18:56,160 - ERROR - get_address: Address not found (input: TUBÀ, 15 Bd Marius Vivier Merle, 69003 Lyon, France).
+2026-09-18 10:18:56,160 - ERROR - get_address: Address not found (input: TUBÀ, 15 Bd Marius Vivier Merle, 69003 Lyon, France).
+2026-09-18 10:19:00,210 - ERROR - get_address: Address not found (input: UFCV à Rennes, Immeuble le Quadri, 47 Avenue des Pays Bas, Rennes, France).
+2026-09-18 10:19:00,210 - ERROR - get_address: Address not found (input: UFCV à Rennes, Immeuble le Quadri, 47 Avenue des Pays Bas, Rennes, France).
+2026-09-18 10:19:01,785 - ERROR - get_address: Address not found (input: ).
+2026-09-18 10:19:06,115 - ERROR - get_address: Address not found (input: ).
+2026-09-18 10:19:09,375 - ERROR - get_address: Address not found (input: ).
+2026-09-18 10:19:22,402 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-09-18 10:19:24,288 - ERROR - get_address: Address "{'beach': 'Plage des Minimes', 'quarter': 'Les Minimes', 'city': 'La Rochelle', 'municipality': 'La Rochelle', 'county': 'Charente-Maritime', 'ISO3166-2-lvl6': 'FR-17', 'state': 'Nouvelle-Aquitaine', 'ISO3166-2-lvl4': 'FR-NAQ', 'region': 'France métropolitaine', 'postcode': '17000', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Plage des Minimes, La Rochelle, France).
+2026-09-18 10:19:43,541 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-09-18 10:19:47,686 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-09-18 10:19:52,743 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:19:55,621 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:19:58,321 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:01,015 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:06,334 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:20:08,927 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:11,712 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:14,527 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:17,350 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:20,046 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:22,994 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:25,892 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:30,503 - ERROR - get_address: Address not found (input: Maison de la Transition et du Vélo, 135 Avenue Georges Guynemer, 13300 Salon-de-Prov).
+2026-09-18 10:20:30,504 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:20:33,003 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:35,818 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:38,559 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:41,286 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:44,110 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:46,930 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:49,649 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:52,349 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:55,046 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:20:57,868 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:00,607 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:03,366 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:21:06,155 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:09,060 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:11,844 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:14,756 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:21:21,304 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:24,074 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:26,869 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:29,593 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:32,376 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:37,539 - ERROR - get_address: Address "{'village': 'Rauzan', 'municipality': 'Libourne', 'county': 'Gironde', 'ISO3166-2-lvl6': 'FR-33', 'state': 'Nouvelle-Aquitaine', 'ISO3166-2-lvl4': 'FR-NAQ', 'region': 'France métropolitaine', 'postcode': '33420', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 13 Pl. du Champ de Foire, Rauzan, France).
+2026-09-18 10:21:38,004 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:40,390 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:43,214 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:45,984 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:48,836 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:21:55,673 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:21:58,298 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:02,567 - ERROR - get_address: Address "{'village': 'Jacou', 'municipality': 'Montpellier', 'county': 'Hérault', 'ISO3166-2-lvl6': 'FR-34', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '34830', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: MJC JACOU LA FABRIQUE, Jacou, France).
+2026-09-18 10:22:02,568 - ERROR - get_address: Address "{'village': 'Jacou', 'municipality': 'Montpellier', 'county': 'Hérault', 'ISO3166-2-lvl6': 'FR-34', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '34830', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: MJC JACOU LA FABRIQUE, Jacou, France).
+2026-09-18 10:22:05,832 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:08,707 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:11,337 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:14,045 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:16,808 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:19,595 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:22,437 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:25,144 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:27,866 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:34,968 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:22:37,452 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:40,297 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:43,074 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:45,792 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:48,538 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:51,324 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:54,145 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:22:59,694 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:23:02,898 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:23:07,280 - ERROR - get_address: Address "{'town': 'Laval', 'municipality': 'Laval', 'county': 'Mayenne', 'ISO3166-2-lvl6': 'FR-53', 'state': 'Pays de la Loire', 'ISO3166-2-lvl4': 'FR-PDL', 'region': 'France métropolitaine', 'postcode': '53000', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Rucher école du Potier, Laval ).
+2026-09-18 10:23:07,281 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:23:09,700 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:23:13,648 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-09-18 10:23:13,649 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-09-18 10:23:18,049 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:23:21,630 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-09-18 10:23:21,631 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-09-18 10:23:27,258 - ERROR - get_address: Address "{'shop': 'librairie Utopia', 'house_number': '1', 'locality': 'Rue Frédéric Sauton', 'city_block': 'Quartier Saint-Victor', 'suburb': 'Paris 5e Arrondissement', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '75005', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Librairie Utopia, 1 Rue Frédéric Sauton, Paris, France).
+2026-09-18 10:23:31,444 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:23:35,549 - ERROR - get_address: Address "{'postcode': '93160', 'suburb': 'Quartier Centre', 'town': 'Noisy-le-Grand', 'municipality': 'Le Raincy', 'county': 'Seine-Saint-Denis', 'ISO3166-2-lvl6': 'FR-93', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 35 Boulevard du Champy-Richardets, 93160 Noisy-le-Grand, France).
+2026-09-18 10:23:35,550 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:23:39,257 - ERROR - get_address: Address not found (input: Baan Chaopraya, Somdet Chaopraya, Soi 17, Khlong San, Bangkok 10600).
+2026-09-18 10:23:41,692 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:23:44,545 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:24:16,244 - ERROR - get_address: Address not found (input: So Watt ! Tiers-lieu, 35-37 Avenue du Maréchal de Lattre de Tassigny, Saint-André-l).
+2026-09-18 10:25:07,423 - ERROR - get_address: Address "{'road': 'Agora', 'neighbourhood': 'Bruyères', 'city_district': 'Louvain-la-Neuve', 'town': 'Ottignies-Louvain-la-Neuve', 'county': 'Nivelles', 'state': 'Brabant wallon', 'ISO3166-2-lvl6': 'BE-WBR', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '1348', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Maison du Développement Durable, Agora 2, 1348 Ottignies-Louvain-la-Neuve, Belgique).
+2026-09-18 10:25:37,421 - ERROR - get_address: Address not found (input: ).
+2026-09-18 10:25:52,814 - ERROR - get_address: Address "{'postcode': '75017', 'suburb': 'Paris', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Chez Popote - 31 Rue Nollet, 75017 Paris ).
+2026-09-18 10:25:58,304 - ERROR - get_address: Address not found (input: Café Le Passage, 35 rue de verger, 73000 Chambéry - Accès PMR).
+2026-09-18 10:26:04,000 - ERROR - get_address: Address not found (input: Pavi'On, Parc du Cinquantenaire 15, 1000 Bruxelles, Accessible PMR).
+2026-09-18 10:26:04,001 - ERROR - get_address: Address not found (input: Pavi'On, Parc du Cinquantenaire 15, 1000 Bruxelles, Accessible PMR).
+2026-09-18 10:26:04,003 - ERROR - get_address: Address not found (input: Pavi'On, Parc du Cinquantenaire 15, 1000 Bruxelles, Accessible PMR).
+2026-09-18 10:26:07,267 - ERROR - get_address: Address not found (input: The Island, 19 avenue de Toulouse 34070 Montpellier - Accès PMR).
+2026-09-18 10:26:10,748 - ERROR - get_address: Address not found (input: Le HangarT, 14 Rue Garibaldi, Lille - Accessible PMR).
+2026-09-18 10:26:10,748 - ERROR - get_address: Address not found (input: Le HangarT, 14 Rue Garibaldi, Lille - Accessible PMR).
+2026-09-18 10:26:18,196 - ERROR - get_address: Address not found (input: Restaurant L'Équilibriste, 125 Avenue Lacassagne, 69003 Lyon - Pas d'accès PMR).
+2026-09-18 10:26:22,364 - ERROR - get_address: Address not found (input: Paris intra-muros ).
+2026-09-18 10:26:24,482 - ERROR - get_address: Address not found (input: Cafe Studio, 4 rue de Sambre et Meuse, 75010 Paris - Accès PMR).
+2026-09-18 10:26:26,858 - ERROR - get_address: Address not found (input: Pousse Locale - Varces 4 Rue de l'Industrie, Varces-Allières-et-Risset, PMR ok).
+2026-09-18 10:26:38,256 - ERROR - get_address: Address not found (input: Le Grand Bain, 20 Allée de la Maison Rouge, Nantes - Accès PMR sur demande).
+2026-09-18 10:26:38,435 - ERROR - get_address: Address not found (input: Le Grand Bain, 20 Allée de la Maison Rouge, Nantes - Accès PMR sur demande).
+2026-09-18 10:26:42,682 - ERROR - get_address: Address not found (input: Petite salle 1,2,3, Soleil, 12 bl de la République, 13410 Lambesc).
+2026-09-18 10:26:47,079 - ERROR - get_address: Address not found (input: Grenier à sel, 6, rue de Cullion, 45230 Châtillon-Coligny - Pas d'accès PMR).
+2026-09-18 10:26:47,545 - ERROR - get_address: Address not found (input: Éco'Logis 17A Rue Duchesne Rabier, 45200 Montargis - Pas d'accès PMR).
+2026-09-18 10:26:49,948 - ERROR - get_address: Address not found (input: Coworking la Maison bleue, 16 Rue Alsace Lorraine, 76000 Rouen - Accès PMR).
+2026-09-18 10:26:52,834 - ERROR - get_address: Address not found (input: Espace Corail, 30 place Françis Robert, 44 150 Ancenis-Saint-Géréon - Accessible P).
+2026-09-18 10:27:03,378 - ERROR - get_address: Address not found (input: Salle Luria 04300 Lurs).
+2026-09-18 10:27:20,702 - ERROR - get_address: Address not found (input: La Maison Des Associations, Villa Berthe, 51 Avenue des Alliés, 06140 Vence, France).
+2026-09-18 10:27:23,141 - ERROR - get_address: Address not found (input: Salle René-Sim Lacaze / Salle Charles et Mary Jamart, 24 Rue du Mesnil, 78600 Maison).
+2026-09-18 10:27:33,925 - ERROR - get_address: Address "{'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Tuba 227 Cours Lafayette 69006 Lyon, France).
+2026-09-18 10:27:41,514 - ERROR - get_address: Address "{'amenity': 'Maison de la Poste', 'road': 'Rue Picard - Picardstraat', 'town': 'Molenbeek-Saint-Jean - Sint-Jans-Molenbeek', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1080', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Maison de la Poste, Rue Picard, Bruxelles, Belgique).
+2026-09-18 10:28:04,497 - ERROR - get_address: Address "{'village': 'Collongues', 'municipality': 'Tarbes', 'county': 'Hautes-Pyrénées', 'ISO3166-2-lvl6': 'FR-65', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '65350', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Collongues, France).
+2026-09-18 10:28:23,890 - ERROR - get_address: Address not found (input: 6 rue du Maltens 31200 Toulouse).
+2026-09-18 10:28:34,394 - ERROR - get_dates: 
+2026-09-18 10:28:36,328 - ERROR - get_dates: 
+2026-09-18 10:32:03,739 - ERROR - get_address: Address "{'house_number': '95', 'road': 'Rue Froissart - Froissartstraat', 'quarter': 'Quartier européen - Europese wijk', 'city_district': 'Bruxelles - Brussel', 'city': 'Bruxelles - Brussel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1040', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Press Club Bruxelles Europe, Rue Froissart 95, 1040 Bruxelles, Belgique).
+2026-09-18 10:32:04,412 - ERROR - get_address: Address "{'neighbourhood': 'Tour et Taxis - Thurn en Taxis', 'city_district': 'Bruxelles - Brussel', 'city': 'Bruxelles - Brussel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1000', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Tour et Taxis, 1000 Bruxelles, Belgique).
+2026-09-18 10:32:04,434 - ERROR - get_address: Address "{'city': 'Strasbourg', 'municipality': 'Strasbourg', 'county': 'Bas-Rhin', 'ISO3166-2-lvl6': 'FR-67', 'state_district': "Collectivité européenne d'Alsace", 'ISO3166-2-lvl5': 'FR-6AE', 'state': 'Grand Est', 'ISO3166-2-lvl4': 'FR-GES', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Strasbourg, France).
+2026-09-18 10:32:07,770 - ERROR - get_address: Address "{'isolated_dwelling': 'La Massicoterie', 'hamlet': 'Les Fouages', 'village': 'Orville', 'municipality': 'Issoudun', 'county': 'Indre', 'ISO3166-2-lvl6': 'FR-36', 'state': 'Centre-Val de Loire', 'ISO3166-2-lvl4': 'FR-CVL', 'region': 'France métropolitaine', 'postcode': '36210', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: La Massicoterie).
+2026-09-18 10:32:07,777 - ERROR - get_address: Address "{'railway': 'Ligne 15 Sud du Grand Paris Express', 'suburb': 'Ivry Port', 'town': 'Ivry-sur-Seine', 'municipality': "L'Haÿ-les-Roses", 'county': 'Val-de-Marne', 'ISO3166-2-lvl6': 'FR-94', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '94200', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: En ligne).
+2026-09-18 10:32:07,997 - ERROR - get_address: Address "{'city_district': 'Louvain-la-Neuve', 'town': 'Ottignies-Louvain-la-Neuve', 'county': 'Nivelles', 'state': 'Brabant wallon', 'ISO3166-2-lvl6': 'BE-WBR', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '1348', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Louvain-la-Neuve).

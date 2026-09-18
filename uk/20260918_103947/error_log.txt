@@ -1,0 +1,84 @@
+2026-09-18 10:43:25,547 - ERROR - get_address: Address not found (input: Césure, 13 rue Santeuil, 75005 PARIS - salle 375
+).
+2026-09-18 10:43:46,230 - ERROR - get_address: Address not found (input: Césure, 13 rue Santeuil, 75005, PARIS - salle 376
+).
+2026-09-18 10:44:22,317 - ERROR - get_address: Address not found (input: So Watt ! Tiers-lieu, 35-37 Avenue du Maréchal de Lattre de Tassigny, Saint-André-l).
+2026-09-18 10:44:40,992 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:44:43,919 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:44:46,650 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:44:49,682 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:44:54,717 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:44:57,435 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:00,124 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:03,017 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:05,834 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:08,860 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:11,638 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:14,377 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:18,258 - ERROR - get_address: Address not found (input: Maison de la Transition et du Vélo, 135 Avenue Georges Guynemer, 13300 Salon-de-Prov).
+2026-09-18 10:45:18,259 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:45:20,992 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:23,756 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:26,484 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:29,201 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:31,929 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:34,688 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:37,490 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:40,295 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:43,024 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:45,716 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:48,552 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:52,720 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:45:55,438 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:45:59,432 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:02,199 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:04,975 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:46:11,687 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:14,385 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:17,213 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:19,977 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:22,771 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:27,887 - ERROR - get_address: Address "{'village': 'Rauzan', 'municipality': 'Libourne', 'county': 'Gironde', 'ISO3166-2-lvl6': 'FR-33', 'state': 'Nouvelle-Aquitaine', 'ISO3166-2-lvl4': 'FR-NAQ', 'region': 'France métropolitaine', 'postcode': '33420', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 13 Pl. du Champ de Foire, Rauzan, France).
+2026-09-18 10:46:27,894 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:30,639 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:33,471 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:36,233 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:39,027 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:45,777 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:46:48,593 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:52,528 - ERROR - get_address: Address "{'village': 'Jacou', 'municipality': 'Montpellier', 'county': 'Hérault', 'ISO3166-2-lvl6': 'FR-34', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '34830', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: MJC JACOU LA FABRIQUE, Jacou, France).
+2026-09-18 10:46:52,529 - ERROR - get_address: Address "{'village': 'Jacou', 'municipality': 'Montpellier', 'county': 'Hérault', 'ISO3166-2-lvl6': 'FR-34', 'state': 'Occitanie', 'ISO3166-2-lvl4': 'FR-OCC', 'region': 'France métropolitaine', 'postcode': '34830', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: MJC JACOU LA FABRIQUE, Jacou, France).
+2026-09-18 10:46:55,297 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:46:58,125 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:00,891 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:03,647 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:06,468 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:09,234 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:12,097 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:14,873 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:17,677 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:24,021 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:47:27,434 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:30,220 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:32,941 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:35,769 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:38,503 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:41,372 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:44,158 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:49,423 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:47:52,154 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:56,037 - ERROR - get_address: Address "{'town': 'Laval', 'municipality': 'Laval', 'county': 'Mayenne', 'ISO3166-2-lvl6': 'FR-53', 'state': 'Pays de la Loire', 'ISO3166-2-lvl4': 'FR-PDL', 'region': 'France métropolitaine', 'postcode': '53000', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Rucher école du Potier, Laval ).
+2026-09-18 10:47:56,037 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:47:58,874 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:48:02,958 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-09-18 10:48:02,958 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-09-18 10:48:06,808 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:48:10,796 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-09-18 10:48:10,797 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-09-18 10:48:16,438 - ERROR - get_address: Address "{'shop': 'librairie Utopia', 'house_number': '1', 'locality': 'Rue Frédéric Sauton', 'city_block': 'Quartier Saint-Victor', 'suburb': 'Paris 5e Arrondissement', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '75005', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Librairie Utopia, 1 Rue Frédéric Sauton, Paris, France).
+2026-09-18 10:48:20,356 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:48:24,284 - ERROR - get_address: Address "{'postcode': '93160', 'suburb': 'Quartier Centre', 'town': 'Noisy-le-Grand', 'municipality': 'Le Raincy', 'county': 'Seine-Saint-Denis', 'ISO3166-2-lvl6': 'FR-93', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 35 Boulevard du Champy-Richardets, 93160 Noisy-le-Grand, France).
+2026-09-18 10:48:24,284 - ERROR - get_dates: Thu Dec 31, 2026
+2026-09-18 10:48:27,153 - ERROR - get_address: Address not found (input: Baan Chaopraya, Somdet Chaopraya, Soi 17, Khlong San, Bangkok 10600).
+2026-09-18 10:48:29,914 - ERROR - get_dates: Tue Dec 31, 2030
+2026-09-18 10:48:32,846 - ERROR - get_dates: Thu Dec 31, 2026
