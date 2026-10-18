@@ -1,0 +1,6 @@
+2026-10-18 13:00:47,915 - ERROR - get_address: Address not found (input: Césure, 13 rue Santeuil, 75005, PARIS - salle 376
+).
+2026-10-18 13:01:09,377 - ERROR - get_address: Address not found (input: La casita, association bénévole, 189 Lot. Lasserre, 31460 Caraman
+).
+2026-10-18 13:02:00,189 - ERROR - get_address: Address not found (input: So Watt ! Tiers-lieu, 35-37 Avenue du Maréchal de Lattre de Tassigny, Saint-André-l).
+2026-10-18 13:02:30,419 - ERROR - get_address: Address "{'road': '14b شارع', 'residential': 'أم سقيم 1', 'suburb': 'أم سقيم 1', 'city': 'دبي', 'ISO3166-2-lvl10': 'AE-DU', 'state': 'دبي', 'ISO3166-2-lvl4': 'AE-DU', 'country': 'الإمارات العربية المتحدة', 'country_code': 'ae'}" is not located in a supported country (input: 14b street, Umm Suqeim 1, Umm Suqeim, Dubai).
