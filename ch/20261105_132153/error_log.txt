@@ -1,0 +1,43 @@
+2026-11-05 13:05:57,374 - ERROR - get_address: Address not found (input: La casita, association bénévole, 189 Lot. Lasserre, 31460 Caraman
+).
+2026-11-05 13:06:34,570 - ERROR - get_address: Address not found (input: ).
+2026-11-05 13:06:43,463 - ERROR - get_dates: Thu Nov 23, 2023 to Sat Nov 14, 2026
+2026-11-05 13:06:44,006 - ERROR - get_address: Address not found (input: ).
+2026-11-05 13:06:44,833 - ERROR - get_dates: Sun Nov 19, 2023 to Mon Jun 07, 2027
+2026-11-05 13:06:45,606 - ERROR - get_dates: Tue Nov 07, 2023 to Thu Dec 17, 2026
+2026-11-05 13:07:08,335 - ERROR - get_dates: Thu Oct 19, 2023 to Mon Dec 07, 2026
+2026-11-05 13:07:12,655 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-11-05 13:07:26,911 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-11-05 13:07:28,758 - ERROR - get_address: Address "{'tourism': "Muséum d'Histoire Naturelle", 'locality': 'Rue Espérandieu', 'quarter': 'Les Cinq-Avenues', 'suburb': 'Marseille 4e Arrondissement', 'city': 'Marseille', 'municipality': 'Marseille', 'county': 'Bouches-du-Rhône', 'ISO3166-2-lvl6': 'FR-13', 'state': "Provence-Alpes-Côte d'Azur", 'ISO3166-2-lvl4': 'FR-PAC', 'region': 'France métropolitaine', 'postcode': '13004', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Muséum d'histoire naturelle de Marseille, Rue Espérandieu, Marseille, France).
+2026-11-05 13:07:53,245 - ERROR - get_dates: Wed Jul 12, 2023 to Wed Dec 16, 2026
+2026-11-05 13:07:58,530 - ERROR - get_address: Address not found (input: So Watt ! Tiers-lieu, 35-37 Avenue du Maréchal de Lattre de Tassigny, Saint-André-l).
+2026-11-05 13:08:06,991 - ERROR - get_address: Address not found (input: Maison du Zéro Déchet, 1 Passage Jaqueline Giraud, 75012 Paris, France).
+2026-11-05 13:09:01,215 - ERROR - get_address: Address not found (input: Open Lande - 10 Rue de l'Île Mabon, 44200 Nantes - Accessible PMR).
+2026-11-05 13:09:06,462 - ERROR - get_address: Address not found (input: Restaurant L'Équilibriste, 125 Avenue Lacassagne, 69003 Lyon - Pas d'accès PMR).
+2026-11-05 13:09:12,914 - ERROR - get_address: Address not found (input: Le HangarT, 14 Rue Garibaldi, Lille - Accessible PMR).
+2026-11-05 13:09:19,897 - ERROR - get_address: Address not found (input: Éco'Logis 17A Rue Duchesne Rabier, 45200 Montargis - Pas d'accès PMR).
+2026-11-05 13:09:26,905 - ERROR - get_address: Address not found (input: Le Récif, 68 rue Sainte 2eme étage 13001 Marseille).
+2026-11-05 13:09:26,906 - ERROR - get_address: Address not found (input: Le Récif, 68 rue Sainte 2eme étage 13001 Marseille).
+2026-11-05 13:09:27,958 - ERROR - get_dates: Tue Oct 13, 2026 to Thu Dec 03, 2026
+2026-11-05 13:09:36,125 - ERROR - get_address: Address not found (input: Pavi'On, Parc du Cinquantenaire 15, 1000 Bruxelles, Accessible PMR).
+2026-11-05 13:09:52,361 - ERROR - get_dates: Wed Mar 27, 2024 to Wed Dec 09, 2026
+2026-11-05 13:10:02,097 - ERROR - get_address: Address not found (input: Moulin d'Opio 1 Place de la Font Neuve, 06650 OPIO, France).
+2026-11-05 13:10:03,931 - ERROR - get_dates: Tue Dec 15, 2026 to Tue Mar 23, 2027
+2026-11-05 13:10:07,093 - ERROR - get_address: Address "{'city': 'Nantes', 'municipality': 'Nantes', 'county': 'Loire-Atlantique', 'ISO3166-2-lvl6': 'FR-44', 'state': 'Pays de la Loire', 'ISO3166-2-lvl4': 'FR-PDL', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 5 Allée Frida Khalo, Nantes, France).
+2026-11-05 13:10:13,921 - ERROR - get_address: Address "{'house_number': '7', 'road': 'Rue du Grand Hospice - Grootgodshuisstraat', 'neighbourhood': 'Quartier des Quais - Kaaienwijk', 'suburb': 'Pentagone - Vijfhoek', 'city_district': 'Bruxelles - Brussel', 'city': 'Bruxelles - Brussel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1000', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue du Grand Hospice 7, Bruxelles, Belgique).
+2026-11-05 13:10:57,060 - ERROR - get_dates: Tue Oct 21, 2025 to Fri Dec 11, 2026
+2026-11-05 13:11:00,811 - ERROR - get_dates: Wed Mar 25, 2026 to Fri Nov 27, 2026
+2026-11-05 13:11:01,711 - ERROR - get_dates: Thu Jun 19, 2025 to Fri Dec 04, 2026
+2026-11-05 13:11:11,451 - ERROR - get_dates: 
+2026-11-05 13:11:12,778 - ERROR - get_dates: 
+2026-11-05 13:11:43,562 - ERROR - get_address: Address "{'suburb': 'أم سقيم 1', 'city': 'دبي', 'ISO3166-2-lvl10': 'AE-DU', 'state': 'دبي', 'ISO3166-2-lvl4': 'AE-DU', 'country': 'الإمارات العربية المتحدة', 'country_code': 'ae'}" is not located in a supported country (input: Zeyaar Street 107, Villa 7, Umm Suqeim 1, Dubai).
+2026-11-05 13:11:49,838 - ERROR - get_address: Address "{'road': 'Rue de Hotchamps', 'city_district': 'Louveigné', 'town': 'Sprimont', 'county': 'Liège', 'state': 'Liège', 'ISO3166-2-lvl6': 'BE-WLG', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '4141', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue de Hotchamps).
+2026-11-05 13:12:51,782 - ERROR - get_address: Address not found (input: https://us02web.zoom.us/j/5237374613?pwd=SVhLZnIxcU5ZQkRpSjlLU2w4b3BoZz09 ).
+2026-11-05 13:12:51,782 - ERROR - get_address: Address "{'house_number': '7', 'road': 'Rue du Grand Hospice - Grootgodshuisstraat', 'neighbourhood': 'Quartier des Quais - Kaaienwijk', 'suburb': 'Pentagone - Vijfhoek', 'city_district': 'Bruxelles - Brussel', 'city': 'Bruxelles - Brussel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1000', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue du Grand Hospice 7, 1000 Bruxelles, Belgique).
+2026-11-05 13:12:51,786 - ERROR - get_address: Address not found (input: https://us02web.zoom.us/j/5237374613?pwd=SVhLZnIxcU5ZQkRpSjlLU2w4b3BoZz09).
+2026-11-05 13:12:51,787 - ERROR - get_address: Address not found (input: https://us02web.zoom.us/j/5237374613?pwd=SVhLZnIxcU5ZQkRpSjlLU2w4b3BoZz09).
+2026-11-05 13:12:51,787 - ERROR - get_address: Address not found (input: Ecocentre du Périgord, Lieu-dit Froidefond, 193 All. de la Source Froide, 24450 Saint-Pierre-de-Frugie, France).
+2026-11-05 13:12:51,850 - ERROR - get_address: Address "{'highway': 'CitiGate Drive', 'road': 'McKenna Casey Drive', 'neighbourhood': 'Barrhaven West', 'suburb': 'Nepean', 'city_district': 'Rideau-Jock', 'city': 'Ottawa', 'state_district': 'Eastern Ontario', 'state': 'Ontario', 'ISO3166-2-lvl4': 'CA-ON', 'postcode': 'K2J 6H8', 'country': 'Canada', 'country_code': 'ca'}" is not located in a supported country (input: Webcast).
+2026-11-05 13:12:51,858 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, 1 Pass. Jaqueline Giraud, 75012 Paris, France).
+2026-11-05 13:12:51,859 - ERROR - get_address: Address "{'house_number': '64', 'road': 'Rue du Doyenné - Dekenijstraat', 'neighbourhood': 'Globe', 'town': 'Uccle - Ukkel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1180', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Bibliothèque d'Uccle-Centre, Rue du Doyenné 64, 1180 Uccle, Belgique).
+2026-11-05 13:12:51,869 - ERROR - get_address: Address not found (input: https://us02web.zoom.us/j/5237374613?pwd=SVhLZnIxcU5ZQkRpSjlLU2w4b3BoZz09 ).

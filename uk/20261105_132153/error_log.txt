@@ -1,0 +1,119 @@
+2026-11-05 13:26:50,756 - ERROR - get_address: Address not found (input: La casita, association bénévole, 189 Lot. Lasserre, 31460 Caraman
+).
+2026-11-05 13:27:48,277 - ERROR - get_dates: Wed Jul 12, 2023 to Tue Dec 08, 2026
+2026-11-05 13:27:57,975 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:00,922 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:02,082 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:04,631 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:07,590 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:28:10,582 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:11,691 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:14,127 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:16,998 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:18,149 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:20,542 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:23,312 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:24,379 - ERROR - get_dates: Sun Sep 17, 2023 to Thu Dec 31, 2026
+2026-11-05 13:28:28,051 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:28:28,052 - ERROR - get_address: Address "{'amenity': "L'Envol", 'house_number': '16', 'road': 'Rue de Saint-Ghislain', 'village': 'Chièvres', 'municipality': 'Chièvres', 'county': 'Ath', 'state': 'Hainaut', 'ISO3166-2-lvl6': 'BE-WHT', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '7950', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue de Saint-Ghislain 16, 7950 Chièvres, Belgique).
+2026-11-05 13:28:31,051 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:28:33,928 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:36,737 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:38,437 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:41,195 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:44,067 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:46,810 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:49,654 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:52,383 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:55,180 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:58,005 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:00,831 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:02,050 - ERROR - get_dates: Sat Nov 18, 2023 to Thu Dec 31, 2026
+2026-11-05 13:29:02,901 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:05,438 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:08,295 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:12,608 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:13,972 - ERROR - get_dates: Tue Jan 04, 2022 to Tue Dec 31, 2030
+2026-11-05 13:29:16,051 - ERROR - get_dates: Sat Sep 23, 2023 to Thu Dec 31, 2026
+2026-11-05 13:29:18,922 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:21,840 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:24,656 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:27,494 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:30,389 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:32,080 - ERROR - get_dates: Sat Sep 09, 2023 to Tue Dec 31, 2030
+2026-11-05 13:29:33,754 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:36,713 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:39,696 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:42,600 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:45,629 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:49,677 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:50,933 - ERROR - get_dates: Wed Sep 30, 2026 to Thu Dec 31, 2026
+2026-11-05 13:29:54,359 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:56,060 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:59,017 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:00,649 - ERROR - get_dates: Sat Jun 27, 2026 to Thu Dec 31, 2026
+2026-11-05 13:30:01,914 - ERROR - get_dates: Tue Oct 03, 2023 to Thu Dec 31, 2026
+2026-11-05 13:30:04,712 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:10,108 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:13,213 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:16,345 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:17,702 - ERROR - get_dates: Sat Sep 09, 2023 to Tue Dec 31, 2030
+2026-11-05 13:30:21,070 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:24,022 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:26,935 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:29,821 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:34,082 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:37,120 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:30:39,954 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:41,767 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:44,651 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:47,509 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:49,178 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:30:52,062 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:54,806 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:57,699 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:00,584 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:31:03,467 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:31:06,298 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:31:09,185 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:13,167 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-11-05 13:31:13,167 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:16,023 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:17,443 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:19,492 - ERROR - get_dates: Thu Jul 06, 2023 to Thu Dec 31, 2026
+2026-11-05 13:31:22,545 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-11-05 13:31:25,462 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:28,357 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:31,172 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:32,172 - ERROR - get_dates: Wed Feb 23, 2022 to Thu Dec 31, 2026
+2026-11-05 13:31:33,404 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:37,581 - ERROR - get_address: Address "{'shop': 'librairie Utopia', 'house_number': '1', 'locality': 'Rue Frédéric Sauton', 'city_block': 'Quartier Saint-Victor', 'suburb': 'Paris 5e Arrondissement', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '75005', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Librairie Utopia, 1 Rue Frédéric Sauton, Paris, France).
+2026-11-05 13:31:40,387 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:43,399 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:45,002 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:47,857 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:50,612 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:53,513 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:56,331 - ERROR - get_dates: Mon Dec 31, 2029
+2026-11-05 13:31:59,225 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:02,188 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:05,217 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:06,495 - ERROR - get_dates: Sat Jul 15, 2023 to Thu Dec 31, 2026
+2026-11-05 13:32:09,842 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:12,707 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:15,482 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:18,309 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:21,177 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:23,953 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:26,758 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:27,998 - ERROR - get_dates: Wed Jul 01, 2026 to Tue Dec 31, 2030
+2026-11-05 13:32:31,506 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:34,382 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:37,272 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:40,204 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:43,219 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:44,424 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:45,944 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:48,415 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:33:02,204 - ERROR - get_address: Address "{'suburb': 'أم سقيم 1', 'city': 'دبي', 'ISO3166-2-lvl10': 'AE-DU', 'state': 'دبي', 'ISO3166-2-lvl4': 'AE-DU', 'country': 'الإمارات العربية المتحدة', 'country_code': 'ae'}" is not located in a supported country (input: Zeyaar Street 107, Villa 7, Umm Suqeim 1, Dubai).
+2026-11-05 13:33:08,212 - ERROR - get_address: Address "{'road': 'Rue de Hotchamps', 'city_district': 'Louveigné', 'town': 'Sprimont', 'county': 'Liège', 'state': 'Liège', 'ISO3166-2-lvl6': 'BE-WLG', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '4141', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue de Hotchamps).
