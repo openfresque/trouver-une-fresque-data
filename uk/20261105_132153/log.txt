@@ -1,0 +1,1385 @@
+2026-11-05 13:24:54,414 - INFO - Scraping data from glide.page
+2026-11-05 13:24:54,870 - INFO - Playwright stealth browser initialized successfully
+2026-11-05 13:24:55,077 - INFO - ==================
+Processing page {'name': 'Planetary Boundaries Fresco', 'url': 'https://1erdegre.glide.page/dl/3b1bc8', 'type': 'scraper', 'filter': 'Fresque des frontières planétaires', 'id': 500}
+2026-11-05 13:25:23,233 - INFO - Found 6 elements on current page
+2026-11-05 13:25:28,835 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/5KhLdUdVQYSMBA2hR7IFeg
+2026-11-05 13:25:39,231 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/a.ADy3ULeQriSEKjclNbQWA
+2026-11-05 13:25:49,444 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/NSlbKlAWRY6gLX72tVs-sQ
+2026-11-05 13:25:59,680 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/7TpD.cxoRmWVz3iuEtfzWw
+2026-11-05 13:26:10,006 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dwPHj5SkRKit-Yn8rCs99A
+2026-11-05 13:26:20,427 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2767yLi0QTO2.M9e36HZ0Q
+2026-11-05 13:26:27,473 - INFO - Total links collected: 6
+2026-11-05 13:26:27,473 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/5KhLdUdVQYSMBA2hR7IFeg ...
+2026-11-05 13:26:36,454 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/5KhLdUdVQYSMBA2hR7IFeg
+{
+    "id": "500-5KhLdUdVQYSMBA2hR7IFeg",
+    "workshop_type": 500,
+    "title": "Online Planetary Boundaries Fresco workshop | English | with Joy & Elise",
+    "start_date": "2026-11-12T18:00:00+01:00",
+    "end_date": "2026-11-12T21:30:00+01:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/5KhLdUdVQYSMBA2hR7IFeg",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/5KhLdUdVQYSMBA2hR7IFeg",
+    "description": "Do you know the boundaries of the planet we call home?\nToday, seven of the nine planetary boundaries have been crossed, putting increasing pressure on Earth\u2019s life-support systems. To secure a safe and just future for all, we must understand how human activities interact with the Earth system --and act decisively to reduce pressures on our planet and its ecosystems.\nThe Planetary Boundaries Fresco is a 3.5-hour collaborative, science-based workshop that brings the planetary boundaries framework to life through guided discussions and an interactive card game. Together, you'll explore the processes that regulate Earth\u2019s stability, uncover how human pressures drive changes across the planet, and identify leverage points for action.\nThe workshop will take place on Thursday, November 12, from 18h00 - 21h30 CET (Amsterdam Time)\n",
+    "scrape_date": "2026-11-05T14:26:36.443338+01:00"
+}
+2026-11-05 13:26:36,455 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/a.ADy3ULeQriSEKjclNbQWA ...
+2026-11-05 13:26:43,968 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/a.ADy3ULeQriSEKjclNbQWA
+{
+    "id": "500-a.ADy3ULeQriSEKjclNbQWA",
+    "workshop_type": 500,
+    "title": "Atelier fresque des Fronti\u00e8res plan\u00e9taires ACADEMIE DU CLIMAT PARIS",
+    "start_date": "2026-11-20T18:30:00+01:00",
+    "end_date": "2026-11-20T21:30:00+01:00",
+    "full_location": "2 Place Baudoyer 75004 PARIS (salle 1.09)\n",
+    "location_name": "Acad\u00e9mie du Climat",
+    "address": "2 Place Baudoyer",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75004",
+    "country_code": "fr",
+    "latitude": "48.8561484",
+    "longitude": "2.3557819",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/a.ADy3ULeQriSEKjclNbQWA",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/a.ADy3ULeQriSEKjclNbQWA",
+    "description": "La fresque des fronti\u00e8res plan\u00e9taires, c\u2019est la Fresque la plus compl\u00e8te sur les enjeux environnementaux.\n\ud83c\udf0f Une mission ambitieuse : former tous les publics aux ph\u00e9nom\u00e8nes qui r\u00e9gissent la stabilit\u00e9 de notre syst\u00e8me Terre : les 9 fronti\u00e8res plan\u00e9taires !\n\ud83d\udd2c Une rigueur scientifique : l\u2019atelier se base sur les derni\u00e8res \u00e9tudes issues d\u2019organismes rigoureux et reconnus.\n\ud83e\udd1d Un format ludique et collaboratif : Un atelier de 3h pour comprendre l\u2019ensemble des sujets environnementaux.\nTout repose sur l\u2019intelligence collective et sur la participation du groupe dans la bienveillance.\nAllez viens, avan\u00e7ons ensemble, il est temps d\u2019agir ! H\u00e2te de l\u2019animer et de poursuivre l\u2019aventure tous et toutes ensemble !\nAccueil des participant-es \u00e0 partir de 18h15. D\u00e9but de l\u2019atelier 18h30 Contact si besoin 0750411719 Philippe\n",
+    "scrape_date": "2026-11-05T14:26:43.968344+01:00"
+}
+2026-11-05 13:26:43,969 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/NSlbKlAWRY6gLX72tVs-sQ ...
+2026-11-05 13:26:50,756 - ERROR - get_address: Address not found (input: La casita, association bénévole, 189 Lot. Lasserre, 31460 Caraman
+).
+2026-11-05 13:26:50,757 - INFO - Rejecting record: Address not found (input: La casita, association bénévole, 189 Lot. Lasserre, 31460 Caraman
+)..
+2026-11-05 13:26:50,757 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/7TpD.cxoRmWVz3iuEtfzWw ...
+2026-11-05 13:26:57,518 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/7TpD.cxoRmWVz3iuEtfzWw
+{
+    "id": "500-7TpD.cxoRmWVz3iuEtfzWw",
+    "workshop_type": 500,
+    "title": "Fresque des Fronti\u00e8res Plan\u00e9taires",
+    "start_date": "2026-11-29T20:07:00+01:00",
+    "end_date": "2026-11-29T23:37:00+01:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/7TpD.cxoRmWVz3iuEtfzWw",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/7TpD.cxoRmWVz3iuEtfzWw",
+    "description": "Venez d\u00e9couvrir les 9.\n",
+    "scrape_date": "2026-11-05T14:26:57.518733+01:00"
+}
+2026-11-05 13:26:57,520 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dwPHj5SkRKit-Yn8rCs99A ...
+2026-11-05 13:27:04,561 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dwPHj5SkRKit-Yn8rCs99A
+{
+    "id": "500-dwPHj5SkRKit-Yn8rCs99A",
+    "workshop_type": 500,
+    "title": "Atelier fresque des Fronti\u00e8res plan\u00e9taires ACADEMIE DU CLIMAT PARIS",
+    "start_date": "2026-12-18T18:30:00+01:00",
+    "end_date": "2026-12-18T21:30:00+01:00",
+    "full_location": "2 Place Baudoyer 75004 PARIS (salle 1.09)\n",
+    "location_name": "Acad\u00e9mie du Climat",
+    "address": "2 Place Baudoyer",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75004",
+    "country_code": "fr",
+    "latitude": "48.8561484",
+    "longitude": "2.3557819",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dwPHj5SkRKit-Yn8rCs99A",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dwPHj5SkRKit-Yn8rCs99A",
+    "description": "La fresque des fronti\u00e8res plan\u00e9taires, c\u2019est la Fresque la plus compl\u00e8te sur les enjeux environnementaux.\n\ud83c\udf0f Une mission ambitieuse : former tous les publics aux ph\u00e9nom\u00e8nes qui r\u00e9gissent la stabilit\u00e9 de notre syst\u00e8me Terre : les 9 fronti\u00e8res plan\u00e9taires !\n\ud83d\udd2c Une rigueur scientifique : l\u2019atelier se base sur les derni\u00e8res \u00e9tudes issues d\u2019organismes rigoureux et reconnus.\n\ud83e\udd1d Un format ludique et collaboratif : Un atelier de 3h pour comprendre l\u2019ensemble des sujets environnementaux.\nTout repose sur l\u2019intelligence collective et sur la participation du groupe dans la bienveillance.\nAllez viens, avan\u00e7ons ensemble, il est temps d\u2019agir ! H\u00e2te de l\u2019animer et de poursuivre l\u2019aventure tous et toutes ensemble !\nAccueil des participant-es \u00e0 partir de 18h15. D\u00e9but de l\u2019atelier 18h30 Contact si besoin 0750411719 Philippe\n",
+    "scrape_date": "2026-11-05T14:27:04.561113+01:00"
+}
+2026-11-05 13:27:04,562 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2767yLi0QTO2.M9e36HZ0Q ...
+2026-11-05 13:27:11,413 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2767yLi0QTO2.M9e36HZ0Q
+{
+    "id": "500-2767yLi0QTO2.M9e36HZ0Q",
+    "workshop_type": 500,
+    "title": "Fresque des fronti\u00e8res plan\u00e9taires",
+    "start_date": "2026-12-27T20:09:00+01:00",
+    "end_date": "2026-12-27T23:39:00+01:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2767yLi0QTO2.M9e36HZ0Q",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/2767yLi0QTO2.M9e36HZ0Q",
+    "description": "D\u00e9couvrez les 7 parmi les 9...\n",
+    "scrape_date": "2026-11-05T14:27:11.413663+01:00"
+}
+2026-11-05 13:27:11,500 - INFO - Browser closed successfully
+2026-11-05 13:27:11,530 - INFO - Saved 871 geocode cache entries to .geocode_cache.json
+2026-11-05 13:27:12,340 - INFO - Scraping data from www.billetweb.fr
+2026-11-05 13:27:15,919 - INFO - ==================
+Processing page {'name': 'Digital Collage', 'url': 'https://www.billetweb.fr/multi_event.php?multi=11442', 'type': 'scraper', 'iframe': 'eventu84999', 'id': 3}
+2026-11-05 13:27:27,158 - INFO - Rejecting record: iframe not found
+2026-11-05 13:27:27,159 - INFO - ==================
+Processing page {'name': 'Digital Collage', 'url': 'https://www.billetweb.fr/pro/atelier-fresque-du-numerique', 'type': 'scraper', 'iframe': 'event41180', 'id': 3}
+2026-11-05 13:27:28,196 - INFO - ------------------
+Processing event https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-11-05 13:27:34,760 - INFO - 
+-> Processing session 1/4 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12842814 ...
+2026-11-05 13:27:35,008 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique?multi=41180-12842814",
+    "workshop_type": 3,
+    "title": "PARIS 04, Atelier avec Alain Michaud",
+    "start_date": "2026-11-05T18:00:00+01:00",
+    "end_date": "2026-11-05T21:00:00+01:00",
+    "full_location": "L'Academie du Climat, 2 place Baudoyer 75004 PARIS",
+    "location_name": "Acad\u00e9mie du Climat",
+    "address": "2 Place Baudoyer",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75004",
+    "country_code": "fr",
+    "latitude": "48.8561484",
+    "longitude": "2.3557819",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12842814",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-11-05T14:27:34.998556+01:00"
+}
+2026-11-05 13:27:35,009 - INFO - 
+-> Processing session 2/4 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12409883 ...
+2026-11-05 13:27:35,013 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique?multi=41180-12409883",
+    "workshop_type": 3,
+    "title": "PARIS 12, Atelier avec Agathe Gajac",
+    "start_date": "2026-11-28T10:15:00+01:00",
+    "end_date": "2026-11-28T13:15:00+01:00",
+    "full_location": "La Maison du Z\u00e9ro D\u00e9chet \u2013 1 passage Emma Calv\u00e9, 75012 Paris",
+    "location_name": "La Maison du Z\u00e9ro D\u00e9chet",
+    "address": "1 Passage Emma Calv\u00e9",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75012",
+    "country_code": "fr",
+    "latitude": "48.8485602",
+    "longitude": "2.3856496",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12409883",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-11-05T14:27:35.013481+01:00"
+}
+2026-11-05 13:27:35,014 - INFO - 
+-> Processing session 3/4 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12850756 ...
+2026-11-05 13:27:35,018 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique?multi=41180-12850756",
+    "workshop_type": 3,
+    "title": "PARIS 03, Atelier avec Arnaud Lafert\u00e9",
+    "start_date": "2026-12-06T15:00:00+01:00",
+    "end_date": "2026-12-06T18:00:00+01:00",
+    "full_location": "La Ga\u00eet\u00e9 Lyrique, Rue Papin, Paris, France",
+    "location_name": "La Ga\u00eet\u00e9 lyrique",
+    "address": "3 bis Rue Papin",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75012",
+    "country_code": "fr",
+    "latitude": "48.8665807",
+    "longitude": "2.3533873",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12850756",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-11-05T14:27:35.018181+01:00"
+}
+2026-11-05 13:27:35,019 - INFO - 
+-> Processing session 4/4 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12850763 ...
+2026-11-05 13:27:35,023 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique?multi=41180-12850763",
+    "workshop_type": 3,
+    "title": "PARIS 03, Atelier avec Arnaud Lafert\u00e9",
+    "start_date": "2027-01-10T15:00:00+01:00",
+    "end_date": "2027-01-10T18:00:00+01:00",
+    "full_location": "La Ga\u00eet\u00e9 Lyrique, Rue Papin, Paris, France",
+    "location_name": "La Ga\u00eet\u00e9 lyrique",
+    "address": "3 bis Rue Papin",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75012",
+    "country_code": "fr",
+    "latitude": "48.8665807",
+    "longitude": "2.3533873",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12850763",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-11-05T14:27:35.023141+01:00"
+}
+2026-11-05 13:27:35,023 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-11-05 13:27:38,851 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954524 ...
+2026-11-05 13:27:38,860 - INFO - Successfully scraped:
+{
+    "id": "3-haute-garonne-31-atelier-fresque-du-numerique?multi=41180-11954524",
+    "workshop_type": 3,
+    "title": "TOULOUSE Atelier",
+    "start_date": "2026-11-10T19:00:00+01:00",
+    "end_date": "2026-11-10T22:00:00+01:00",
+    "full_location": "Les Halles de la Transition, Rue du Canon d'Arcole, Toulouse, France",
+    "location_name": "Les Halles De La Transition",
+    "address": "7 Rue du Canon d'Arcole",
+    "city": "Toulouse",
+    "department": "31",
+    "zip_code": "31000",
+    "country_code": "fr",
+    "latitude": "43.6137551",
+    "longitude": "1.4351445",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954524",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir du 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n    Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-11-05T14:27:38.859992+01:00"
+}
+2026-11-05 13:27:38,861 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954530 ...
+2026-11-05 13:27:38,865 - INFO - Successfully scraped:
+{
+    "id": "3-haute-garonne-31-atelier-fresque-du-numerique?multi=41180-11954530",
+    "workshop_type": 3,
+    "title": "TOULOUSE Atelier",
+    "start_date": "2026-12-12T10:00:00+01:00",
+    "end_date": "2026-12-12T13:00:00+01:00",
+    "full_location": "L'Archipel - Tiers Lieu Educatif, Rue de l'Ari\u00e8ge, Tournefeuille, France",
+    "location_name": "Rue de l'Ari\u00e8ge",
+    "address": "Rue de l'Ari\u00e8ge",
+    "city": "Tournefeuille",
+    "department": "31",
+    "zip_code": "31170",
+    "country_code": "fr",
+    "latitude": "43.5888786",
+    "longitude": "1.3379438",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954530",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir du 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n    Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-11-05T14:27:38.865475+01:00"
+}
+2026-11-05 13:27:38,866 - INFO - ------------------
+Processing event https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-11-05 13:27:42,929 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=904831&margin=no_margin&color=006056&ref=loire-atlantique-44-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12695070 ...
+2026-11-05 13:27:42,939 - INFO - Successfully scraped:
+{
+    "id": "3-loire-atlantique-44-atelier-fresque-du-numerique?multi=41180-12695070",
+    "workshop_type": 3,
+    "title": "Nantes - Atelier la Fresque du Num\u00e9rique",
+    "start_date": "2026-11-19T18:30:00+01:00",
+    "end_date": "2026-11-19T21:30:00+01:00",
+    "full_location": "Open Lande - Entreprises et territoires, Rue de l'\u00cele Mabon, Nantes, France",
+    "location_name": "Rue de l'\u00cele Mabon",
+    "address": "Rue de l'\u00cele Mabon",
+    "city": "Nantes",
+    "department": "44",
+    "zip_code": "44262",
+    "country_code": "fr",
+    "latitude": "47.2070177",
+    "longitude": "-1.5592533",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904831&margin=no_margin&color=006056&ref=loire-atlantique-44-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12695070",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-11-05T14:27:42.939228+01:00"
+}
+2026-11-05 13:27:42,940 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=904831&margin=no_margin&color=006056&ref=loire-atlantique-44-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12772364 ...
+2026-11-05 13:27:42,945 - INFO - Successfully scraped:
+{
+    "id": "3-loire-atlantique-44-atelier-fresque-du-numerique?multi=41180-12772364",
+    "workshop_type": 3,
+    "title": "Nantes - Atelier la Fresque du Num\u00e9rique avec Pascal Hubert",
+    "start_date": "2026-12-16T18:30:00+01:00",
+    "end_date": "2026-12-16T21:30:00+01:00",
+    "full_location": "La Galerie du Z\u00e9ro D\u00e9chet, Rue F\u00e9nelon, Nantes, France",
+    "location_name": "Rue F\u00e9nelon",
+    "address": "Rue F\u00e9nelon",
+    "city": "Nantes",
+    "department": "44",
+    "zip_code": "44036",
+    "country_code": "fr",
+    "latitude": "47.2171079",
+    "longitude": "-1.5541712",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904831&margin=no_margin&color=006056&ref=loire-atlantique-44-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12772364",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-11-05T14:27:42.945226+01:00"
+}
+2026-11-05 13:27:42,947 - INFO - ------------------
+Processing event https://www.billetweb.fr/en-ligne-formation-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-11-05 13:27:46,395 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=909349&margin=no_margin&color=006056&ref=en-ligne-formation-fresque-du-numerique&cross_shop=41180&step=1&session=12863536 ...
+2026-11-05 13:27:46,411 - INFO - Successfully scraped:
+{
+    "id": "3-en-ligne-formation-fresque-du-numerique?multi=41180-12863536",
+    "workshop_type": 3,
+    "title": "EN LIGNE - FORMATION \u00c0 L'ANIMATION - EN LIGNE - Formation avec Priscille Cadart",
+    "start_date": "2026-11-25T15:00:00+01:00",
+    "end_date": "2026-11-25T18:00:00+01:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": true,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/en-ligne-formation-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=909349&margin=no_margin&color=006056&ref=en-ligne-formation-fresque-du-numerique&cross_shop=41180&step=1&session=12863536",
+    "description": "Cette formation \u00e0 l'animation est r\u00e9serv\u00e9e aux particuliers :\n- souhaitant animer principalement dans un contexte b\u00e9n\u00e9vole citoyen ou scolaire,  \n- ayant d\u00e9j\u00e0 particip\u00e9 \u00e0 un atelier Fresque du Num\u00e9rique depuis moins de 6 mois\n- ayant d\u00e9j\u00e0 particip\u00e9 \u00e0 un atelier Fresque du Climat\n  Cette formation citoyenne est destin\u00e9e aux particuliers. Pour les professionnel\u00b7le\u00b7s, vous pouvez vous orienter soit vers une formation pro inter-entreprises pour 1 ou quelques salari\u00e9\u00b7es, soit vers une formation pro intra-entreprises sous forme de prestation commerciale d\u00e9di\u00e9e, \u00e0 partir de 5 salari\u00e9\u00b7e\u00b7s. \n  La formations \u00e0 l'animation de la Fresque du Num\u00e9rique vous permet d'animer des ateliers dans des cadres non-commerciaux via la licence Creative Commons BY-NC-ND. Pour pouvoir animer dans un cadre pro des pr\u00e9requis suppl\u00e9mentaires sont n\u00e9cessaires et un contrat d\u2019agr\u00e9ment doit \u00eatre sign\u00e9 avec l\u2019association. Vous trouverez plus d'infos sur la licence sur le site de l'asso et nous y reviendrons aussi en fin de formation.\n  Le but de cette formation est de vous faire devenir animateur\u00b7rice de la Fresque du Num\u00e9rique, pour que vous puissiez ensuite animer des ateliers. Le but ici n\u2019est pas de faire de vous un\u00b7e expert\u00b7e de l'empreinte environnementale du num\u00e9rique. Si vous souhaitez approfondir vos connaissances sur le fond du sujet, nous vous recommandons plut\u00f4t vivement de suivre le MOOC de l'INRIA \"Impacts environnementaux du num\u00e9rique\".\n  Cette session aura lieu en ligne en utilisant un outil de visioconf\u00e9rence et un outil de collaboration visuelle. Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7e\u00b7s inscrits quelques jours avant la formation. Par respect des autres et du timing, les participant\u00b7e\u00b7s ne seront pas accept\u00e9s s'ils ont plus de 10 minutes de retard.\n  Une fois inscrit, votre nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.\n  Votre billet n'est pas modifiable et il est remboursable seulement jusqu'\u00e0 7 jours avant la formation, on vous remercie de vous inscrire seulement si vous \u00eates s\u00fbr\u00b7e de pouvoir participer afin de ne pas bloquer de place pour d'autres.",
+    "scrape_date": "2026-11-05T14:27:46.411426+01:00"
+}
+2026-11-05 13:27:46,420 - INFO - ------------------
+Processing event https://www.billetweb.fr/nord-59-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-11-05 13:27:48,272 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/nord-59-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique ...
+2026-11-05 13:27:48,277 - ERROR - get_dates: Wed Jul 12, 2023 to Tue Dec 08, 2026
+2026-11-05 13:27:48,277 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Wed Jul 12, 2023 to Tue Dec 08, 2026).
+2026-11-05 13:27:48,277 - INFO - ------------------
+Processing event https://www.billetweb.fr/oise-60-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-11-05 13:27:52,479 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=1320126&margin=no_margin&color=5190f5&ref=oise-60-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12831320 ...
+2026-11-05 13:27:52,484 - INFO - Successfully scraped:
+{
+    "id": "3-oise-60-atelier-fresque-du-numerique?multi=41180-12831320",
+    "workshop_type": 3,
+    "title": "OISE 60 - ATELIER FRESQUE DU NUM\u00c9RIQUE",
+    "start_date": "2027-01-14T18:00:00+01:00",
+    "end_date": "2027-01-14T21:00:00+01:00",
+    "full_location": "Compi\u00e8gne en Transition, Rue Hippolyte Bottier, Compi\u00e8gne, France",
+    "location_name": "Rue Hippolyte Bottier",
+    "address": "Rue Hippolyte Bottier",
+    "city": "Compi\u00e8gne",
+    "department": "60",
+    "zip_code": "60200",
+    "country_code": "fr",
+    "latitude": "49.4196727",
+    "longitude": "2.8281800",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/oise-60-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=1320126&margin=no_margin&color=5190f5&ref=oise-60-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12831320",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.\n ",
+    "scrape_date": "2026-11-05T14:27:52.484290+01:00"
+}
+2026-11-05 13:27:52,485 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=1320126&margin=no_margin&color=5190f5&ref=oise-60-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12831321 ...
+2026-11-05 13:27:52,490 - INFO - Successfully scraped:
+{
+    "id": "3-oise-60-atelier-fresque-du-numerique?multi=41180-12831321",
+    "workshop_type": 3,
+    "title": "OISE 60 - ATELIER FRESQUE DU NUM\u00c9RIQUE",
+    "start_date": "2027-05-20T18:00:00+02:00",
+    "end_date": "2027-05-20T21:00:00+02:00",
+    "full_location": "Compi\u00e8gne en Transition, Rue Hippolyte Bottier, Compi\u00e8gne, France",
+    "location_name": "Rue Hippolyte Bottier",
+    "address": "Rue Hippolyte Bottier",
+    "city": "Compi\u00e8gne",
+    "department": "60",
+    "zip_code": "60200",
+    "country_code": "fr",
+    "latitude": "49.4196727",
+    "longitude": "2.8281800",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/oise-60-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=1320126&margin=no_margin&color=5190f5&ref=oise-60-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12831321",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.\n ",
+    "scrape_date": "2026-11-05T14:27:52.489849+01:00"
+}
+2026-11-05 13:27:52,490 - INFO - ==================
+Processing page {'name': 'Biodiversity Collage', 'url': 'https://www.billetweb.fr/multi_event.php?user=82762', 'type': 'scraper', 'iframe': 'event17309', 'id': 2}
+2026-11-05 13:27:55,257 - INFO - ------------------
+Processing event https://www.billetweb.fr/fresque-de-la-biodiversite-ain-01?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:27:57,974 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=847240&margin=margin_small&color=no&ref=fresque-de-la-biodiversite-ain-01&cross_shop=17309&step=1&session=12531928 ...
+2026-11-05 13:27:57,975 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:27:57,975 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:27:57,975 - INFO - ------------------
+Processing event https://www.billetweb.fr/aisne-02?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:00,921 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1284955&margin=margin_small&color=no&ref=aisne-02&cross_shop=17309&step=1&session=12531897 ...
+2026-11-05 13:28:00,922 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:00,922 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:00,922 - INFO - ------------------
+Processing event https://www.billetweb.fr/allier-03?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:02,082 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/allier-03?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:28:02,082 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:02,082 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:02,082 - INFO - ------------------
+Processing event https://www.billetweb.fr/alpes-de-haute-provence-041?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:04,631 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308734&margin=margin_small&color=no&ref=alpes-de-haute-provence-041&cross_shop=17309&step=1&session=12531931 ...
+2026-11-05 13:28:04,631 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:04,631 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:04,631 - INFO - ------------------
+Processing event https://www.billetweb.fr/alpes-maritimes-06-domino-des-cosystemes?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:07,589 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1469273&margin=margin_small&color=no&ref=alpes-maritimes-06-domino-des-cosystemes&cross_shop=17309&step=1&session=12757400 ...
+2026-11-05 13:28:07,590 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:28:07,590 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:28:07,590 - INFO - ------------------
+Processing event https://www.billetweb.fr/alpes-maritimes-06?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:10,582 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=862819&margin=margin_small&color=no&ref=alpes-maritimes-06&cross_shop=17309&step=1&session=12531936 ...
+2026-11-05 13:28:10,582 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:10,582 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:10,582 - INFO - ------------------
+Processing event https://www.billetweb.fr/ardennes-08?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:11,690 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/ardennes-08?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:28:11,691 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:11,691 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:11,691 - INFO - ------------------
+Processing event https://www.billetweb.fr/ard-che-07?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:14,127 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308738&margin=no_margin&color=635BFF&ref=ard-che-07&cross_shop=17309&step=1&session=12531957 ...
+2026-11-05 13:28:14,127 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:14,128 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:14,128 - INFO - ------------------
+Processing event https://www.billetweb.fr/ari-ge-09?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:16,998 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308742&margin=margin_small&color=no&ref=ari-ge-09&cross_shop=17309&step=1&session=12531962 ...
+2026-11-05 13:28:16,998 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:16,998 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:16,998 - INFO - ------------------
+Processing event https://www.billetweb.fr/aube-10?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:18,149 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/aube-10?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:28:18,149 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:18,149 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:18,150 - INFO - ------------------
+Processing event https://www.billetweb.fr/aude-111?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:20,542 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308751&margin=margin_small&color=no&ref=aude-111&cross_shop=17309&step=1&session=12531986 ...
+2026-11-05 13:28:20,542 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:20,542 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:20,543 - INFO - ------------------
+Processing event https://www.billetweb.fr/aveyron-12?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:23,312 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308755&margin=margin_small&color=no&ref=aveyron-12&cross_shop=17309&step=1&session=12531987 ...
+2026-11-05 13:28:23,312 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:23,312 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:23,312 - INFO - ------------------
+Processing event https://www.billetweb.fr/bas-rhin-67?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:24,378 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/bas-rhin-67?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:28:24,379 - ERROR - get_dates: Sun Sep 17, 2023 to Thu Dec 31, 2026
+2026-11-05 13:28:24,379 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Sun Sep 17, 2023 to Thu Dec 31, 2026).
+2026-11-05 13:28:24,379 - INFO - ------------------
+Processing event https://www.billetweb.fr/belgique-belgi?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:28,051 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=985883&margin=margin_small&color=no&ref=belgique-belgi&cross_shop=17309&step=1&session=12814657 ...
+2026-11-05 13:28:28,051 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:28:28,052 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:28:28,052 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=985883&margin=margin_small&color=no&ref=belgique-belgi&cross_shop=17309&step=1&session=12861593 ...
+2026-11-05 13:28:28,052 - ERROR - get_address: Address "{'amenity': "L'Envol", 'house_number': '16', 'road': 'Rue de Saint-Ghislain', 'village': 'Chièvres', 'municipality': 'Chièvres', 'county': 'Ath', 'state': 'Hainaut', 'ISO3166-2-lvl6': 'BE-WHT', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '7950', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue de Saint-Ghislain 16, 7950 Chièvres, Belgique).
+2026-11-05 13:28:28,052 - INFO - Rejecting record: Address "{'amenity': "L'Envol", 'house_number': '16', 'road': 'Rue de Saint-Ghislain', 'village': 'Chièvres', 'municipality': 'Chièvres', 'county': 'Ath', 'state': 'Hainaut', 'ISO3166-2-lvl6': 'BE-WHT', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '7950', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue de Saint-Ghislain 16, 7950 Chièvres, Belgique)..
+2026-11-05 13:28:28,053 - INFO - ------------------
+Processing event https://www.billetweb.fr/bouches-du-rh-ne-13-domino-des-cosystemes?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:31,050 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1467297&margin=margin_small&color=no&ref=bouches-du-rh-ne-13-domino-des-cosystemes&cross_shop=17309&step=1&session=12757402 ...
+2026-11-05 13:28:31,051 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:28:31,051 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:28:31,051 - INFO - ------------------
+Processing event https://www.billetweb.fr/bouches-du-rhone-13?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:33,928 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857144&margin=margin_small&color=no&ref=bouches-du-rhone-13&cross_shop=17309&step=1&session=12532010 ...
+2026-11-05 13:28:33,928 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:33,929 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:33,929 - INFO - ------------------
+Processing event https://www.billetweb.fr/calvados-13?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:36,737 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857147&margin=margin_small&color=no&ref=calvados-13&cross_shop=17309&step=1&session=12532104 ...
+2026-11-05 13:28:36,737 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:36,738 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:36,738 - INFO - ------------------
+Processing event https://www.billetweb.fr/cantal-151?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:38,436 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/cantal-151?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:28:38,437 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:38,437 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:38,437 - INFO - ------------------
+Processing event https://www.billetweb.fr/charente-15?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:41,194 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857153&margin=margin_small&color=no&ref=charente-15&cross_shop=17309&step=1&session=12532107 ...
+2026-11-05 13:28:41,195 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:41,195 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:41,195 - INFO - ------------------
+Processing event https://www.billetweb.fr/charente-maritime-17?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:44,066 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857156&margin=margin_small&color=no&ref=charente-maritime-17&cross_shop=17309&step=1&session=12532108 ...
+2026-11-05 13:28:44,067 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:44,067 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:44,067 - INFO - ------------------
+Processing event https://www.billetweb.fr/cher-181?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:46,810 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308763&margin=margin_small&color=no&ref=cher-181&cross_shop=17309&step=1&session=12532109 ...
+2026-11-05 13:28:46,810 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:46,810 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:46,810 - INFO - ------------------
+Processing event https://www.billetweb.fr/corr-ze-191?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:49,654 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1298387&margin=margin_small&color=no&ref=corr-ze-191&cross_shop=17309&step=1&session=12532110 ...
+2026-11-05 13:28:49,654 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:49,654 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:49,654 - INFO - ------------------
+Processing event https://www.billetweb.fr/corse-du-sud-2a1?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:52,383 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308765&margin=margin_small&color=no&ref=corse-du-sud-2a1&cross_shop=17309&step=1&session=12532111 ...
+2026-11-05 13:28:52,383 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:52,383 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:52,384 - INFO - ------------------
+Processing event https://www.billetweb.fr/creuse-231?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:55,180 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308776&margin=margin_small&color=no&ref=creuse-231&cross_shop=17309&step=1&session=12532121 ...
+2026-11-05 13:28:55,180 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:55,180 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:55,180 - INFO - ------------------
+Processing event https://www.billetweb.fr/c-te-darmor-223?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:28:58,005 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1410632&margin=margin_small&color=no&ref=c-te-darmor-223&cross_shop=17309&step=1&session=12532114 ...
+2026-11-05 13:28:58,005 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:28:58,005 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:28:58,006 - INFO - ------------------
+Processing event https://www.billetweb.fr/c-te-dor-211?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:00,831 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1256165&margin=margin_small&color=no&ref=c-te-dor-211&cross_shop=17309&step=1&session=12532113 ...
+2026-11-05 13:29:00,831 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:00,831 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:00,831 - INFO - ------------------
+Processing event https://www.billetweb.fr/deux-s-vres-79?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:02,050 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/deux-s-vres-79?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:29:02,050 - ERROR - get_dates: Sat Nov 18, 2023 to Thu Dec 31, 2026
+2026-11-05 13:29:02,050 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Sat Nov 18, 2023 to Thu Dec 31, 2026).
+2026-11-05 13:29:02,050 - INFO - ------------------
+Processing event https://www.billetweb.fr/dordogne-241?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:02,901 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/dordogne-241?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:29:02,901 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:02,901 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:02,901 - INFO - ------------------
+Processing event https://www.billetweb.fr/doubs-25?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:05,438 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857198&margin=margin_small&color=no&ref=doubs-25&cross_shop=17309&step=1&session=12532124 ...
+2026-11-05 13:29:05,438 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:05,438 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:05,438 - INFO - ------------------
+Processing event https://www.billetweb.fr/dr-me-26?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:08,294 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857204&margin=margin_small&color=no&ref=dr-me-26&cross_shop=17309&step=1&session=12546262 ...
+2026-11-05 13:29:08,295 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:08,295 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:08,295 - INFO - ------------------
+Processing event https://www.billetweb.fr/en-ligne-domino-des-cosystemes-fr?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:12,601 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=1456155&margin=no_margin&color=F97910&ref=en-ligne-domino-des-cosystemes-fr&cross_shop=17309&step=1&session=12873705 ...
+2026-11-05 13:29:12,607 - INFO - Successfully scraped:
+{
+    "id": "2-en-ligne-domino-des-cosystemes-fr?multi=17309-12873705",
+    "workshop_type": 2,
+    "title": "EN LIGNE - Domino des \u00c9cosyst\u00e8mes (FR) - Domino des \u00c9cosyst\u00e8mes avec Chantal Puel",
+    "start_date": "2026-12-01T18:00:00+01:00",
+    "end_date": "2026-12-01T19:30:00+01:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/en-ligne-domino-des-cosystemes-fr?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=1456155&margin=no_margin&color=F97910&ref=en-ligne-domino-des-cosystemes-fr&cross_shop=17309&step=1&session=12873705",
+    "description": "Le Domino est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nIl s'agit d'un format plus court et modulable que la Fresque de la Biodiversit\u00e9, puisqu'il se base sur un ou deux \u00e9cosyst\u00e8mes (entre 45 min et 1h30).\n  Au cours de cet atelier, vous d\u00e9couvrirez le fonctionnement d'un ou plusieurs \u00e9cosyst\u00e8mes, les services que nous rend la biodiversit\u00e9, les pressions qui p\u00e8sent sur elle et les menaces li\u00e9es \u00e0 son \u00e9rosion.\n  D\u00e9roul\u00e9 de l\u2019atelier :\nD\u00e9couvrir - Reconstituer un \u00e9cosyst\u00e8me \u00e0 l\u2019\u00e9quilibre et identifier les services \u00e9cosyst\u00e9miques associ\u00e9s\nComprendre - Comprendre les pressions qui p\u00e8sent sur cet \u00e9cosyst\u00e8me et le d\u00e9s\u00e9quilibrent, les activit\u00e9s humaines li\u00e9es et les risques\n\u00c9changer et agir - Quelles solutions peut-on proposer ?\n  L'atelier est \u00e0 montant libre \u00e0 partir de 1 \u20ac : donnez ce qui vous semble \u00eatre juste pour soutenir l'association, reconna\u00eetre la valeur de l'atelier et du temps pass\u00e9, et selon vos moyens : \nAvec 5 \u20ac, vous couvrez les frais d'organisation des ateliers\nAvec 15 \u20ac, vous couvrez les frais d'organisation des ateliers et permettez \u00e0 l'association de continuer \u00e0 exercer son activit\u00e9 \nAvec 30 \u20ac, vous couvrez les frais d'organisation des ateliers, permettez \u00e0 l'association de d\u00e9velopper son activit\u00e9 et soutenez la sensibilisation de nouveaux publics\nTarif recommand\u00e9 pour les entreprises : entre 120 \u20ac et 150 \u20ac / personne (dans la limite de 2 salari\u00e9s par entreprise)\n  Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org",
+    "scrape_date": "2026-11-05T14:29:12.607335+01:00"
+}
+2026-11-05 13:29:12,608 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=1456155&margin=no_margin&color=F97910&ref=en-ligne-domino-des-cosystemes-fr&cross_shop=17309&step=1&session=12757403 ...
+2026-11-05 13:29:12,608 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:12,608 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:29:12,608 - INFO - ------------------
+Processing event https://www.billetweb.fr/fresque-de-la-biodiversite-en-ligne-2022?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:13,971 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/fresque-de-la-biodiversite-en-ligne-2022?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:29:13,972 - ERROR - get_dates: Tue Jan 04, 2022 to Tue Dec 31, 2030
+2026-11-05 13:29:13,972 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Jan 04, 2022 to Tue Dec 31, 2030).
+2026-11-05 13:29:13,972 - INFO - ------------------
+Processing event https://www.billetweb.fr/essonne-91?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:16,051 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/essonne-91?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:29:16,051 - ERROR - get_dates: Sat Sep 23, 2023 to Thu Dec 31, 2026
+2026-11-05 13:29:16,051 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Sat Sep 23, 2023 to Thu Dec 31, 2026).
+2026-11-05 13:29:16,052 - INFO - ------------------
+Processing event https://www.billetweb.fr/eure-271?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:18,922 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308789&margin=margin_small&color=no&ref=eure-271&cross_shop=17309&step=1&session=12546263 ...
+2026-11-05 13:29:18,922 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:18,923 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:18,923 - INFO - ------------------
+Processing event https://www.billetweb.fr/eure-et-loir-281?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:21,838 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1215526&margin=margin_small&color=no&ref=eure-et-loir-281&cross_shop=17309&step=1&session=12546264 ...
+2026-11-05 13:29:21,840 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:21,840 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:21,840 - INFO - ------------------
+Processing event https://www.billetweb.fr/finist-re-29?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:24,655 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857306&margin=margin_small&color=no&ref=finist-re-29&cross_shop=17309&step=1&session=12546266 ...
+2026-11-05 13:29:24,656 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:24,656 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:24,656 - INFO - ------------------
+Processing event https://www.billetweb.fr/gard-301?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:27,493 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1412438&margin=margin_small&color=no&ref=gard-301&cross_shop=17309&step=1&session=12546267 ...
+2026-11-05 13:29:27,494 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:27,494 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:27,494 - INFO - ------------------
+Processing event https://www.billetweb.fr/gers-321?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:30,388 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308805&margin=margin_small&color=no&ref=gers-321&cross_shop=17309&step=1&session=12546269 ...
+2026-11-05 13:29:30,389 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:30,389 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:30,389 - INFO - ------------------
+Processing event https://www.billetweb.fr/gironde-33?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:32,080 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/gironde-33?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:29:32,080 - ERROR - get_dates: Sat Sep 09, 2023 to Tue Dec 31, 2030
+2026-11-05 13:29:32,080 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Sat Sep 09, 2023 to Tue Dec 31, 2030).
+2026-11-05 13:29:32,080 - INFO - ------------------
+Processing event https://www.billetweb.fr/haut-rhin-683?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:33,754 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/haut-rhin-683?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:29:33,754 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:33,754 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:29:33,754 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-corse-2b1?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:36,712 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308766&margin=margin_small&color=no&ref=haute-corse-2b1&cross_shop=17309&step=1&session=12532112 ...
+2026-11-05 13:29:36,713 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:36,713 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:36,713 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-garonne-31?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:39,695 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857555&margin=margin_small&color=no&ref=haute-garonne-31&cross_shop=17309&step=1&session=12546268 ...
+2026-11-05 13:29:39,696 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:39,696 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:39,696 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-loire-431?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:42,600 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1419150&margin=margin_small&color=no&ref=haute-loire-431&cross_shop=17309&step=1&session=12547181 ...
+2026-11-05 13:29:42,600 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:42,601 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:42,601 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-marne-521?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:45,629 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1279552&margin=margin_small&color=no&ref=haute-marne-521&cross_shop=17309&step=1&session=12547321 ...
+2026-11-05 13:29:45,629 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:45,630 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:45,630 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-savoie-74?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:49,671 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858773&margin=margin_small&color=no&ref=haute-savoie-74&cross_shop=17309&step=1&session=12757916 ...
+2026-11-05 13:29:49,676 - INFO - Successfully scraped:
+{
+    "id": "2-haute-savoie-74?multi=17309-12757916",
+    "workshop_type": 2,
+    "title": "HAUTE-SAVOIE (74)",
+    "start_date": "2026-12-09T18:00:00+01:00",
+    "end_date": "2026-12-09T21:00:00+01:00",
+    "full_location": "Les Petites Cantines Annecy, Avenue Germain Perr\u00e9ard, Annecy, France",
+    "location_name": "Les Petites Cantines Annecy",
+    "address": "13 Avenue Germain Perreard",
+    "city": "Annecy",
+    "department": "74",
+    "zip_code": "74960",
+    "country_code": "fr",
+    "latitude": "45.9098399",
+    "longitude": "6.1118992",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-savoie-74?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858773&margin=margin_small&color=no&ref=haute-savoie-74&cross_shop=17309&step=1&session=12757916",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org",
+    "scrape_date": "2026-11-05T14:29:49.675892+01:00"
+}
+2026-11-05 13:29:49,677 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858773&margin=margin_small&color=no&ref=haute-savoie-74&cross_shop=17309&step=1&session=12827638 ...
+2026-11-05 13:29:49,677 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:49,677 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:29:49,677 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-savoie-74-domino-des-cosystemes-fr?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:50,933 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/haute-savoie-74-domino-des-cosystemes-fr?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:29:50,933 - ERROR - get_dates: Wed Sep 30, 2026 to Thu Dec 31, 2026
+2026-11-05 13:29:50,933 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Wed Sep 30, 2026 to Thu Dec 31, 2026).
+2026-11-05 13:29:50,933 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-sa-ne-701?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:54,358 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1312244&margin=margin_small&color=no&ref=haute-sa-ne-701&cross_shop=17309&step=1&session=12827674 ...
+2026-11-05 13:29:54,359 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:54,359 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:29:54,359 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-vienne-871?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:56,059 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/haute-vienne-871?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:29:56,060 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:29:56,060 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:29:56,060 - INFO - ------------------
+Processing event https://www.billetweb.fr/hautes-alpes-051?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:29:59,017 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308736&margin=margin_small&color=no&ref=hautes-alpes-051&cross_shop=17309&step=1&session=12531935 ...
+2026-11-05 13:29:59,017 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:29:59,018 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:29:59,018 - INFO - ------------------
+Processing event https://www.billetweb.fr/hautes-pyr-n-es-65?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:00,649 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/hautes-pyr-n-es-65?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:30:00,649 - ERROR - get_dates: Sat Jun 27, 2026 to Thu Dec 31, 2026
+2026-11-05 13:30:00,650 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Sat Jun 27, 2026 to Thu Dec 31, 2026).
+2026-11-05 13:30:00,650 - INFO - ------------------
+Processing event https://www.billetweb.fr/hauts-de-seine-78?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:01,913 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/hauts-de-seine-78?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:30:01,914 - ERROR - get_dates: Tue Oct 03, 2023 to Thu Dec 31, 2026
+2026-11-05 13:30:01,914 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Oct 03, 2023 to Thu Dec 31, 2026).
+2026-11-05 13:30:01,914 - INFO - ------------------
+Processing event https://www.billetweb.fr/fresque-de-la-biodiversite-herault?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:04,712 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857927&margin=margin_small&color=no&ref=fresque-de-la-biodiversite-herault&cross_shop=17309&step=1&session=12546284 ...
+2026-11-05 13:30:04,712 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:04,712 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:04,712 - INFO - ------------------
+Processing event https://www.billetweb.fr/le-et-vilaine-34?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:10,094 - INFO - 
+-> Processing session 1/3 https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12775413 ...
+2026-11-05 13:30:10,101 - INFO - Successfully scraped:
+{
+    "id": "2-le-et-vilaine-34?multi=17309-12775413",
+    "workshop_type": 2,
+    "title": "ILLE-ET-VILAINE (35) - RENNES (35)",
+    "start_date": "2026-11-28T08:45:00+01:00",
+    "end_date": "2026-11-28T11:45:00+01:00",
+    "full_location": "Maison de la Consommation et de l'Environnement, 48 Boulevard Magenta, 35000 Rennes,",
+    "location_name": "Maison de la consommation et de l'environnement",
+    "address": "48 Boulevard Magenta",
+    "city": "Rennes",
+    "department": "35",
+    "zip_code": "35000",
+    "country_code": "fr",
+    "latitude": "48.1045925",
+    "longitude": "-1.6738445",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/le-et-vilaine-34?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12775413",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-11-05T14:30:10.101317+01:00"
+}
+2026-11-05 13:30:10,102 - INFO - 
+-> Processing session 2/3 https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12775355 ...
+2026-11-05 13:30:10,107 - INFO - Successfully scraped:
+{
+    "id": "2-le-et-vilaine-34?multi=17309-12775355",
+    "workshop_type": 2,
+    "title": "ILLE-ET-VILAINE (35) - CH\u00c2TEAUBOURG (35)",
+    "start_date": "2027-01-26T18:30:00+01:00",
+    "end_date": "2027-01-26T21:30:00+01:00",
+    "full_location": "Maison Pour Tous, 9 Rue Louis Pasteur, Ch\u00e2teaubourg, France",
+    "location_name": "Rue Louis Pasteur",
+    "address": "Rue Louis Pasteur",
+    "city": "Ch\u00e2teaubourg",
+    "department": "35",
+    "zip_code": "35220",
+    "country_code": "fr",
+    "latitude": "48.1088311",
+    "longitude": "-1.4064344",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/le-et-vilaine-34?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12775355",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-11-05T14:30:10.107157+01:00"
+}
+2026-11-05 13:30:10,108 - INFO - 
+-> Processing session 3/3 https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12546285 ...
+2026-11-05 13:30:10,108 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:10,108 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:10,108 - INFO - ------------------
+Processing event https://www.billetweb.fr/indre-361?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:13,213 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308809&margin=margin_small&color=no&ref=indre-361&cross_shop=17309&step=1&session=12546286 ...
+2026-11-05 13:30:13,213 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:13,214 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:13,214 - INFO - ------------------
+Processing event https://www.billetweb.fr/indre-et-loire-37?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:16,345 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858388&margin=margin_small&color=no&ref=indre-et-loire-37&cross_shop=17309&step=1&session=12546288 ...
+2026-11-05 13:30:16,345 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:16,345 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:16,345 - INFO - ------------------
+Processing event https://www.billetweb.fr/is-re-38?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:17,701 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/is-re-38?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:30:17,702 - ERROR - get_dates: Sat Sep 09, 2023 to Tue Dec 31, 2030
+2026-11-05 13:30:17,702 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Sat Sep 09, 2023 to Tue Dec 31, 2030).
+2026-11-05 13:30:17,702 - INFO - ------------------
+Processing event https://www.billetweb.fr/jura-391?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:21,070 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1439752&margin=margin_small&color=no&ref=jura-391&cross_shop=17309&step=1&session=12547175 ...
+2026-11-05 13:30:21,070 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:21,070 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:21,070 - INFO - ------------------
+Processing event https://www.billetweb.fr/landes-401?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:24,021 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308815&margin=margin_small&color=no&ref=landes-401&cross_shop=17309&step=1&session=12547177 ...
+2026-11-05 13:30:24,022 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:24,022 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:24,022 - INFO - ------------------
+Processing event https://www.billetweb.fr/loir-et-cher-411?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:26,935 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1308816&margin=margin_small&color=no&ref=loir-et-cher-411&cross_shop=17309&step=1&session=12547178 ...
+2026-11-05 13:30:26,935 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:26,936 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:26,936 - INFO - ------------------
+Processing event https://www.billetweb.fr/loire-421?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:29,820 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1419148&margin=margin_small&color=no&ref=loire-421&cross_shop=17309&step=1&session=12547180 ...
+2026-11-05 13:30:29,821 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:29,821 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:29,821 - INFO - ------------------
+Processing event https://www.billetweb.fr/loire-atlantique-44?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:34,074 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858418&margin=margin_small&color=no&ref=loire-atlantique-44&cross_shop=17309&step=1&session=12789418 ...
+2026-11-05 13:30:34,081 - INFO - Successfully scraped:
+{
+    "id": "2-loire-atlantique-44?multi=17309-12789418",
+    "workshop_type": 2,
+    "title": "LOIRE-ATLANTIQUE (44) - NANTES (44)",
+    "start_date": "2026-11-05T18:30:00+01:00",
+    "end_date": "2026-11-05T21:30:00+01:00",
+    "full_location": "La Galerie du Z\u00e9ro D\u00e9chet, 5 Rue F\u00e9nelon, 44000 Nantes, France",
+    "location_name": "",
+    "address": "5 Rue F\u00e9nelon",
+    "city": "Nantes",
+    "department": "44",
+    "zip_code": "44000",
+    "country_code": "fr",
+    "latitude": "47.2171252",
+    "longitude": "-1.5539414",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": true,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/loire-atlantique-44?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858418&margin=margin_small&color=no&ref=loire-atlantique-44&cross_shop=17309&step=1&session=12789418",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-11-05T14:30:34.080645+01:00"
+}
+2026-11-05 13:30:34,082 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858418&margin=margin_small&color=no&ref=loire-atlantique-44&cross_shop=17309&step=1&session=12547184 ...
+2026-11-05 13:30:34,082 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:34,082 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:34,082 - INFO - ------------------
+Processing event https://www.billetweb.fr/loire-atlantique-44-domino-des-cosystemes-fr?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:37,120 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1467141&margin=margin_small&color=no&ref=loire-atlantique-44-domino-des-cosystemes-fr&cross_shop=17309&step=1&session=12757407 ...
+2026-11-05 13:30:37,120 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:30:37,120 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:30:37,121 - INFO - ------------------
+Processing event https://www.billetweb.fr/loiret-45?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:39,954 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858421&margin=margin_small&color=no&ref=loiret-45&cross_shop=17309&step=1&session=12547186 ...
+2026-11-05 13:30:39,954 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:39,954 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:39,954 - INFO - ------------------
+Processing event https://www.billetweb.fr/lot-461?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:41,767 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/lot-461?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:30:41,767 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:41,767 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:41,768 - INFO - ------------------
+Processing event https://www.billetweb.fr/lot-et-garonne-473?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:44,651 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1419156&margin=margin_small&color=no&ref=lot-et-garonne-473&cross_shop=17309&step=1&session=12547190 ...
+2026-11-05 13:30:44,651 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:44,652 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:44,652 - INFO - ------------------
+Processing event https://www.billetweb.fr/loz-re-481?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:47,508 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1419160&margin=margin_small&color=no&ref=loz-re-481&cross_shop=17309&step=1&session=12547192 ...
+2026-11-05 13:30:47,509 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:47,509 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:47,509 - INFO - ------------------
+Processing event https://www.billetweb.fr/luxembourg9?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:49,177 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/luxembourg9?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:30:49,178 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:30:49,178 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:30:49,178 - INFO - ------------------
+Processing event https://www.billetweb.fr/maine-et-loire-49?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:52,061 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858433&margin=margin_small&color=no&ref=maine-et-loire-49&cross_shop=17309&step=1&session=12547255 ...
+2026-11-05 13:30:52,062 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:52,062 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:52,062 - INFO - ------------------
+Processing event https://www.billetweb.fr/manche-50?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:54,806 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858439&margin=margin_small&color=no&ref=manche-50&cross_shop=17309&step=1&session=12547256 ...
+2026-11-05 13:30:54,806 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:30:54,806 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:30:54,806 - INFO - ------------------
+Processing event https://www.billetweb.fr/marne-51-domino-des-cosystemes-fr?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:30:57,699 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1467129&margin=margin_small&color=no&ref=marne-51-domino-des-cosystemes-fr&cross_shop=17309&step=1&session=12757410 ...
+2026-11-05 13:30:57,699 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:30:57,700 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:30:57,700 - INFO - ------------------
+Processing event https://www.billetweb.fr/marne-511?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:00,584 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1439763&margin=margin_small&color=no&ref=marne-511&cross_shop=17309&step=1&session=12547319 ...
+2026-11-05 13:31:00,584 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:31:00,584 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:31:00,584 - INFO - ------------------
+Processing event https://www.billetweb.fr/mayenne-531?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:03,467 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1312204&margin=margin_small&color=no&ref=mayenne-531&cross_shop=17309&step=1&session=12547323 ...
+2026-11-05 13:31:03,467 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:31:03,467 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:31:03,467 - INFO - ------------------
+Processing event https://www.billetweb.fr/meurthe-et-moselle-541?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:06,298 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1419162&margin=margin_small&color=no&ref=meurthe-et-moselle-541&cross_shop=17309&step=1&session=12547325 ...
+2026-11-05 13:31:06,298 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-05 13:31:06,298 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-11-05 13:31:06,299 - INFO - ------------------
+Processing event https://www.billetweb.fr/meuse-551?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:09,184 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1312213&margin=margin_small&color=no&ref=meuse-551&cross_shop=17309&step=1&session=12827688 ...
+2026-11-05 13:31:09,185 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:09,185 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:09,185 - INFO - ------------------
+Processing event https://www.billetweb.fr/morbihan-56?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:13,166 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858469&margin=margin_small&color=no&ref=morbihan-56&cross_shop=17309&step=1&session=12021787 ...
+2026-11-05 13:31:13,167 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-11-05 13:31:13,167 - INFO - Rejecting record: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann)..
+2026-11-05 13:31:13,167 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858469&margin=margin_small&color=no&ref=morbihan-56&cross_shop=17309&step=1&session=12827648 ...
+2026-11-05 13:31:13,167 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:13,167 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:13,167 - INFO - ------------------
+Processing event https://www.billetweb.fr/morbihan-56-domino-des-cosystemes?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:16,023 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1469453&margin=margin_small&color=no&ref=morbihan-56-domino-des-cosystemes&cross_shop=17309&step=1&session=12757399 ...
+2026-11-05 13:31:16,023 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:16,024 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:16,024 - INFO - ------------------
+Processing event https://www.billetweb.fr/moselle-572?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:17,442 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/moselle-572?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:31:17,443 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:17,443 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:17,443 - INFO - ------------------
+Processing event https://www.billetweb.fr/mural-de-la-biodiversidad-en-linea?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:19,491 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/mural-de-la-biodiversidad-en-linea?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:31:19,492 - ERROR - get_dates: Thu Jul 06, 2023 to Thu Dec 31, 2026
+2026-11-05 13:31:19,492 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Jul 06, 2023 to Thu Dec 31, 2026).
+2026-11-05 13:31:19,492 - INFO - ------------------
+Processing event https://www.billetweb.fr/netherlands-biodiversity-collage-en?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:22,544 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1221740&margin=margin_small&color=no&ref=netherlands-biodiversity-collage-en&cross_shop=17309&step=1&session=11995688 ...
+2026-11-05 13:31:22,545 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-11-05 13:31:22,545 - INFO - Rejecting record: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag)..
+2026-11-05 13:31:22,545 - INFO - ------------------
+Processing event https://www.billetweb.fr/ni-vre-581?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:25,461 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1312217&margin=margin_small&color=no&ref=ni-vre-581&cross_shop=17309&step=1&session=12827660 ...
+2026-11-05 13:31:25,462 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:25,462 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:25,462 - INFO - ------------------
+Processing event https://www.billetweb.fr/nord-59?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:28,356 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858490&margin=margin_small&color=no&ref=nord-59&cross_shop=17309&step=1&session=12792379 ...
+2026-11-05 13:31:28,357 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:28,357 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:28,357 - INFO - ------------------
+Processing event https://www.billetweb.fr/oise-601?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:31,172 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1483595&margin=margin_small&color=no&ref=oise-601&cross_shop=17309&step=1&session=12827661 ...
+2026-11-05 13:31:31,172 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:31,172 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:31,173 - INFO - ------------------
+Processing event https://www.billetweb.fr/biodiversity-collage-online?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:32,172 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/biodiversity-collage-online?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:31:32,172 - ERROR - get_dates: Wed Feb 23, 2022 to Thu Dec 31, 2026
+2026-11-05 13:31:32,172 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Wed Feb 23, 2022 to Thu Dec 31, 2026).
+2026-11-05 13:31:32,172 - INFO - ------------------
+Processing event https://www.billetweb.fr/orne-611?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:33,404 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/orne-611?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:31:33,404 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:33,404 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:33,405 - INFO - ------------------
+Processing event https://www.billetweb.fr/paris-75?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:37,561 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858776&margin=margin_small&color=no&ref=paris-75&cross_shop=17309&step=1&session=12775401 ...
+2026-11-05 13:31:37,579 - INFO - Successfully scraped:
+{
+    "id": "2-paris-75?multi=17309-12775401",
+    "workshop_type": 2,
+    "title": "PARIS (75) - PARIS (18)",
+    "start_date": "2026-11-09T18:30:00+01:00",
+    "end_date": "2026-11-09T21:30:00+01:00",
+    "full_location": "La REcyclerie, 83 Boulevard Ornano, 75018 Paris, France",
+    "location_name": "La Recyclerie",
+    "address": "83 Boulevard Ornano",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75018",
+    "country_code": "fr",
+    "latitude": "48.8976218",
+    "longitude": "2.3440598",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858776&margin=margin_small&color=no&ref=paris-75&cross_shop=17309&step=1&session=12775401",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n  L'atelier est \u00e0 montant libre \u00e0 partir de 1 \u20ac : donnez ce qui vous semble \u00eatre juste pour soutenir l'association, reconna\u00eetre la valeur de l'atelier et du temps pass\u00e9, et selon vos moyens : \nAvec 5 \u20ac, vous couvrez les frais d'organisation des ateliers\nAvec 15 \u20ac, vous couvrez les frais d'organisation des ateliers et permettez \u00e0 l'association de continuer \u00e0 exercer son activit\u00e9 \nAvec 30 \u20ac, vous couvrez les frais d'organisation des ateliers, permettez \u00e0 l'association de d\u00e9velopper son activit\u00e9 et soutenez la sensibilisation de nouveaux publics\nTarif recommand\u00e9 pour les entreprises : entre 120 \u20ac et 150 \u20ac / personne (dans la limite de 2 salari\u00e9s par entreprise)\n  Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n   ",
+    "scrape_date": "2026-11-05T14:31:37.579266+01:00"
+}
+2026-11-05 13:31:37,581 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858776&margin=margin_small&color=no&ref=paris-75&cross_shop=17309&step=1&session=12611486 ...
+2026-11-05 13:31:37,581 - ERROR - get_address: Address "{'shop': 'librairie Utopia', 'house_number': '1', 'locality': 'Rue Frédéric Sauton', 'city_block': 'Quartier Saint-Victor', 'suburb': 'Paris 5e Arrondissement', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '75005', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Librairie Utopia, 1 Rue Frédéric Sauton, Paris, France).
+2026-11-05 13:31:37,584 - INFO - Rejecting record: Address "{'shop': 'librairie Utopia', 'house_number': '1', 'locality': 'Rue Frédéric Sauton', 'city_block': 'Quartier Saint-Victor', 'suburb': 'Paris 5e Arrondissement', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '75005', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Librairie Utopia, 1 Rue Frédéric Sauton, Paris, France)..
+2026-11-05 13:31:37,584 - INFO - ------------------
+Processing event https://www.billetweb.fr/paris-75-domino-des-cosystemes?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:40,387 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1475715&margin=margin_small&color=no&ref=paris-75-domino-des-cosystemes&cross_shop=17309&step=1&session=12775390 ...
+2026-11-05 13:31:40,387 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:40,388 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:40,388 - INFO - ------------------
+Processing event https://www.billetweb.fr/pas-de-calais-62?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:43,399 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858502&margin=margin_small&color=no&ref=pas-de-calais-62&cross_shop=17309&step=1&session=12827663 ...
+2026-11-05 13:31:43,399 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:43,399 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:43,399 - INFO - ------------------
+Processing event https://www.billetweb.fr/puy-de-d-me-631?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:45,001 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/puy-de-d-me-631?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:31:45,002 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:45,002 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:45,002 - INFO - ------------------
+Processing event https://www.billetweb.fr/pyr-n-es-atlantiques-64?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:47,857 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858511&margin=margin_small&color=no&ref=pyr-n-es-atlantiques-64&cross_shop=17309&step=1&session=12827665 ...
+2026-11-05 13:31:47,857 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:47,858 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:47,858 - INFO - ------------------
+Processing event https://www.billetweb.fr/pyr-n-es-orientales-662?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:50,612 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1419203&margin=margin_small&color=no&ref=pyr-n-es-orientales-662&cross_shop=17309&step=1&session=12827670 ...
+2026-11-05 13:31:50,612 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:50,612 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:50,612 - INFO - ------------------
+Processing event https://www.billetweb.fr/rh-ne-69-domino-des-cosystemes-fr?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:53,513 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1467104&margin=margin_small&color=no&ref=rh-ne-69-domino-des-cosystemes-fr&cross_shop=17309&step=1&session=12757411 ...
+2026-11-05 13:31:53,513 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:53,513 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:53,513 - INFO - ------------------
+Processing event https://www.billetweb.fr/rh-ne-69-liste-dattente?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:56,330 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1480044&margin=margin_small&color=no&ref=rh-ne-69-liste-dattente&cross_shop=17309&step=1&session=12804432 ...
+2026-11-05 13:31:56,331 - ERROR - get_dates: Mon Dec 31, 2029
+2026-11-05 13:31:56,331 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Mon Dec 31, 2029).
+2026-11-05 13:31:56,331 - INFO - ------------------
+Processing event https://www.billetweb.fr/sarthe-72?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:31:59,224 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858767&margin=margin_small&color=no&ref=sarthe-72&cross_shop=17309&step=1&session=12827681 ...
+2026-11-05 13:31:59,225 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:31:59,225 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:31:59,225 - INFO - ------------------
+Processing event https://www.billetweb.fr/savoie-732?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:02,187 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1350830&margin=margin_small&color=no&ref=savoie-732&cross_shop=17309&step=1&session=12827690 ...
+2026-11-05 13:32:02,188 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:02,188 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:02,188 - INFO - ------------------
+Processing event https://www.billetweb.fr/sa-ne-et-loire-711?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:05,216 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858613&margin=margin_small&color=no&ref=sa-ne-et-loire-711&cross_shop=17309&step=1&session=12827676 ...
+2026-11-05 13:32:05,217 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:05,217 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:05,217 - INFO - ------------------
+Processing event https://www.billetweb.fr/seine-et-marne-77?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:06,495 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/seine-et-marne-77?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:32:06,495 - ERROR - get_dates: Sat Jul 15, 2023 to Thu Dec 31, 2026
+2026-11-05 13:32:06,495 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Sat Jul 15, 2023 to Thu Dec 31, 2026).
+2026-11-05 13:32:06,495 - INFO - ------------------
+Processing event https://www.billetweb.fr/seine-maritime-76?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:09,841 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858779&margin=margin_small&color=no&ref=seine-maritime-76&cross_shop=17309&step=1&session=12827691 ...
+2026-11-05 13:32:09,842 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:09,842 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:09,842 - INFO - ------------------
+Processing event https://www.billetweb.fr/seine-saint-denis-93?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:12,707 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=862846&margin=margin_small&color=no&ref=seine-saint-denis-93&cross_shop=17309&step=1&session=12757413 ...
+2026-11-05 13:32:12,707 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:12,707 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:12,708 - INFO - ------------------
+Processing event https://www.billetweb.fr/seine-saint-denis-931?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:15,481 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1484018&margin=margin_small&color=no&ref=seine-saint-denis-931&cross_shop=17309&step=1&session=12829762 ...
+2026-11-05 13:32:15,482 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:15,482 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:15,482 - INFO - ------------------
+Processing event https://www.billetweb.fr/somme-801?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:18,309 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1315893&margin=margin_small&color=no&ref=somme-801&cross_shop=17309&step=1&session=12827745 ...
+2026-11-05 13:32:18,309 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:18,310 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:18,310 - INFO - ------------------
+Processing event https://www.billetweb.fr/tarn-813?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:21,176 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1372342&margin=margin_small&color=no&ref=tarn-813&cross_shop=17309&step=1&session=12827747 ...
+2026-11-05 13:32:21,177 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:21,177 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:21,177 - INFO - ------------------
+Processing event https://www.billetweb.fr/tarn-et-garonne-821?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:23,953 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1315898&margin=margin_small&color=no&ref=tarn-et-garonne-821&cross_shop=17309&step=1&session=12827748 ...
+2026-11-05 13:32:23,953 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:23,954 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:23,954 - INFO - ------------------
+Processing event https://www.billetweb.fr/territoire-de-belfort-901?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:26,758 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1315929&margin=margin_small&color=no&ref=territoire-de-belfort-901&cross_shop=17309&step=1&session=12827759 ...
+2026-11-05 13:32:26,758 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:26,758 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:26,759 - INFO - ------------------
+Processing event https://www.billetweb.fr/val-doise-951?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:27,997 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/val-doise-951?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:32:27,998 - ERROR - get_dates: Wed Jul 01, 2026 to Tue Dec 31, 2030
+2026-11-05 13:32:27,998 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Wed Jul 01, 2026 to Tue Dec 31, 2030).
+2026-11-05 13:32:27,998 - INFO - ------------------
+Processing event https://www.billetweb.fr/val-de-marne-94?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:31,506 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=862849&margin=margin_small&color=no&ref=val-de-marne-94&cross_shop=17309&step=1&session=12827763 ...
+2026-11-05 13:32:31,506 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:31,507 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:31,507 - INFO - ------------------
+Processing event https://www.billetweb.fr/var-83?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:34,381 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=862825&margin=margin_small&color=no&ref=var-83&cross_shop=17309&step=1&session=12613406 ...
+2026-11-05 13:32:34,382 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:34,382 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:34,382 - INFO - ------------------
+Processing event https://www.billetweb.fr/vaucluse-841?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:37,271 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1391213&margin=margin_small&color=no&ref=vaucluse-841&cross_shop=17309&step=1&session=12827749 ...
+2026-11-05 13:32:37,272 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:37,274 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:37,274 - INFO - ------------------
+Processing event https://www.billetweb.fr/fresque-biodiversite-vendee?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:40,204 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=862816&margin=margin_small&color=no&ref=fresque-biodiversite-vendee&cross_shop=17309&step=1&session=12827750 ...
+2026-11-05 13:32:40,204 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:40,204 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:40,205 - INFO - ------------------
+Processing event https://www.billetweb.fr/vienne-866?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:43,219 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1422058&margin=margin_small&color=no&ref=vienne-866&cross_shop=17309&step=1&session=12827752 ...
+2026-11-05 13:32:43,219 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:43,219 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:43,219 - INFO - ------------------
+Processing event https://www.billetweb.fr/vosges-881?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:44,423 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/vosges-881?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:32:44,424 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:44,424 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:44,424 - INFO - ------------------
+Processing event https://www.billetweb.fr/yonne-891?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:45,944 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/yonne-891?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite ...
+2026-11-05 13:32:45,944 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:45,944 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:45,944 - INFO - ------------------
+Processing event https://www.billetweb.fr/yvelines-78?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-11-05 13:32:48,415 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858791&margin=margin_small&color=no&ref=yvelines-78&cross_shop=17309&step=1&session=12827744 ...
+2026-11-05 13:32:48,415 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-05 13:32:48,416 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Thu Dec 31, 2026).
+2026-11-05 13:32:49,315 - INFO - Saved 871 geocode cache entries to .geocode_cache.json
+2026-11-05 13:32:50,206 - INFO - Scraping data from eventbrite (new template)
+2026-11-05 13:32:50,737 - INFO - Playwright stealth browser initialized successfully
+2026-11-05 13:32:50,923 - INFO - ==================
+Processing page {'name': 'Circular Economy Collage', 'url': 'https://www.eventbrite.fr/o/fresque-de-leconomie-circulaire-68155531313', 'type': 'scraper', 'id': 300}
+2026-11-05 13:32:55,882 - INFO - Extracted 3 links from __NEXT_DATA__ (total: 3, has_more: False)
+2026-11-05 13:32:55,889 - INFO - Total links collected: 3
+2026-11-05 13:32:55,889 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-in-dubai-united-arab-emirates-tickets-2001901487238 ...
+2026-11-05 13:33:02,204 - ERROR - get_address: Address "{'suburb': 'أم سقيم 1', 'city': 'دبي', 'ISO3166-2-lvl10': 'AE-DU', 'state': 'دبي', 'ISO3166-2-lvl4': 'AE-DU', 'country': 'الإمارات العربية المتحدة', 'country_code': 'ae'}" is not located in a supported country (input: Zeyaar Street 107, Villa 7, Umm Suqeim 1, Dubai).
+2026-11-05 13:33:02,204 - INFO - Rejecting record: Address "{'suburb': 'أم سقيم 1', 'city': 'دبي', 'ISO3166-2-lvl10': 'AE-DU', 'state': 'دبي', 'ISO3166-2-lvl4': 'AE-DU', 'country': 'الإمارات العربية المتحدة', 'country_code': 'ae'}" is not located in a supported country (input: Zeyaar Street 107, Villa 7, Umm Suqeim 1, Dubai)..
+2026-11-05 13:33:02,204 - INFO - 
+-> Processing https://www.eventbrite.fr/e/billets-fresque-de-leconomie-circulaire-a-louveigne-belgique-2004255539271 ...
+2026-11-05 13:33:08,212 - ERROR - get_address: Address "{'road': 'Rue de Hotchamps', 'city_district': 'Louveigné', 'town': 'Sprimont', 'county': 'Liège', 'state': 'Liège', 'ISO3166-2-lvl6': 'BE-WLG', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '4141', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue de Hotchamps).
+2026-11-05 13:33:08,213 - INFO - Rejecting record: Address "{'road': 'Rue de Hotchamps', 'city_district': 'Louveigné', 'town': 'Sprimont', 'county': 'Liège', 'state': 'Liège', 'ISO3166-2-lvl6': 'BE-WLG', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '4141', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue de Hotchamps)..
+2026-11-05 13:33:08,213 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987998568233 ...
+2026-11-05 13:33:44,442 - INFO - Successfully scraped https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987998568233
+{
+    "id": "300-1987998568233",
+    "workshop_type": 300,
+    "title": "Circular Economy Collage online",
+    "start_date": "2026-11-30T13:00:00+01:00",
+    "end_date": "2026-11-30T16:00:00+01:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987998568233",
+    "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987998568233",
+    "description": "A fun and educational workshop using collective intelligence to explain the issues surrounding our use of natural resources.",
+    "scrape_date": "2026-11-05T14:33:44.432502+01:00"
+}
+2026-11-05 13:33:44,539 - INFO - Browser closed successfully
+2026-11-05 13:33:44,569 - INFO - Saved 871 geocode cache entries to .geocode_cache.json
