@@ -1,0 +1,155 @@
+2026-11-10 12:52:30,273 - ERROR - get_address: Address not found (input: La casita, association bénévole, 189 Lot. Lasserre, 31460 Caraman
+).
+2026-11-10 12:53:15,450 - ERROR - get_address: Address not found (input: ).
+2026-11-10 12:53:28,127 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-11-10 12:53:28,376 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-11-10 12:53:28,376 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-11-10 12:53:28,377 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-11-10 12:53:28,377 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-11-10 12:53:28,377 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-11-10 12:53:28,378 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-11-10 12:53:28,378 - ERROR - get_address: Address not found (input: Centre culturel - Théâtre des Mazades, 10 Avenue des Mazades, 31200 Toulouse, Franc).
+2026-11-10 12:53:46,866 - ERROR - get_dates: Mon Jan 29, 2024 to Fri Nov 20, 2026
+2026-11-10 12:53:52,624 - ERROR - get_dates: Tue Oct 10, 2023 to Thu May 27, 2027
+2026-11-10 12:54:09,963 - ERROR - get_address: Address not found (input: Immeuble le Quadri, 47 Avenue des Pays Bas, Rennes, France / 3ème étage).
+2026-11-10 12:54:27,613 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, Passage Jaqueline Giraud, Paris, France).
+2026-11-10 12:54:29,598 - ERROR - get_address: Address "{'tourism': "Muséum d'Histoire Naturelle", 'locality': 'Rue Espérandieu', 'quarter': 'Les Cinq-Avenues', 'suburb': 'Marseille 4e Arrondissement', 'city': 'Marseille', 'municipality': 'Marseille', 'county': 'Bouches-du-Rhône', 'ISO3166-2-lvl6': 'FR-13', 'state': "Provence-Alpes-Côte d'Azur", 'ISO3166-2-lvl4': 'FR-PAC', 'region': 'France métropolitaine', 'postcode': '13004', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Muséum d'histoire naturelle de Marseille, Rue Espérandieu, Marseille, France).
+2026-11-10 12:54:39,199 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:54:42,349 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:54:45,061 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:54:47,804 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:54:50,600 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:54:53,281 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:54:56,026 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:54:58,823 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:01,517 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:04,497 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:07,290 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:10,189 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:15,606 - ERROR - get_address: Department Department number. not recognized.
+2026-11-10 12:55:15,607 - ERROR - get_address: Department Department number. not recognized.
+2026-11-10 12:55:15,607 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:55:19,719 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:55:19,719 - ERROR - get_address: Address "{'amenity': "L'Envol", 'house_number': '16', 'road': 'Rue de Saint-Ghislain', 'village': 'Chièvres', 'municipality': 'Chièvres', 'county': 'Ath', 'state': 'Hainaut', 'ISO3166-2-lvl6': 'BE-WHT', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '7950', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue de Saint-Ghislain 16, 7950 Chièvres, Belgique).
+2026-11-10 12:55:22,463 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:55:25,261 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:28,103 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:30,800 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:33,590 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:36,297 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:38,979 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:41,676 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:44,365 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:47,144 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:49,860 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:52,531 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:55:55,288 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:55:58,131 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:01,031 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:04,092 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:08,104 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:56:15,925 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:56:18,670 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:21,489 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:24,279 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:27,126 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:29,885 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:32,646 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:35,354 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:56:38,076 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:40,891 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:43,660 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:46,502 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:56:50,480 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:56:53,161 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:56:55,992 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:56:58,729 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:57:01,421 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:04,300 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:57:08,406 - ERROR - get_address: Address "{'postcode': '92150', 'suburb': 'Quartier Mont-Valérien', 'town': 'Suresnes', 'municipality': 'Nanterre', 'county': 'Hauts-de-Seine', 'ISO3166-2-lvl6': 'FR-92', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Square Germain Bazin, 92150 Suresnes, France).
+2026-11-10 12:57:08,407 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:57:11,131 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:16,263 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:19,060 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:21,992 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:24,877 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:27,832 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:30,554 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:33,387 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:36,214 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:39,026 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:41,835 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:57:44,661 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:47,321 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:50,043 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:52,733 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:57:55,505 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:57:58,241 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:58:00,951 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:58:03,692 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:06,513 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:58:09,203 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:58:12,011 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:58:14,682 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:18,671 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-11-10 12:58:18,671 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:21,503 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:24,245 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:27,215 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:30,116 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-11-10 12:58:33,052 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:35,933 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:38,672 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:42,542 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:45,280 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:51,027 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:53,943 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:56,800 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:58:59,478 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:02,238 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:05,165 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:08,157 - ERROR - get_dates: Mon Dec 31, 2029
+2026-11-10 12:59:10,997 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:13,802 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:16,524 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:19,288 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:22,230 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:25,007 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:27,699 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:30,404 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:33,190 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:36,033 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:38,749 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:41,502 - ERROR - get_dates: Tue Dec 31, 2030
+2026-11-10 12:59:44,257 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:47,209 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:49,965 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:52,813 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:55,673 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 12:59:58,534 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 13:00:01,345 - ERROR - get_dates: Thu Dec 31, 2026
+2026-11-10 13:00:02,807 - ERROR - get_dates: Sat Jun 10, 2023 to Thu Dec 31, 2026
+2026-11-10 13:00:30,148 - ERROR - get_address: Address not found (input: So Watt ! Tiers-lieu, 35-37 Avenue du Maréchal de Lattre de Tassigny, Saint-André-l).
+2026-11-10 13:00:40,296 - ERROR - get_address: Address not found (input: Maison du Zéro Déchet, 1 Passage Jaqueline Giraud, 75012 Paris, France).
+2026-11-10 13:01:24,807 - ERROR - get_address: Address not found (input: Le HangarT, 14 Rue Garibaldi, Lille - Accessible PMR).
+2026-11-10 13:01:31,622 - ERROR - get_address: Address not found (input: Éco'Logis 17A Rue Duchesne Rabier, 45200 Montargis - Pas d'accès PMR).
+2026-11-10 13:01:41,265 - ERROR - get_address: Address not found (input: Le Récif, 68 rue Sainte 2eme étage 13001 Marseille).
+2026-11-10 13:01:41,266 - ERROR - get_address: Address not found (input: Le Récif, 68 rue Sainte 2eme étage 13001 Marseille).
+2026-11-10 13:01:49,141 - ERROR - get_address: Address not found (input: Le Grand Bain, 20 Allée de la Maison Rouge, Nantes - Accès PMR sur demande).
+2026-11-10 13:02:04,099 - ERROR - get_address: Address not found (input: Pavi'On, Parc du Cinquantenaire 15, 1000 Bruxelles, Accessible PMR).
+2026-11-10 13:02:48,533 - ERROR - get_address: Address not found (input: Moulin d'Opio 1 Place de la Font Neuve, 06650 OPIO, France).
+2026-11-10 13:02:55,634 - ERROR - get_address: Address "{'city': 'Nantes', 'municipality': 'Nantes', 'county': 'Loire-Atlantique', 'ISO3166-2-lvl6': 'FR-44', 'state': 'Pays de la Loire', 'ISO3166-2-lvl4': 'FR-PDL', 'region': 'France métropolitaine', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 5 Allée Frida Khalo, Nantes, France).
+2026-11-10 13:03:02,283 - ERROR - get_address: Address "{'house_number': '7', 'road': 'Rue du Grand Hospice - Grootgodshuisstraat', 'neighbourhood': 'Quartier des Quais - Kaaienwijk', 'suburb': 'Pentagone - Vijfhoek', 'city_district': 'Bruxelles - Brussel', 'city': 'Bruxelles - Brussel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1000', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue du Grand Hospice 7, Bruxelles, Belgique).
+2026-11-10 13:03:30,251 - ERROR - get_address: Address "{'village': 'Bellefontaine', 'municipality': 'Saint-Pierre', 'state': 'Martinique', 'ISO3166-2-lvl4': 'FR-972', 'ISO3166-2-lvl3': 'FR-972', 'postcode': '97222', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 263 Lot. de Fond Boucher, Bellefontaine 97222, Martinique).
+2026-11-10 13:04:12,347 - ERROR - get_dates: 
+2026-11-10 13:04:14,198 - ERROR - get_dates: 
+2026-11-10 13:04:44,580 - ERROR - get_address: Address "{'suburb': 'أم سقيم 1', 'city': 'دبي', 'ISO3166-2-lvl10': 'AE-DU', 'state': 'دبي', 'ISO3166-2-lvl4': 'AE-DU', 'country': 'الإمارات العربية المتحدة', 'country_code': 'ae'}" is not located in a supported country (input: Zeyaar Street 107, Villa 7, Umm Suqeim 1, Dubai).
+2026-11-10 13:04:51,008 - ERROR - get_address: Address "{'road': 'Rue de Hotchamps', 'city_district': 'Louveigné', 'town': 'Sprimont', 'county': 'Liège', 'state': 'Liège', 'ISO3166-2-lvl6': 'BE-WLG', 'ISO3166-2-lvl4': 'BE-WAL', 'postcode': '4141', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue de Hotchamps).
+2026-11-10 13:06:06,398 - ERROR - get_address: Address not found (input: https://us02web.zoom.us/j/5237374613?pwd=SVhLZnIxcU5ZQkRpSjlLU2w4b3BoZz09 ).
+2026-11-10 13:06:06,398 - ERROR - get_address: Address "{'house_number': '7', 'road': 'Rue du Grand Hospice - Grootgodshuisstraat', 'neighbourhood': 'Quartier des Quais - Kaaienwijk', 'suburb': 'Pentagone - Vijfhoek', 'city_district': 'Bruxelles - Brussel', 'city': 'Bruxelles - Brussel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1000', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Rue du Grand Hospice 7, 1000 Bruxelles, Belgique).
+2026-11-10 13:06:06,402 - ERROR - get_address: Address not found (input: https://us02web.zoom.us/j/5237374613?pwd=SVhLZnIxcU5ZQkRpSjlLU2w4b3BoZz09).
+2026-11-10 13:06:06,403 - ERROR - get_address: Address not found (input: https://us02web.zoom.us/j/5237374613?pwd=SVhLZnIxcU5ZQkRpSjlLU2w4b3BoZz09).
+2026-11-10 13:06:06,403 - ERROR - get_address: Address not found (input: Ecocentre du Périgord, Lieu-dit Froidefond, 193 All. de la Source Froide, 24450 Saint-Pierre-de-Frugie, France).
+2026-11-10 13:06:06,466 - ERROR - get_address: Address not found (input: La Maison du Zéro Déchet, 1 Pass. Jaqueline Giraud, 75012 Paris, France).
+2026-11-10 13:06:06,466 - ERROR - get_address: Address "{'house_number': '64', 'road': 'Rue du Doyenné - Dekenijstraat', 'neighbourhood': 'Globe', 'town': 'Uccle - Ukkel', 'county': 'Brussel-Hoofdstad - Bruxelles-Capitale', 'region': 'Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest', 'ISO3166-2-lvl4': 'BE-BRU', 'postcode': '1180', 'country': 'België / Belgique / Belgien', 'country_code': 'be'}" is not located in a supported country (input: Bibliothèque d'Uccle-Centre, Rue du Doyenné 64, 1180 Uccle, Belgique).
+2026-11-10 13:06:06,478 - ERROR - get_address: Address not found (input: https://us02web.zoom.us/j/5237374613?pwd=SVhLZnIxcU5ZQkRpSjlLU2w4b3BoZz09 ).
